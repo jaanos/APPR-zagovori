@@ -40,3 +40,6 @@
 [submodule "2015-20-01-torek/Lea-Tehovnik"]
 	path = 2015-20-01-torek/Lea-Tehovnik
 	url = git@github.com:LeaTehovnik/APPR-2014-15.git
+[submodule "2015-21-01-sreda/Neza-Ahcin"]
+	path = 2015-21-01-sreda/Neza-Ahcin
+	url = git@github.com:Ahcinn13/APPR-2014-15.git
