@@ -1,0 +1,42 @@
+[submodule "2015-21-01-sreda/Zana-Stekovic"]
+	path = 2015-21-01-sreda/Zana-Stekovic
+	url = git@github.com:StekovicZ12/APPR-2014-15.git
+[submodule "2015-20-01-torek/Vid-Starc"]
+	path = 2015-20-01-torek/Vid-Starc
+	url = git@github.com:VidStarc/APPR-2014-15.git
+[submodule "2015-23-01-petek/Valentina-Gnamus"]
+	path = 2015-23-01-petek/Valentina-Gnamus
+	url = git@github.com:Valchy94/APPR-2014-15.git
+[submodule "2015-21-01-sreda/Urska-Bele"]
+	path = 2015-21-01-sreda/Urska-Bele
+	url = git@github.com:urskabele/APPR-2014-15.git
+[submodule "2015-20-01-torek/Teja-Rupnik"]
+	path = 2015-20-01-torek/Teja-Rupnik
+	url = git@github.com:TejaR/APPR-2014-15.git
+[submodule "2015-21-01-sreda/Spela-Povrzenic"]
+	path = 2015-21-01-sreda/Spela-Povrzenic
+	url = git@github.com:spelapovrzenic/APPR-2014-15.git
+[submodule "2015-21-01-sreda/Spela-Dugar"]
+	path = 2015-21-01-sreda/Spela-Dugar
+	url = git@github.com:speladugar/APPR-2014-15.git
+[submodule "2015-20-01-torek/Samo-Metlicar"]
+	path = 2015-20-01-torek/Samo-Metlicar
+	url = git@github.com:SamoFMF/APPR-2014-15.git
+[submodule "2015-21-01-sreda/Pika-Remskar"]
+	path = 2015-21-01-sreda/Pika-Remskar
+	url = git@github.com:PikkaR/APPR-2014-15.git
+[submodule "2015-21-01-sreda/Mirjam-Pergar"]
+	path = 2015-21-01-sreda/Mirjam-Pergar
+	url = git@github.com:BraMira/APPR-2014-15.git
+[submodule "2015-20-01-torek/Matevz-Nolimal"]
+	path = 2015-20-01-torek/Matevz-Nolimal
+	url = git@github.com:nolimal/APPR-2014-15.git
+[submodule "2015-21-01-sreda/Mateja-Smrekar"]
+	path = 2015-21-01-sreda/Mateja-Smrekar
+	url = git@github.com:smrekarm12/APPR-2014-15.git
+[submodule "2015-23-01-petek/Marusa-Valant"]
+	path = 2015-23-01-petek/Marusa-Valant
+	url = git@github.com:marushezz/APPR-2014-15.git
+[submodule "2015-20-01-torek/Lea-Tehovnik"]
+	path = 2015-20-01-torek/Lea-Tehovnik
+	url = git@github.com:LeaTehovnik/APPR-2014-15.git
