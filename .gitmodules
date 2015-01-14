@@ -43,3 +43,33 @@
 [submodule "2015-21-01-sreda/Neza-Ahcin"]
 	path = 2015-21-01-sreda/Neza-Ahcin
 	url = git@github.com:Ahcinn13/APPR-2014-15.git
+[submodule "2015-20-01-torek/Rok-Zadravec"]
+	path = 2015-20-01-torek/Rok-Zadravec
+	url = git@github.com:Geckaa/APPR-2014-15.git
+[submodule "2015-20-01-torek/Tina-Hawlina"]
+	path = 2015-20-01-torek/Tina-Hawlina
+	url = git@github.com:tinahawlina/APPR-2014-15.git
+[submodule "2015-21-01-sreda/Jure-Zukanovic"]
+	path = 2015-21-01-sreda/Jure-Zukanovic
+	url = git@github.com:Zulkinho/APPR-2014-15.git
+[submodule "2015-20-01-torek/Jakob-Lenarcic"]
+	path = 2015-20-01-torek/Jakob-Lenarcic
+	url = git@github.com:jlenarcic/APPR-2014-15.git
+[submodule "2015-21-01-sreda/Filip-Lenarcic"]
+	path = 2015-21-01-sreda/Filip-Lenarcic
+	url = git@github.com:filiplenarcic/APPR-2014-15.git
+[submodule "2015-20-01-torek/Dzevada-Dzafic"]
+	path = 2015-20-01-torek/Dzevada-Dzafic
+	url = git@github.com:DzaficD13/APPR-2014-15.git
+[submodule "2015-21-01-sreda/Damjan-Manevski"]
+	path = 2015-21-01-sreda/Damjan-Manevski
+	url = git@github.com:damjanm/APPR-2014-15.git
+[submodule "2015-20-01-torek/Blaz-Orsos"]
+	path = 2015-20-01-torek/Blaz-Orsos
+	url = git@github.com:BlazOrsos/APPR-2014-15.git
+[submodule "2015-20-01-torek/Anja-Zavrl"]
+	path = 2015-20-01-torek/Anja-Zavrl
+	url = git@github.com:anjazavrl/APPR-2014-15.git
+[submodule "2015-23-01-petek/Anja-Skube"]
+	path = 2015-23-01-petek/Anja-Skube
+	url = git@github.com:anjaskube/APPR-2014-15.git
