@@ -17,3 +17,18 @@ Na zadnjo različico vašega projekta greste tako, da pri izbiri zraven zelenega
 jaanos/APPR-2014-15@8742abbc785f62fa2535821fc9048c91b9ad85f5
 ```
 Najprej torej navedite svoje uporabniško ime, nato za `/` ime svojega repozitorija, nazadnje pa za `@` še vsaj prvih sedem števk šifre commita. GitHub vam bo avtomatsko pretvoril tak niz v povezavo na vaš commit (to lahko preverite, če kliknete na _View_, da vidite, kako vaš issue izgleda).
+
+## Zakaj ni povezave do mojega projekta?
+
+Če povezave do vašega projekta še ni v tem repozitoriju, je razlog vsaj eden od naslednjih:
+
+- Niste dosegli 3. faze projekta.
+- Niste se prijavili na termin predstavitve.
+- Program ne deluje.
+- Poročila ne prevede.
+ 
+Da boste pripravljeni na predstavitev, torej poskrbite, da so vse zgornje točke pokrite. Ko je to urejeno, odprite issue z enakimi podatki kot zgoraj, pa bom preveril in dodal vaš projekt.
+
+## Zamenjava termina
+
+Če bi kdo želel zamenjati termin svoje predstavitve, naj to najprej naredi na spletni učilnici, potem pa še tukaj odpre issue, da premaknem povezavo. Šifre commita ob tem ni potrebno navajati, če ni prišlo do spremembe.
