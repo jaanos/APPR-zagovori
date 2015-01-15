@@ -1,8 +1,8 @@
 [submodule "2015-21-01-sreda/Zana-Stekovic"]
 	path = 2015-21-01-sreda/Zana-Stekovic
 	url = git@github.com:StekovicZ12/APPR-2014-15.git
-[submodule "2015-20-01-torek/Vid-Starc"]
-	path = 2015-20-01-torek/Vid-Starc
+[submodule "2015-01-20-torek/Vid-Starc"]
+	path = 2015-01-20-torek/Vid-Starc
 	url = git@github.com:VidStarc/APPR-2014-15.git
 [submodule "2015-23-01-petek/Valentina-Gnamus"]
 	path = 2015-23-01-petek/Valentina-Gnamus
@@ -10,8 +10,8 @@
 [submodule "2015-21-01-sreda/Urska-Bele"]
 	path = 2015-21-01-sreda/Urska-Bele
 	url = git@github.com:urskabele/APPR-2014-15.git
-[submodule "2015-20-01-torek/Teja-Rupnik"]
-	path = 2015-20-01-torek/Teja-Rupnik
+[submodule "2015-01-20-torek/Teja-Rupnik"]
+	path = 2015-01-20-torek/Teja-Rupnik
 	url = git@github.com:TejaR/APPR-2014-15.git
 [submodule "2015-21-01-sreda/Spela-Povrzenic"]
 	path = 2015-21-01-sreda/Spela-Povrzenic
@@ -19,8 +19,8 @@
 [submodule "2015-21-01-sreda/Spela-Dugar"]
 	path = 2015-21-01-sreda/Spela-Dugar
 	url = git@github.com:speladugar/APPR-2014-15.git
-[submodule "2015-20-01-torek/Samo-Metlicar"]
-	path = 2015-20-01-torek/Samo-Metlicar
+[submodule "2015-01-20-torek/Samo-Metlicar"]
+	path = 2015-01-20-torek/Samo-Metlicar
 	url = git@github.com:SamoFMF/APPR-2014-15.git
 [submodule "2015-21-01-sreda/Pika-Remskar"]
 	path = 2015-21-01-sreda/Pika-Remskar
@@ -28,8 +28,8 @@
 [submodule "2015-21-01-sreda/Mirjam-Pergar"]
 	path = 2015-21-01-sreda/Mirjam-Pergar
 	url = git@github.com:BraMira/APPR-2014-15.git
-[submodule "2015-20-01-torek/Matevz-Nolimal"]
-	path = 2015-20-01-torek/Matevz-Nolimal
+[submodule "2015-01-20-torek/Matevz-Nolimal"]
+	path = 2015-01-20-torek/Matevz-Nolimal
 	url = git@github.com:nolimal/APPR-2014-15.git
 [submodule "2015-21-01-sreda/Mateja-Smrekar"]
 	path = 2015-21-01-sreda/Mateja-Smrekar
@@ -37,38 +37,38 @@
 [submodule "2015-23-01-petek/Marusa-Valant"]
 	path = 2015-23-01-petek/Marusa-Valant
 	url = git@github.com:marushezz/APPR-2014-15.git
-[submodule "2015-20-01-torek/Lea-Tehovnik"]
-	path = 2015-20-01-torek/Lea-Tehovnik
+[submodule "2015-01-20-torek/Lea-Tehovnik"]
+	path = 2015-01-20-torek/Lea-Tehovnik
 	url = git@github.com:LeaTehovnik/APPR-2014-15.git
 [submodule "2015-21-01-sreda/Neza-Ahcin"]
 	path = 2015-21-01-sreda/Neza-Ahcin
 	url = git@github.com:Ahcinn13/APPR-2014-15.git
-[submodule "2015-20-01-torek/Rok-Zadravec"]
-	path = 2015-20-01-torek/Rok-Zadravec
+[submodule "2015-01-20-torek/Rok-Zadravec"]
+	path = 2015-01-20-torek/Rok-Zadravec
 	url = git@github.com:Geckaa/APPR-2014-15.git
-[submodule "2015-20-01-torek/Tina-Hawlina"]
-	path = 2015-20-01-torek/Tina-Hawlina
+[submodule "2015-01-20-torek/Tina-Hawlina"]
+	path = 2015-01-20-torek/Tina-Hawlina
 	url = git@github.com:tinahawlina/APPR-2014-15.git
 [submodule "2015-21-01-sreda/Jure-Zukanovic"]
 	path = 2015-21-01-sreda/Jure-Zukanovic
 	url = git@github.com:Zulkinho/APPR-2014-15.git
-[submodule "2015-20-01-torek/Jakob-Lenarcic"]
-	path = 2015-20-01-torek/Jakob-Lenarcic
+[submodule "2015-01-20-torek/Jakob-Lenarcic"]
+	path = 2015-01-20-torek/Jakob-Lenarcic
 	url = git@github.com:jlenarcic/APPR-2014-15.git
 [submodule "2015-21-01-sreda/Filip-Lenarcic"]
 	path = 2015-21-01-sreda/Filip-Lenarcic
 	url = git@github.com:filiplenarcic/APPR-2014-15.git
-[submodule "2015-20-01-torek/Dzevada-Dzafic"]
-	path = 2015-20-01-torek/Dzevada-Dzafic
+[submodule "2015-01-20-torek/Dzevada-Dzafic"]
+	path = 2015-01-20-torek/Dzevada-Dzafic
 	url = git@github.com:DzaficD13/APPR-2014-15.git
 [submodule "2015-21-01-sreda/Damjan-Manevski"]
 	path = 2015-21-01-sreda/Damjan-Manevski
 	url = git@github.com:damjanm/APPR-2014-15.git
-[submodule "2015-20-01-torek/Blaz-Orsos"]
-	path = 2015-20-01-torek/Blaz-Orsos
+[submodule "2015-01-20-torek/Blaz-Orsos"]
+	path = 2015-01-20-torek/Blaz-Orsos
 	url = git@github.com:BlazOrsos/APPR-2014-15.git
-[submodule "2015-20-01-torek/Anja-Zavrl"]
-	path = 2015-20-01-torek/Anja-Zavrl
+[submodule "2015-01-20-torek/Anja-Zavrl"]
+	path = 2015-01-20-torek/Anja-Zavrl
 	url = git@github.com:anjazavrl/APPR-2014-15.git
 [submodule "2015-23-01-petek/Anja-Skube"]
 	path = 2015-23-01-petek/Anja-Skube
