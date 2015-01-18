@@ -31,4 +31,4 @@ Da boste pripravljeni na predstavitev, torej poskrbite, da so vse zgornje točke
 
 ## Zamenjava termina
 
-Če bi kdo želel zamenjati termin svoje predstavitve, naj to najprej naredi na spletni učilnici, potem pa še tukaj odpre issue, da premaknem povezavo. Šifre commita ob tem ni potrebno navajati, če ni prišlo do spremembe.
+Če bi kdo želel zamenjati termin svoje predstavitve, naj to najprej naredi na spletni učilnici, potem pa še tukaj odpre issue, da premaknem povezavo. Šifre commita ob tem ni potrebno navajati, če ni prišlo do spremembe. Če bi si rada dva (ali več) izmenjala termina, pa prosim, da v issueju podate uporabniška imena vseh vpletenih v zamenjavo v obliki `@jaanos` (torej `@`, ki ji takoj sledi uporabniško ime) - ti bodo tako obveščeni o issueju in naj nanj odgovorijo, če se z zamenjavo strinjajo.
