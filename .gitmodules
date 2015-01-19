@@ -34,8 +34,8 @@
 [submodule "2015-01-21-sreda/Mateja-Smrekar"]
 	path = 2015-01-21-sreda/Mateja-Smrekar
 	url = git@github.com:smrekarm12/APPR-2014-15.git
-[submodule "2015-01-23-petek/Marusa-Valant"]
-	path = 2015-01-23-petek/Marusa-Valant
+[submodule "2015-01-21-sreda/Marusa-Valant"]
+	path = 2015-01-21-sreda/Marusa-Valant
 	url = git@github.com:marushezz/APPR-2014-15.git
 [submodule "2015-01-20-torek/Lea-Tehovnik"]
 	path = 2015-01-20-torek/Lea-Tehovnik
