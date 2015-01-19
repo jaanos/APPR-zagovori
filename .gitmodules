@@ -91,3 +91,6 @@
 [submodule "2015-01-20-torek/Sanja-Milojevic"]
 	path = 2015-01-20-torek/Sanja-Milojevic
 	url = git@github.com:SanjaAudi/APPR-2014-15.git
+[submodule "2015-01-21-sreda/Ziga-Kodric"]
+	path = 2015-01-21-sreda/Ziga-Kodric
+	url = git@github.com:zigakodric/APPR-2014-15.git
