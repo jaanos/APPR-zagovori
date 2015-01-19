@@ -76,3 +76,12 @@
 [submodule "2015-01-23-petek/Katarina-Sutar"]
 	path = 2015-01-23-petek/Katarina-Sutar
 	url = git@github.com:SKatarina/APPR-2014-15.git
+[submodule "2015-01-23-petek/Spela-Lacen"]
+	path = 2015-01-23-petek/Spela-Lacen
+	url = git@github.com:LacenS/APPR-2014-15.git
+[submodule "2015-01-20-torek/Just-Bajzelj"]
+	path = 2015-01-20-torek/Just-Bajzelj
+	url = git@github.com:justjuust/APPR-2014-15.git
+[submodule "2015-01-23-petek/Katarina-Cerne"]
+	path = 2015-01-23-petek/Katarina-Cerne
+	url = git@github.com:CerneK12/APPR-2014-15.git
