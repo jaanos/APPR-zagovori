@@ -100,3 +100,6 @@
 [submodule "2015-01-23-petek/Tatijana-Slijepcevic"]
 	path = 2015-01-23-petek/Tatijana-Slijepcevic
 	url = git@github.com:statijana/APPR-2014-15.git
+[submodule "2015-01-21-sreda/Neja-Pletikos"]
+	path = 2015-01-21-sreda/Neja-Pletikos
+	url = git@github.com:nejapletikos/APPR-2014-15.git
