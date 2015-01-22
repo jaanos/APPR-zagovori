@@ -103,3 +103,6 @@
 [submodule "2015-01-21-sreda/Neja-Pletikos"]
 	path = 2015-01-21-sreda/Neja-Pletikos
 	url = git@github.com:nejapletikos/APPR-2014-15.git
+[submodule "2015-01-23-petek/Marko-Jordan"]
+	path = 2015-01-23-petek/Marko-Jordan
+	url = git@github.com:qwer317/APPR-2014-15.git
