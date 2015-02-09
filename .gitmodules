@@ -106,3 +106,6 @@
 [submodule "2015-01-23-petek/Marko-Jordan"]
 	path = 2015-01-23-petek/Marko-Jordan
 	url = git@github.com:qwer317/APPR-2014-15.git
+[submodule "2015-02-09_13/Rok-Zadravec"]
+	path = 2015-02-09_13/Rok-Zadravec
+	url = git@github.com:Geckaa/APPR-2014-15.git
