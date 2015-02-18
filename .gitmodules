@@ -112,3 +112,6 @@
 [submodule "2015-02-16_20/Matevz-Nolimal"]
 	path = 2015-02-16_20/Matevz-Nolimal
 	url = git@github.com:nolimal/APPR-2014-15.git
+[submodule "2015-02-16_20/Spela-Povrzenic"]
+	path = 2015-02-16_20/Spela-Povrzenic
+	url = git@github.com:spelapovrzenic/APPR-2014-15.git
