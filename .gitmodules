@@ -118,3 +118,6 @@
 [submodule "2015-02-16_20/Vid-Starc"]
 	path = 2015-02-16_20/Vid-Starc
 	url = git@github.com:VidStarc/APPR-2014-15.git
+[submodule "2015-02-16_20/Mirjam-Pergar"]
+	path = 2015-02-16_20/Mirjam-Pergar
+	url = git@github.com:BraMira/APPR-2014-15.git
