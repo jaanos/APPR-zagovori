@@ -121,3 +121,9 @@
 [submodule "2015-02-16_20/Mirjam-Pergar"]
 	path = 2015-02-16_20/Mirjam-Pergar
 	url = git@github.com:BraMira/APPR-2014-15.git
+[submodule "2015-02-23_28/Urska-Bele"]
+	path = 2015-02-23_28/Urska-Bele
+	url = git@github.com:urskabele/APPR-2014-15.git
+[submodule "2015-02-23_28/Marusa-Valant"]
+	path = 2015-02-23_28/Marusa-Valant
+	url = git@github.com:marushezz/APPR-2014-15.git
