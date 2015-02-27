@@ -127,3 +127,6 @@
 [submodule "2015-02-23_28/Marusa-Valant"]
 	path = 2015-02-23_28/Marusa-Valant
 	url = git@github.com:marushezz/APPR-2014-15.git
+[submodule "2015-02-23_28/Spela-Dugar"]
+	path = 2015-02-23_28/Spela-Dugar
+	url = git@github.com:speladugar/APPR-2014-15.git
