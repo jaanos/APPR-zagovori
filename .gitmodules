@@ -136,3 +136,18 @@
 [submodule "2015-02-23_28/Samo-Metlicar"]
 	path = 2015-02-23_28/Samo-Metlicar
 	url = git@github.com:SamoFMF/APPR-2014-15.git
+[submodule "2015-02-23_28/Jure-Zukanovic"]
+	path = 2015-02-23_28/Jure-Zukanovic
+	url = git@github.com:Zulkinho/APPR-2014-15.git
+[submodule "2015-02-23_28/Valentina-Gnamus"]
+	path = 2015-02-23_28/Valentina-Gnamus
+	url = git@github.com:Valchy94/APPR-2014-15.git
+[submodule "2015-02-23_28/Tatijana-Slijepcevic"]
+	path = 2015-02-23_28/Tatijana-Slijepcevic
+	url = git@github.com:statijana/APPR-2014-15.git
+[submodule "2015-02-23_28/Damjan-Manevski"]
+	path = 2015-02-23_28/Damjan-Manevski
+	url = git@github.com:damjanm/APPR-2014-15.git
+[submodule "2015-02-23_28/Just-Bajzelj"]
+	path = 2015-02-23_28/Just-Bajzelj
+	url = git@github.com:justjuust/APPR-2014-15.git
