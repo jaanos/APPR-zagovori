@@ -166,3 +166,6 @@
 [submodule "2015-03-02_06/Dzevada-Dzafic"]
 	path = 2015-03-02_06/Dzevada-Dzafic
 	url = git@github.com:DzaficD13/APPR-2014-15.git
+[submodule "2015-03-02_06/Anja-Skube"]
+	path = 2015-03-02_06/Anja-Skube
+	url = git@github.com:anjaskube/APPR-2014-15.git
