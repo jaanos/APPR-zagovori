@@ -163,3 +163,6 @@
 [submodule "2015-02-23_28/Neza-Ahcin"]
 	path = 2015-02-23_28/Neza-Ahcin
 	url = git@github.com:Ahcinn13/APPR-2014-15.git
+[submodule "2015-03-02_06/Dzevada-Dzafic"]
+	path = 2015-03-02_06/Dzevada-Dzafic
+	url = git@github.com:DzaficD13/APPR-2014-15.git
