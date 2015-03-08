@@ -181,3 +181,6 @@
 [submodule "2015-03-02_06/Tomaz-Pustotnik"]
 	path = 2015-03-02_06/Tomaz-Pustotnik
 	url = git@github.com:pustotnk/APPR-2014-15.git
+[submodule "2015-03-02_06/Filip-Lenarcic"]
+	path = 2015-03-02_06/Filip-Lenarcic
+	url = git@github.com:filiplenarcic/APPR-2014-15.git
