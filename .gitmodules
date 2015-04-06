@@ -193,3 +193,6 @@
 [submodule "2015-03-16_20/Pika-Remskar"]
 	path = 2015-03-16_20/Pika-Remskar
 	url = git@github.com:PikkaR/APPR-2014-15.git
+[submodule "2015-03-23_27/Katarina-Cerne"]
+	path = 2015-03-23_27/Katarina-Cerne
+	url = git@github.com:CerneK12/APPR-2014-15.git
