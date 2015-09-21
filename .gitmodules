@@ -196,3 +196,6 @@
 [submodule "2015-03-23_27/Katarina-Cerne"]
 	path = 2015-03-23_27/Katarina-Cerne
 	url = git@github.com:CerneK12/APPR-2014-15.git
+[submodule "2015-09-21_25/Katarina-Sutar"]
+	path = 2015-09-21_25/Katarina-Sutar
+	url = git@github.com:SKatarina/APPR-2014-15.git
