@@ -199,3 +199,6 @@
 [submodule "2015-09-21_25/Katarina-Sutar"]
 	path = 2015-09-21_25/Katarina-Sutar
 	url = git@github.com:SKatarina/APPR-2014-15.git
+[submodule "2015-09-21_25/Ziga-Kodric"]
+	path = 2015-09-21_25/Ziga-Kodric
+	url = git@github.com:zigakodric/APPR-2014-15.git
