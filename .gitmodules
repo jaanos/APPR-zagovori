@@ -13,3 +13,9 @@
 [submodule "predstavitve/Vesna-Zupanc"]
 	path = predstavitve/Vesna-Zupanc
 	url = git@github.com:vesnazupanc/APPR-2015-16.git
+[submodule "predstavitve/Lonja-Tjasa-Tavcar"]
+	path = predstavitve/Lonja-Tjasa-Tavcar
+	url = git@github.com:LonjaTT/APPR-2015-16.git
+[submodule "predstavitve/Manca-Cor"]
+	path = predstavitve/Manca-Cor
+	url = git@bitbucket.org:rahlocutnacigra/appr-2015-16.git
