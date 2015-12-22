@@ -49,3 +49,6 @@
 [submodule "predstavitve/Pia-Modrijan"]
 	path = predstavitve/Pia-Modrijan
 	url = git@github.com:PiaM123/APPR-2015-16.git
+[submodule "predstavitve/Andraz-Pirnovar"]
+	path = predstavitve/Andraz-Pirnovar
+	url = git@github.com:PirnovarA/APPR-2015-16.git
