@@ -22,3 +22,21 @@
 [submodule "predstavitve/Jan-Perme"]
 	path = predstavitve/Jan-Perme
 	url = git@github.com:Jan-hexit/APPR-2015-16.git
+[submodule "predstavitve/Valentina-Pucer"]
+	path = predstavitve/Valentina-Pucer
+	url = git@github.com:valentina2pucer/APPR-2015-16.git
+[submodule "predstavitve/Sara-Korat"]
+	path = predstavitve/Sara-Korat
+	url = git@github.com:Charisa/APPR-2015-16.git
+[submodule "predstavitve/Patrik-Gorse"]
+	path = predstavitve/Patrik-Gorse
+	url = git@github.com:aleksandrov2/APPR-2015-16.git
+[submodule "predstavitve/Marina-Sirk"]
+	path = predstavitve/Marina-Sirk
+	url = git@github.com:marinasirk/APPR-2015-16.git
+[submodule "predstavitve/Marvin-Herzog"]
+	path = predstavitve/Marvin-Herzog
+	url = git@github.com:MarvinHerzog/APPR-2015-16.git
+[submodule "predstavitve/Jakov-Kavcic"]
+	path = predstavitve/Jakov-Kavcic
+	url = git@github.com:jakov-kavcic/APPR-2015-16.git
