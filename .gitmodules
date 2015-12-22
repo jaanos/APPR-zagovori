@@ -40,3 +40,12 @@
 [submodule "predstavitve/Jakov-Kavcic"]
 	path = predstavitve/Jakov-Kavcic
 	url = git@github.com:jakov-kavcic/APPR-2015-16.git
+[submodule "predstavitve/Zan-Tavcar"]
+	path = predstavitve/Zan-Tavcar
+	url = git@github.com:zantavcar/APPR-2015-16.git
+[submodule "predstavitve/Taja-Debeljak"]
+	path = predstavitve/Taja-Debeljak
+	url = git@github.com:tajadebeljak/APPR-2015-16.git
+[submodule "predstavitve/Pia-Modrijan"]
+	path = predstavitve/Pia-Modrijan
+	url = git@github.com:PiaM123/APPR-2015-16.git
