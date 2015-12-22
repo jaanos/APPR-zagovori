@@ -1,0 +1,15 @@
+[submodule "predstavitve/Anamarija-Mijatovic"]
+	path = predstavitve/Anamarija-Mijatovic
+	url = git@github.com:aniiiim/APPR-2015-16.git
+[submodule "predstavitve/Anja-Leskovsek"]
+	path = predstavitve/Anja-Leskovsek
+	url = git@github.com:Anchiqua/APPR-2015-16.git
+[submodule "predstavitve/Katarina-Kromar"]
+	path = predstavitve/Katarina-Kromar
+	url = git@github.com:katykro/APPR-2015-16.git
+[submodule "predstavitve/Martin-Pezdir"]
+	path = predstavitve/Martin-Pezdir
+	url = git@github.com:PezdirM14/APPR-2015-16.git
+[submodule "predstavitve/Vesna-Zupanc"]
+	path = predstavitve/Vesna-Zupanc
+	url = git@github.com:vesnazupanc/APPR-2015-16.git
