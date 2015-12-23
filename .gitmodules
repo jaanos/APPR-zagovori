@@ -52,3 +52,27 @@
 [submodule "predstavitve/Andraz-Pirnovar"]
 	path = predstavitve/Andraz-Pirnovar
 	url = git@github.com:PirnovarA/APPR-2015-16.git
+[submodule "predstavitve/Kaja-Vezensek"]
+	path = predstavitve/Kaja-Vezensek
+	url = git@github.com:VezensekKaja/APPR-2015-16.git
+[submodule "predstavitve/Nadja-Legan"]
+	path = predstavitve/Nadja-Legan
+	url = git@github.com:NadjaLegan/APPR-2015-16.git
+[submodule "predstavitve/Uros-Krampelj"]
+	path = predstavitve/Uros-Krampelj
+	url = git@github.com:UrosKrampelj/APPR-2015-16.git
+[submodule "predstavitve/Jakob-Jelencic"]
+	path = predstavitve/Jakob-Jelencic
+	url = git@github.com:masterlord99/APPR-2015-16.git
+[submodule "predstavitve/Urska-Rozman"]
+	path = predstavitve/Urska-Rozman
+	url = git@github.com:rozmanU14/APPR-2015-16.git
+[submodule "predstavitve/Veronika-Nabergoj"]
+	path = predstavitve/Veronika-Nabergoj
+	url = git@github.com:NabergojV/APPR-2015-16.git
+[submodule "predstavitve/Zan-Sifrer"]
+	path = predstavitve/Zan-Sifrer
+	url = git@github.com:stifler9/ANPP-2015-16.git
+[submodule "predstavitve/Ziga-Potrebujes"]
+	path = predstavitve/Ziga-Potrebujes
+	url = git@github.com:ZigaP/APPR-2015-16.git
