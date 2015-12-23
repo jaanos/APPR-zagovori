@@ -76,3 +76,9 @@
 [submodule "predstavitve/Ziga-Potrebujes"]
 	path = predstavitve/Ziga-Potrebujes
 	url = git@github.com:ZigaP/APPR-2015-16.git
+[submodule "predstavitve/Laura-Stangelj"]
+	path = predstavitve/Laura-Stangelj
+	url = git@github.com:StangeljL12/APPR-2015-16.git
+[submodule "predstavitve/Gal-Drnovsek"]
+	path = predstavitve/Gal-Drnovsek
+	url = git@github.com:GalDrnovsek/APPR-2015-16.git
