@@ -82,3 +82,6 @@
 [submodule "predstavitve/Gal-Drnovsek"]
 	path = predstavitve/Gal-Drnovsek
 	url = git@github.com:GalDrnovsek/APPR-2015-16.git
+[submodule "predstavitve/Mojca-Zilavec"]
+	path = predstavitve/Mojca-Zilavec
+	url = git@github.com:ZilavecM14/APPR-2015-16.git
