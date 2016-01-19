@@ -85,3 +85,60 @@
 [submodule "predstavitve/Mojca-Zilavec"]
 	path = predstavitve/Mojca-Zilavec
 	url = git@github.com:ZilavecM14/APPR-2015-16.git
+[submodule "predstavitve-faza3/Anamarija-Mijatovic"]
+	path = predstavitve-faza3/Anamarija-Mijatovic
+	url = https://github.com/aniiiim/APPR-2015-16.git
+[submodule "predstavitve-faza3/Andraz-Pirnovar"]
+	path = predstavitve-faza3/Andraz-Pirnovar
+	url = https://github.com/PirnovarA/APPR-2015-16.git
+[submodule "predstavitve-faza3/Jakob-Jelencic"]
+	path = predstavitve-faza3/Jakob-Jelencic
+	url = https://github.com/masterlord99/APPR-2015-16.git
+[submodule "predstavitve-faza3/Katarina-Kromar"]
+	path = predstavitve-faza3/Katarina-Kromar
+	url = https://github.com/katykro/APPR-2015-16.git
+[submodule "predstavitve-faza3/Lonja-Tjasa-Tavcar"]
+	path = predstavitve-faza3/Lonja-Tjasa-Tavcar
+	url = https://github.com/LonjaTT/APPR-2015-16.git
+[submodule "predstavitve-faza3/Manca-Cor"]
+	path = predstavitve-faza3/Manca-Cor
+	url = git@bitbucket.org:rahlocutnacigra/appr-2015-16.git
+[submodule "predstavitve-faza3/Marina-Sirk"]
+	path = predstavitve-faza3/Marina-Sirk
+	url = https://github.com/marinasirk/APPR-2015-16.git
+[submodule "predstavitve-faza3/Martin-Pezdir"]
+	path = predstavitve-faza3/Martin-Pezdir
+	url = https://github.com/PezdirM14/APPR-2015-16.git
+[submodule "predstavitve-faza3/Marvin-Herzog"]
+	path = predstavitve-faza3/Marvin-Herzog
+	url = https://github.com/MarvinHerzog/APPR-2015-16.git
+[submodule "predstavitve-faza3/Patrik-Gorse"]
+	path = predstavitve-faza3/Patrik-Gorse
+	url = https://github.com/aleksandrov2/APPR-2015-16.git
+[submodule "predstavitve-faza3/Pia-Modrijan"]
+	path = predstavitve-faza3/Pia-Modrijan
+	url = https://github.com/PiaM123/APPR-2015-16.git
+[submodule "predstavitve-faza3/Sara-Korat"]
+	path = predstavitve-faza3/Sara-Korat
+	url = https://github.com/Charisa/APPR-2015-16.git
+[submodule "predstavitve-faza3/Taja-Debeljak"]
+	path = predstavitve-faza3/Taja-Debeljak
+	url = https://github.com/tajadebeljak/APPR-2015-16.git
+[submodule "predstavitve-faza3/Urska-Rozman"]
+	path = predstavitve-faza3/Urska-Rozman
+	url = https://github.com/rozmanU14/APPR-2015-16.git
+[submodule "predstavitve-faza3/Valentina-Pucer"]
+	path = predstavitve-faza3/Valentina-Pucer
+	url = https://github.com/valentina2pucer/APPR-2015-16.git
+[submodule "predstavitve-faza3/Veronika-Nabergoj"]
+	path = predstavitve-faza3/Veronika-Nabergoj
+	url = https://github.com/NabergojV/APPR-2015-16.git
+[submodule "predstavitve-faza3/Zan-Sifrer"]
+	path = predstavitve-faza3/Zan-Sifrer
+	url = https://github.com/stifler9/ANPP-2015-16.git
+[submodule "predstavitve-faza3/Zan-Tavcar"]
+	path = predstavitve-faza3/Zan-Tavcar
+	url = https://github.com/zantavcar/APPR-2015-16.git
+[submodule "predstavitve-faza3/Ziga-Potrebujes"]
+	path = predstavitve-faza3/Ziga-Potrebujes
+	url = https://github.com/ZigaP/APPR-2015-16.git
