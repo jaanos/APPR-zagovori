@@ -142,3 +142,6 @@
 [submodule "predstavitve-faza3/Ziga-Potrebujes"]
 	path = predstavitve-faza3/Ziga-Potrebujes
 	url = https://github.com/ZigaP/APPR-2015-16.git
+[submodule "predstavitve-faza3/Kaja-Vezensek"]
+	path = predstavitve-faza3/Kaja-Vezensek
+	url = https://github.com/VezensekKaja/APPR-2015-16.git
