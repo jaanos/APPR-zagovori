@@ -145,3 +145,12 @@
 [submodule "predstavitve-faza3/Kaja-Vezensek"]
 	path = predstavitve-faza3/Kaja-Vezensek
 	url = https://github.com/VezensekKaja/APPR-2015-16.git
+[submodule "predstavitve-faza3/Dejan-Gasparic"]
+	path = predstavitve-faza3/Dejan-Gasparic
+	url = https://github.com/gasparicdejan/APPR-2015-16.git
+[submodule "predstavitve-faza3/Uros-Krampelj"]
+	path = predstavitve-faza3/Uros-Krampelj
+	url = https://github.com/UrosKrampelj/APPR-2015-16.git
+[submodule "predstavitve-faza3/Mojca-Zilavec"]
+	path = predstavitve-faza3/Mojca-Zilavec
+	url = https://github.com/ZilavecM14/APPR-2015-16.git
