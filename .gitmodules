@@ -154,3 +154,6 @@
 [submodule "predstavitve-faza3/Mojca-Zilavec"]
 	path = predstavitve-faza3/Mojca-Zilavec
 	url = https://github.com/ZilavecM14/APPR-2015-16.git
+[submodule "predstavitve-faza3/Jan-Perme"]
+	path = predstavitve-faza3/Jan-Perme
+	url = https://github.com/Jan-hexit/APPR-2015-16.git
