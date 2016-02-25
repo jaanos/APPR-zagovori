@@ -169,3 +169,6 @@
 [submodule "2016-02-22_26/Zan-Tavcar"]
 	path = 2016-02-22_26/Zan-Tavcar
 	url = https://github.com/zantavcar/APPR-2015-16.git
+[submodule "2016-02-22_26/Marina-Sirk"]
+	path = 2016-02-22_26/Marina-Sirk
+	url = https://github.com/marinasirk/APPR-2015-16.git
