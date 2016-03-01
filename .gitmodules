@@ -190,3 +190,12 @@
 [submodule "2016-02-29_03-04/Gal-Drnovsek"]
 	path = 2016-02-29_03-04/Gal-Drnovsek
 	url = https://github.com/GalDrnovsek/APPR-2015-16.git
+[submodule "2016-02-29_03-04/Patrik-Gorse"]
+	path = 2016-02-29_03-04/Patrik-Gorse
+	url = https://github.com/aleksandrov2/APPR-2015-16.git
+[submodule "2016-02-29_03-04/Sara-Korat"]
+	path = 2016-02-29_03-04/Sara-Korat
+	url = https://github.com/Charisa/APPR-2015-16.git
+[submodule "2016-02-29_03-04/Andraz-Pirnovar"]
+	path = 2016-02-29_03-04/Andraz-Pirnovar
+	url = https://github.com/PirnovarA/APPR-2015-16.git
