@@ -199,3 +199,6 @@
 [submodule "2016-02-29_03-04/Andraz-Pirnovar"]
 	path = 2016-02-29_03-04/Andraz-Pirnovar
 	url = https://github.com/PirnovarA/APPR-2015-16.git
+[submodule "2016-02-29_03-04/Veronika-Nabergoj"]
+	path = 2016-02-29_03-04/Veronika-Nabergoj
+	url = https://github.com/NabergojV/APPR-2015-16.git
