@@ -205,3 +205,6 @@
 [submodule "2016-03-14_18/Valentina-Pucer"]
 	path = 2016-03-14_18/Valentina-Pucer
 	url = https://github.com/valentina2pucer/APPR-2015-16.git
+[submodule "2016-03-28_04-01/Kaja-Vezensek"]
+	path = 2016-03-28_04-01/Kaja-Vezensek
+	url = https://github.com/VezensekKaja/APPR-2015-16.git
