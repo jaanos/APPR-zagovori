@@ -211,3 +211,6 @@
 [submodule "2016-03-28_04-01/Mojca-Zilavec"]
 	path = 2016-03-28_04-01/Mojca-Zilavec
 	url = https://github.com/ZilavecM14/APPR-2015-16.git
+[submodule "2016-03-28_04-01/Vesna-Zupanc"]
+	path = 2016-03-28_04-01/Vesna-Zupanc
+	url = https://github.com/vesnazupanc/APPR-2015-16.git
