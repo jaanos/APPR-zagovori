@@ -217,3 +217,6 @@
 [submodule "2016-03-28_04-01/Jan-Perme"]
 	path = 2016-03-28_04-01/Jan-Perme
 	url = https://github.com/Jan-hexit/APPR-2015-16.git
+[submodule "2016-03-28_04-01/Taja-Debeljak"]
+	path = 2016-03-28_04-01/Taja-Debeljak
+	url = https://github.com/tajadebeljak/APPR-2015-16.git
