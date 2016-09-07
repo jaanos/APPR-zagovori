@@ -223,3 +223,6 @@
 [submodule "2016-09-05_09/Martin-Pezdir"]
 	path = 2016-09-05_09/Martin-Pezdir
 	url = https://github.com/PezdirM14/APPR-2015-16.git
+[submodule "2016-09-05_09/Ziga-Potrebujes"]
+	path = 2016-09-05_09/Ziga-Potrebujes
+	url = https://github.com/ZigaP/APPR-2015-16.git
