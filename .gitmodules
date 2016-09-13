@@ -226,3 +226,6 @@
 [submodule "2016-09-05_09/Ziga-Potrebujes"]
 	path = 2016-09-05_09/Ziga-Potrebujes
 	url = https://github.com/ZigaP/APPR-2015-16.git
+[submodule "2016-09-12_16/Laura-Stangelj"]
+	path = 2016-09-12_16/Laura-Stangelj
+	url = https://github.com/StangeljL12/APPR-2015-16.git
