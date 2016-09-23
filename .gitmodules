@@ -232,3 +232,6 @@
 [submodule "2016-09-19_23/Uros-Krampelj"]
 	path = 2016-09-19_23/Uros-Krampelj
 	url = https://github.com/UrosKrampelj/APPR-2015-16.git
+[submodule "2016-09-19_23/Manca-Cor"]
+	path = 2016-09-19_23/Manca-Cor
+	url = git@bitbucket.org:rahlocutnacigra/appr-2015-16.git
