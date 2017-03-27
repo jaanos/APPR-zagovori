@@ -40,7 +40,7 @@
 * Avtor: Katarina Kromar
 * Repozitorij: https://github.com/katykro/APPR-2015-16
 
-## Analiza dolga in letnega primakljaja držav v evroobmočju
+## Analiza dolga in letnega primankljaja držav v evroobmočju
 * Avtor: Patrik Gorše
 * Repozitorij: https://github.com/aleksandrov2/APPR-2015-16
 
@@ -66,7 +66,7 @@
 
 ## Analiza plač in stroškov dela v Sloveniji
 * Avtor: Kaja Vezenšek
-* Repozitorij: https://github.co/vezensekkaja/APPR-2015-16
+* Repozitorij: https://github.com/vezensekkaja/APPR-2015-16
 
 ## Analiza štipendiranja v Sloveniji
 * Avtor: Mojca Žilavec
@@ -94,7 +94,7 @@
 
 ## Vplivi udeležbe skavtov na državnih dogodkih na uspešnost stega
 * Avtor: Manca Cör
-* Repozitorij: https://bitbucket.org/rahlocutnacigra/appr-2015-16
+* Repozitorij: https://bitbucket.org/rahlocutnacigra/appr-2015-16 (zasebni repozitorij)
 
 ## Analiza turizma v Slovenji
 * Avtor: Nadja Legan
