@@ -1,5 +1,7 @@
 # Dokončani projekti pri APPR 2015/16
 
+[Dokončani projekti iz š.l. 2014/15](https://github.com/jaanos/APPR-2014-15-zagovori/blob/master/DOKONCANI.md)
+
 ## Analiza naravnega prirastka v Sloveniji
 * Avtor: Urška Rožman
 * Repozitorij: https://github.com/rozmanU14/APPR-2015-16
