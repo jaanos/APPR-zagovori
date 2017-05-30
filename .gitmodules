@@ -1,0 +1,12 @@
+[submodule "2017-06-07-sreda/Vida-Maver"]
+	path = 2017-06-07-sreda/Vida-Maver
+	url = https://github.com/vidamaver/APPR-2017.git
+[submodule "2017-06-07-sreda/Jakov-Kavcic"]
+	path = 2017-06-07-sreda/Jakov-Kavcic
+	url = https://github.com/jakov-kavcic/APPR-2017.git
+[submodule "2017-06-05-ponedeljek/Metod-Jazbec"]
+	path = 2017-06-05-ponedeljek/Metod-Jazbec
+	url = https://github.com/metodj/APPR.git
+[submodule "2017-06-05-ponedeljek/Anze-Marinko"]
+	path = 2017-06-05-ponedeljek/Anze-Marinko
+	url = https://github.com/AccipitrisArti/APPR-2017.git
