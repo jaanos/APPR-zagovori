@@ -10,3 +10,9 @@
 [submodule "2017-06-05-ponedeljek/Anze-Marinko"]
 	path = 2017-06-05-ponedeljek/Anze-Marinko
 	url = https://github.com/AccipitrisArti/APPR-2017.git
+[submodule "2017-06-07-sreda/Leon-Horvat"]
+	path = 2017-06-07-sreda/Leon-Horvat
+	url = https://github.com/LeonHorvat/APPR-2017.git
+[submodule "2017-06-05-ponedeljek/Nastja-Kosir"]
+	path = 2017-06-05-ponedeljek/Nastja-Kosir
+	url = https://github.com/nastja88/APPR-2017.git
