@@ -19,3 +19,6 @@
 [submodule "2017-06-05-ponedeljek/Primoz-Durcik"]
 	path = 2017-06-05-ponedeljek/Primoz-Durcik
 	url = https://github.com/pdurcik/APPR-2017.git
+[submodule "2017-06-05-ponedeljek/Anamari-Ostarijas"]
+	path = 2017-06-05-ponedeljek/Anamari-Ostarijas
+	url = https://github.com/anamariostarijas/APPR-2017.git
