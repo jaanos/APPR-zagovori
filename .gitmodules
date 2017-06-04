@@ -22,3 +22,9 @@
 [submodule "2017-06-05-ponedeljek/Anamari-Ostarijas"]
 	path = 2017-06-05-ponedeljek/Anamari-Ostarijas
 	url = https://github.com/anamariostarijas/APPR-2017.git
+[submodule "2017-06-05-ponedeljek/Natasa-Taskov"]
+	path = 2017-06-05-ponedeljek/Natasa-Taskov
+	url = https://github.com/natasataskov/APPR-2017.git
+[submodule "2017-06-05-ponedeljek/Tina-Razic"]
+	path = 2017-06-05-ponedeljek/Tina-Razic
+	url = https://github.com/tinarazic/APPR-2017.git
