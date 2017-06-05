@@ -34,3 +34,6 @@
 [submodule "2017-06-07-sreda/Jan-Pristovnik"]
 	path = 2017-06-07-sreda/Jan-Pristovnik
 	url = https://github.com/janpristovnik/APPR-2017.git
+[submodule "2017-06-07-sreda/Jan-Rems"]
+	path = 2017-06-07-sreda/Jan-Rems
+	url = https://github.com/janrems/APPR-2017.git
