@@ -31,3 +31,6 @@
 [submodule "2017-06-05-ponedeljek/Luka-Vidic"]
 	path = 2017-06-05-ponedeljek/Luka-Vidic
 	url = git@bitbucket.org:VidicL13/appr-2017.git
+[submodule "2017-06-07-sreda/Jan-Pristovnik"]
+	path = 2017-06-07-sreda/Jan-Pristovnik
+	url = https://github.com/janpristovnik/APPR-2017.git
