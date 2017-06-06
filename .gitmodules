@@ -37,3 +37,12 @@
 [submodule "2017-06-07-sreda/Jan-Rems"]
 	path = 2017-06-07-sreda/Jan-Rems
 	url = https://github.com/janrems/APPR-2017.git
+[submodule "2017-06-07-sreda/Jan-Lampic"]
+	path = 2017-06-07-sreda/Jan-Lampic
+	url = https://github.com/LampicJ15/APPR-2017.git
+[submodule "2017-06-07-sreda/Jernej-Banevec"]
+	path = 2017-06-07-sreda/Jernej-Banevec
+	url = https://github.com/jernejbanevec/APPR-2017.git
+[submodule "2017-06-07-sreda/Anja-Zavbi-Kunaver"]
+	path = 2017-06-07-sreda/Anja-Zavbi-Kunaver
+	url = https://github.com/ZavbiA/APPR-2017.git
