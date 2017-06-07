@@ -49,3 +49,9 @@
 [submodule "2017-06-07-sreda/Darja-Petric"]
 	path = 2017-06-07-sreda/Darja-Petric
 	url = https://github.com/darjapet/APPR-2017.git
+[submodule "2017-06-07-sreda/Ana-Golob"]
+	path = 2017-06-07-sreda/Ana-Golob
+	url = https://github.com/anagolob3141/APPR-2017.git
+[submodule "2017-06-07-sreda/Peter-Dolenc"]
+	path = 2017-06-07-sreda/Peter-Dolenc
+	url = https://github.com/lencdo/APPR-2017.git
