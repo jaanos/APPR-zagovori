@@ -1,6 +1,6 @@
 # Zagovori APPR 2017
 
-[Dokončani projekti iz š.l. 2015/16](https://github.com/jaanos/APPR-2015-16-zagovori/blob/master/DOKONCANI.md)
+[Seznam dokončanih projektov](DOKONCANI.md)
 
 Tukaj zbiramo delujoče različice vaših projektov, ki jih boste predstavili v zadnjem tednu letnega semestra 2016/17, kasneje pa tudi zagovorili na izpitu.
 
