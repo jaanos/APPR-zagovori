@@ -55,3 +55,6 @@
 [submodule "2017-06-07-sreda/Peter-Dolenc"]
 	path = 2017-06-07-sreda/Peter-Dolenc
 	url = https://github.com/lencdo/APPR-2017.git
+[submodule "2017-06-19_23/Jan-Rems"]
+	path = 2017-06-19_23/Jan-Rems
+	url = https://github.com/janrems/APPR-2017.git
