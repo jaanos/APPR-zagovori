@@ -5,3 +5,7 @@
 ## Analiza revščine in vpliv socialnih transferjev v EU
 * Avtor: Jan Rems
 * Repozitorij: https://github.com/janrems/APPR-2017
+
+## Aktivnost mladih v Evropi
+* Avtor: Anže Marinko
+* Repozitorij: https://github.com/AccipitrisArti/APPR-2017

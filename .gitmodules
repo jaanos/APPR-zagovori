@@ -58,3 +58,6 @@
 [submodule "2017-06-19_23/Jan-Rems"]
 	path = 2017-06-19_23/Jan-Rems
 	url = https://github.com/janrems/APPR-2017.git
+[submodule "2017-06-19_23/Anze-Marinko"]
+	path = 2017-06-19_23/Anze-Marinko
+	url = https://github.com/AccipitrisArti/APPR-2017.git
