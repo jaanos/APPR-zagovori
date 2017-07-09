@@ -9,3 +9,7 @@
 ## Aktivnost mladih v Evropi
 * Avtor: Anže Marinko
 * Repozitorij: https://github.com/AccipitrisArti/APPR-2017
+
+## Turizem v Evropi
+* Avtor: Darja Petrič
+* Repozitorij: https://github.com/darjapet/APPR-2017
