@@ -13,3 +13,7 @@
 ## Turizem v Evropi
 * Avtor: Darja Petrič
 * Repozitorij: https://github.com/darjapet/APPR-2017
+
+## Analiza turizma v Sloveniji
+* Avtor: Leon Horvat
+* Repozitorij: https://github.com/LeonHorvat/APPR-2017

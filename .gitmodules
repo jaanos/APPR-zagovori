@@ -64,3 +64,6 @@
 [submodule "2017-07-10_14/Darja-Petric"]
 	path = 2017-07-10_14/Darja-Petric
 	url = https://github.com/darjapet/APPR-2017.git
+[submodule "2017-07-10_14/Leon-Horvat"]
+	path = 2017-07-10_14/Leon-Horvat
+	url = https://github.com/LeonHorvat/APPR-2017.git
