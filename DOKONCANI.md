@@ -17,3 +17,7 @@
 ## Analiza turizma v Sloveniji
 * Avtor: Leon Horvat
 * Repozitorij: https://github.com/LeonHorvat/APPR-2017
+
+## Analiza zračnih emisij v evropskih državah
+* Avtor: Vida Maver
+* Repozitorij: https://github.com/vidamaver/APPR-2017

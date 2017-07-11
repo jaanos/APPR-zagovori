@@ -67,3 +67,6 @@
 [submodule "2017-07-10_14/Leon-Horvat"]
 	path = 2017-07-10_14/Leon-Horvat
 	url = https://github.com/LeonHorvat/APPR-2017.git
+[submodule "2017-07-10_14/Vida-Maver"]
+	path = 2017-07-10_14/Vida-Maver
+	url = https://github.com/vidamaver/APPR-2017.git
