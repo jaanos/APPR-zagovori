@@ -21,3 +21,7 @@
 ## Analiza zračnih emisij v evropskih državah
 * Avtor: Vida Maver
 * Repozitorij: https://github.com/vidamaver/APPR-2017
+
+## Analiza rezultatov olimpijskih iger
+* Avtor: Anja Žavbi Kunaver
+* Repozitorij: https://github.com/ZavbiA/APPR-2017
