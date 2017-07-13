@@ -25,3 +25,7 @@
 ## Analiza rezultatov olimpijskih iger
 * Avtor: Anja Žavbi Kunaver
 * Repozitorij: https://github.com/ZavbiA/APPR-2017
+
+## Analiza ločitev v Evropi
+* Avtor: Tina Ražić
+* Repozitorij: https://github.com/tinarazic/APPR-2017

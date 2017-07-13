@@ -73,3 +73,6 @@
 [submodule "2017-07-10_14/Anja-Zavbi-Kunaver"]
 	path = 2017-07-10_14/Anja-Zavbi-Kunaver
 	url = https://github.com/ZavbiA/APPR-2017.git
+[submodule "2017-07-10_14/Tina-Razic"]
+	path = 2017-07-10_14/Tina-Razic
+	url = https://github.com/tinarazic/APPR-2017.git
