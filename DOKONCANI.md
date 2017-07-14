@@ -33,3 +33,7 @@
 ## Najpogostejše bolezni
 * Avtor: Nastja Košir
 * Repozitorij: https://github.com/nastja88/APPR-2017
+
+## Poraba državnih sredstev za izobrazbo v Evropi
+* Avtor: Anamari Oštarijaš
+* Repozitorij: https://github.com/anamariostarijas/APPR-2017
