@@ -29,3 +29,7 @@
 ## Analiza ločitev v Evropi
 * Avtor: Tina Ražić
 * Repozitorij: https://github.com/tinarazic/APPR-2017
+
+## Najpogostejše bolezni
+* Avtor: Nastja Košir
+* Repozitorij: https://github.com/nastja88/APPR-2017

@@ -76,3 +76,6 @@
 [submodule "2017-07-10_14/Tina-Razic"]
 	path = 2017-07-10_14/Tina-Razic
 	url = https://github.com/tinarazic/APPR-2017.git
+[submodule "2017-07-10_14/Nastja-Kosir"]
+	path = 2017-07-10_14/Nastja-Kosir
+	url = https://github.com/nastja88/APPR-2017.git
