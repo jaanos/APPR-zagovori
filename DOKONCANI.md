@@ -37,3 +37,7 @@
 ## Poraba državnih sredstev za izobrazbo v Evropi
 * Avtor: Anamari Oštarijaš
 * Repozitorij: https://github.com/anamariostarijas/APPR-2017
+
+## Analiza svetovnega avtomobilskega trga
+* Avtor: Jan Lampič
+* Repozitorij: https://github.com/LampicJ15/APPR-2017

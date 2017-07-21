@@ -82,3 +82,6 @@
 [submodule "2017-07-10_14/Anamari-Ostarijas"]
 	path = 2017-07-10_14/Anamari-Ostarijas
 	url = https://github.com/anamariostarijas/APPR-2017.git
+[submodule "2017-07-17_21/Jan-Lampic"]
+	path = 2017-07-17_21/Jan-Lampic
+	url = https://github.com/LampicJ15/APPR-2017.git
