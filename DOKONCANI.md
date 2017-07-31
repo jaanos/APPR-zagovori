@@ -41,3 +41,7 @@
 ## Analiza svetovnega avtomobilskega trga
 * Avtor: Jan Lampič
 * Repozitorij: https://github.com/LampicJ15/APPR-2017
+
+## Analiza preseljevanja v Evropi
+* Avtor: Primož Durcik
+* Repozitorij: https://github.com/pdurcik/APPR-2017

@@ -85,3 +85,6 @@
 [submodule "2017-07-17_21/Jan-Lampic"]
 	path = 2017-07-17_21/Jan-Lampic
 	url = https://github.com/LampicJ15/APPR-2017.git
+[submodule "2017-07-31_08-04/Primoz-Durcik"]
+	path = 2017-07-31_08-04/Primoz-Durcik
+	url = https://github.com/pdurcik/APPR-2017.git
