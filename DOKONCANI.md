@@ -49,3 +49,7 @@
 ## Analiza izvoza in uvoza ZDA
 * Avtor: Dejan Gašparič
 * Repozitorij: https://github.com/gasparicdejan/APPR-2017
+
+## Analiza smučarskih skokov nad 240m
+* Avtor: Jaša Štefan
+* Repozitorij: https://github.com/majorcek/APPR-2017

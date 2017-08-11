@@ -91,3 +91,6 @@
 [submodule "2017-08-07_11/Dejan-Gasparic"]
 	path = 2017-08-07_11/Dejan-Gasparic
 	url = https://github.com/gasparicdejan/APPR-2017.git
+[submodule "2017-08-07_11/Jasa-Stefan"]
+	path = 2017-08-07_11/Jasa-Stefan
+	url = https://github.com/majorcek/APPR-2017.git
