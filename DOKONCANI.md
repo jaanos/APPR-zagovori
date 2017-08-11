@@ -45,3 +45,7 @@
 ## Analiza preseljevanja v Evropi
 * Avtor: Primož Durcik
 * Repozitorij: https://github.com/pdurcik/APPR-2017
+
+## Analiza izvoza in uvoza ZDA
+* Avtor: Dejan Gašparič
+* Repozitorij: https://github.com/gasparicdejan/APPR-2017
