@@ -94,3 +94,6 @@
 [submodule "2017-08-07_11/Jasa-Stefan"]
 	path = 2017-08-07_11/Jasa-Stefan
 	url = https://github.com/majorcek/APPR-2017.git
+[submodule "2017-08-28_09-01/Jan-Pristovnik"]
+	path = 2017-08-28_09-01/Jan-Pristovnik
+	url = https://github.com/janpristovnik/APPR-2017.git

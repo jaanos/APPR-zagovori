@@ -53,3 +53,7 @@
 ## Analiza smučarskih skokov nad 240m
 * Avtor: Jaša Štefan
 * Repozitorij: https://github.com/majorcek/APPR-2017
+
+## Visokošolsko izobraževanje med izbranimi državami
+* Avtor: Jan Pristovnik
+* Repozitorij: https://github.com/janpristovnik/APPR-2017
