@@ -57,3 +57,7 @@
 ## Visokošolsko izobraževanje med izbranimi državami
 * Avtor: Jan Pristovnik
 * Repozitorij: https://github.com/janpristovnik/APPR-2017
+
+## Analiza povezanosti med rodnostjo in višino plače
+* Avtor: Jernej Banevec
+* Repozitorij: https://github.com/jernejbanevec/APPR-2017

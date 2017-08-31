@@ -97,3 +97,6 @@
 [submodule "2017-08-28_09-01/Jan-Pristovnik"]
 	path = 2017-08-28_09-01/Jan-Pristovnik
 	url = https://github.com/janpristovnik/APPR-2017.git
+[submodule "2017-08-28_09-01/Jernej-Banevec"]
+	path = 2017-08-28_09-01/Jernej-Banevec
+	url = https://github.com/jernejbanevec/APPR-2017.git
