@@ -61,3 +61,7 @@
 ## Analiza povezanosti med rodnostjo in višino plače
 * Avtor: Jernej Banevec
 * Repozitorij: https://github.com/jernejbanevec/APPR-2017
+
+## Analiza rezultatov Everest maratona
+* Avtor: Katarina Gačnik
+* Repozitorij: https://github.com/katarinaG/APPR-2017

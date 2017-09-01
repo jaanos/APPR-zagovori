@@ -100,3 +100,6 @@
 [submodule "2017-08-28_09-01/Jernej-Banevec"]
 	path = 2017-08-28_09-01/Jernej-Banevec
 	url = https://github.com/jernejbanevec/APPR-2017.git
+[submodule "2017-08-28_09-01/Katarina-Gacnik"]
+	path = 2017-08-28_09-01/Katarina-Gacnik
+	url = https://github.com/katarinaG/APPR-2017.git
