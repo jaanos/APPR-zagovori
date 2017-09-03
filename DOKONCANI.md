@@ -65,3 +65,7 @@
 ## Analiza rezultatov Everest maratona
 * Avtor: Katarina Gačnik
 * Repozitorij: https://github.com/katarinaG/APPR-2017
+
+## Dejavnost muzejev in razstavišč v Sloveniji
+* Avtor: Lonja Tjaša Tavčar
+* Repozitorij: https://github.com/LonjaTT/APPR-2015-16
