@@ -69,3 +69,7 @@
 ## Dejavnost muzejev in razstavišč v Sloveniji
 * Avtor: Lonja Tjaša Tavčar
 * Repozitorij: https://github.com/LonjaTT/APPR-2015-16
+
+## Analiza energetike v Evropi
+* Avtor: Jakov Kavčič
+* Repozitorij: https://github.com/jakov-kavcic/APPR-2017

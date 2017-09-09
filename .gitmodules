@@ -106,3 +106,6 @@
 [submodule "2017-08-28_09-01/Lonja-Tjasa-Tavcar"]
 	path = 2017-08-28_09-01/Lonja-Tjasa-Tavcar
 	url = https://github.com/LonjaTT/APPR-2015-16.git
+[submodule "2017-09-04_08/Jakov-Kavcic"]
+	path = 2017-09-04_08/Jakov-Kavcic
+	url = https://github.com/jakov-kavcic/APPR-2017.git
