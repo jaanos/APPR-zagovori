@@ -8,7 +8,7 @@ V vsaki mapi so povezave na delujoče različice vaših projektov. Sami lahko de
 
 ## Kako vem, na katero različico mojega projekta kaže povezava?
 
-Vsak git commit ima svojo edinstveno šifro - zgostitev SHA256. V polni obliki gre za 256-bitno število, ki je navadno predstavljeno kot 64-mestno šestnajstiško število. Pogosto je to število skrajšano na prvih 10 ali 7 mest, ki navadno zadostujejo za identifikacijo commita.
+Vsak git commit ima svojo edinstveno šifro - zgostitev SHA-1. V polni obliki gre za 160-bitno število, ki je navadno predstavljeno kot 40-mestno šestnajstiško število. Pogosto je to število skrajšano na prvih 10 ali 7 mest, ki navadno zadostujejo za identifikacijo commita.
 
 Pri vsaki povezavi je tako izpisana 7-mestna šifra commita. Če jo kliknete, boste prišli na stanje repozitorija pri tem commitu. Zgoraj desno od datotek je pri _latest commit_ prav tako napisana tudi 7-mestna šifra tega commita. V isti vrstici imate tudi izpisano, koliko časa nazaj je bil ta commit opravljen. S klikom na _latest commit_ pridete na seznam sprememb v zadnjem commitu, zgoraj desno pa je izpisana tudi celotna 64-mestna šifra commita.
 
