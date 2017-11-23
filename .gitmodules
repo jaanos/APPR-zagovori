@@ -1,450 +1,561 @@
-[submodule "2015-01-21-sreda/Zana-Stekovic"]
-	path = 2015-01-21-sreda/Zana-Stekovic
+[submodule "2014-15/2015-01-21-sreda/Zana-Stekovic"]
+	path = 2014-15/2015-01-21-sreda/Zana-Stekovic
 	url = git@github.com:StekovicZ12/APPR-2014-15.git
-[submodule "2015-01-20-torek/Vid-Starc"]
-	path = 2015-01-20-torek/Vid-Starc
+[submodule "2014-15/2015-01-20-torek/Vid-Starc"]
+	path = 2014-15/2015-01-20-torek/Vid-Starc
 	url = git@github.com:VidStarc/APPR-2014-15.git
-[submodule "2015-01-23-petek/Valentina-Gnamus"]
-	path = 2015-01-23-petek/Valentina-Gnamus
+[submodule "2014-15/2015-01-23-petek/Valentina-Gnamus"]
+	path = 2014-15/2015-01-23-petek/Valentina-Gnamus
 	url = git@github.com:Valchy94/APPR-2014-15.git
-[submodule "2015-01-21-sreda/Urska-Bele"]
-	path = 2015-01-21-sreda/Urska-Bele
+[submodule "2014-15/2015-01-21-sreda/Urska-Bele"]
+	path = 2014-15/2015-01-21-sreda/Urska-Bele
 	url = git@github.com:urskabele/APPR-2014-15.git
-[submodule "2015-01-20-torek/Teja-Rupnik"]
-	path = 2015-01-20-torek/Teja-Rupnik
+[submodule "2014-15/2015-01-20-torek/Teja-Rupnik"]
+	path = 2014-15/2015-01-20-torek/Teja-Rupnik
 	url = git@github.com:TejaR/APPR-2014-15.git
-[submodule "2015-01-21-sreda/Spela-Povrzenic"]
-	path = 2015-01-21-sreda/Spela-Povrzenic
+[submodule "2014-15/2015-01-21-sreda/Spela-Povrzenic"]
+	path = 2014-15/2015-01-21-sreda/Spela-Povrzenic
 	url = git@github.com:spelapovrzenic/APPR-2014-15.git
-[submodule "2015-01-21-sreda/Spela-Dugar"]
-	path = 2015-01-21-sreda/Spela-Dugar
+[submodule "2014-15/2015-01-21-sreda/Spela-Dugar"]
+	path = 2014-15/2015-01-21-sreda/Spela-Dugar
 	url = git@github.com:speladugar/APPR-2014-15.git
-[submodule "2015-01-20-torek/Samo-Metlicar"]
-	path = 2015-01-20-torek/Samo-Metlicar
+[submodule "2014-15/2015-01-20-torek/Samo-Metlicar"]
+	path = 2014-15/2015-01-20-torek/Samo-Metlicar
 	url = git@github.com:SamoFMF/APPR-2014-15.git
-[submodule "2015-01-21-sreda/Pika-Remskar"]
-	path = 2015-01-21-sreda/Pika-Remskar
+[submodule "2014-15/2015-01-21-sreda/Pika-Remskar"]
+	path = 2014-15/2015-01-21-sreda/Pika-Remskar
 	url = git@github.com:PikkaR/APPR-2014-15.git
-[submodule "2015-01-21-sreda/Mirjam-Pergar"]
-	path = 2015-01-21-sreda/Mirjam-Pergar
+[submodule "2014-15/2015-01-21-sreda/Mirjam-Pergar"]
+	path = 2014-15/2015-01-21-sreda/Mirjam-Pergar
 	url = git@github.com:BraMira/APPR-2014-15.git
-[submodule "2015-01-20-torek/Matevz-Nolimal"]
-	path = 2015-01-20-torek/Matevz-Nolimal
+[submodule "2014-15/2015-01-20-torek/Matevz-Nolimal"]
+	path = 2014-15/2015-01-20-torek/Matevz-Nolimal
 	url = git@github.com:nolimal/APPR-2014-15.git
-[submodule "2015-01-21-sreda/Mateja-Smrekar"]
-	path = 2015-01-21-sreda/Mateja-Smrekar
+[submodule "2014-15/2015-01-21-sreda/Mateja-Smrekar"]
+	path = 2014-15/2015-01-21-sreda/Mateja-Smrekar
 	url = git@github.com:smrekarm12/APPR-2014-15.git
-[submodule "2015-01-21-sreda/Marusa-Valant"]
-	path = 2015-01-21-sreda/Marusa-Valant
+[submodule "2014-15/2015-01-21-sreda/Marusa-Valant"]
+	path = 2014-15/2015-01-21-sreda/Marusa-Valant
 	url = git@github.com:marushezz/APPR-2014-15.git
-[submodule "2015-01-20-torek/Lea-Tehovnik"]
-	path = 2015-01-20-torek/Lea-Tehovnik
+[submodule "2014-15/2015-01-20-torek/Lea-Tehovnik"]
+	path = 2014-15/2015-01-20-torek/Lea-Tehovnik
 	url = git@github.com:LeaTehovnik/APPR-2014-15.git
-[submodule "2015-01-21-sreda/Neza-Ahcin"]
-	path = 2015-01-21-sreda/Neza-Ahcin
+[submodule "2014-15/2015-01-21-sreda/Neza-Ahcin"]
+	path = 2014-15/2015-01-21-sreda/Neza-Ahcin
 	url = git@github.com:Ahcinn13/APPR-2014-15.git
-[submodule "2015-01-20-torek/Rok-Zadravec"]
-	path = 2015-01-20-torek/Rok-Zadravec
+[submodule "2014-15/2015-01-20-torek/Rok-Zadravec"]
+	path = 2014-15/2015-01-20-torek/Rok-Zadravec
 	url = git@github.com:Geckaa/APPR-2014-15.git
-[submodule "2015-01-20-torek/Tina-Hawlina"]
-	path = 2015-01-20-torek/Tina-Hawlina
+[submodule "2014-15/2015-01-20-torek/Tina-Hawlina"]
+	path = 2014-15/2015-01-20-torek/Tina-Hawlina
 	url = git@github.com:tinahawlina/APPR-2014-15.git
-[submodule "2015-01-21-sreda/Jure-Zukanovic"]
-	path = 2015-01-21-sreda/Jure-Zukanovic
+[submodule "2014-15/2015-01-21-sreda/Jure-Zukanovic"]
+	path = 2014-15/2015-01-21-sreda/Jure-Zukanovic
 	url = git@github.com:Zulkinho/APPR-2014-15.git
-[submodule "2015-01-20-torek/Jakob-Lenarcic"]
-	path = 2015-01-20-torek/Jakob-Lenarcic
+[submodule "2014-15/2015-01-20-torek/Jakob-Lenarcic"]
+	path = 2014-15/2015-01-20-torek/Jakob-Lenarcic
 	url = git@github.com:jlenarcic/APPR-2014-15.git
-[submodule "2015-01-21-sreda/Filip-Lenarcic"]
-	path = 2015-01-21-sreda/Filip-Lenarcic
+[submodule "2014-15/2015-01-21-sreda/Filip-Lenarcic"]
+	path = 2014-15/2015-01-21-sreda/Filip-Lenarcic
 	url = git@github.com:filiplenarcic/APPR-2014-15.git
-[submodule "2015-01-20-torek/Dzevada-Dzafic"]
-	path = 2015-01-20-torek/Dzevada-Dzafic
+[submodule "2014-15/2015-01-20-torek/Dzevada-Dzafic"]
+	path = 2014-15/2015-01-20-torek/Dzevada-Dzafic
 	url = git@github.com:DzaficD13/APPR-2014-15.git
-[submodule "2015-01-21-sreda/Damjan-Manevski"]
-	path = 2015-01-21-sreda/Damjan-Manevski
+[submodule "2014-15/2015-01-21-sreda/Damjan-Manevski"]
+	path = 2014-15/2015-01-21-sreda/Damjan-Manevski
 	url = git@github.com:damjanm/APPR-2014-15.git
-[submodule "2015-01-20-torek/Blaz-Orsos"]
-	path = 2015-01-20-torek/Blaz-Orsos
+[submodule "2014-15/2015-01-20-torek/Blaz-Orsos"]
+	path = 2014-15/2015-01-20-torek/Blaz-Orsos
 	url = git@github.com:BlazOrsos/APPR-2014-15.git
-[submodule "2015-01-20-torek/Anja-Zavrl"]
-	path = 2015-01-20-torek/Anja-Zavrl
+[submodule "2014-15/2015-01-20-torek/Anja-Zavrl"]
+	path = 2014-15/2015-01-20-torek/Anja-Zavrl
 	url = git@github.com:anjazavrl/APPR-2014-15.git
-[submodule "2015-01-23-petek/Anja-Skube"]
-	path = 2015-01-23-petek/Anja-Skube
+[submodule "2014-15/2015-01-23-petek/Anja-Skube"]
+	path = 2014-15/2015-01-23-petek/Anja-Skube
 	url = git@github.com:anjaskube/APPR-2014-15.git
-[submodule "2015-01-23-petek/Katarina-Sutar"]
-	path = 2015-01-23-petek/Katarina-Sutar
+[submodule "2014-15/2015-01-23-petek/Katarina-Sutar"]
+	path = 2014-15/2015-01-23-petek/Katarina-Sutar
 	url = git@github.com:SKatarina/APPR-2014-15.git
-[submodule "2015-01-23-petek/Spela-Lacen"]
-	path = 2015-01-23-petek/Spela-Lacen
+[submodule "2014-15/2015-01-23-petek/Spela-Lacen"]
+	path = 2014-15/2015-01-23-petek/Spela-Lacen
 	url = git@github.com:LacenS/APPR-2014-15.git
-[submodule "2015-01-20-torek/Just-Bajzelj"]
-	path = 2015-01-20-torek/Just-Bajzelj
+[submodule "2014-15/2015-01-20-torek/Just-Bajzelj"]
+	path = 2014-15/2015-01-20-torek/Just-Bajzelj
 	url = git@github.com:justjuust/APPR-2014-15.git
-[submodule "2015-01-23-petek/Katarina-Cerne"]
-	path = 2015-01-23-petek/Katarina-Cerne
+[submodule "2014-15/2015-01-23-petek/Katarina-Cerne"]
+	path = 2014-15/2015-01-23-petek/Katarina-Cerne
 	url = git@github.com:CerneK12/APPR-2014-15.git
-[submodule "2015-01-20-torek/Tomaz-Pustotnik"]
-	path = 2015-01-20-torek/Tomaz-Pustotnik
+[submodule "2014-15/2015-01-20-torek/Tomaz-Pustotnik"]
+	path = 2014-15/2015-01-20-torek/Tomaz-Pustotnik
 	url = git@github.com:pustotnk/APPR-2014-15.git
-[submodule "2015-01-20-torek/Sanja-Milojevic"]
-	path = 2015-01-20-torek/Sanja-Milojevic
+[submodule "2014-15/2015-01-20-torek/Sanja-Milojevic"]
+	path = 2014-15/2015-01-20-torek/Sanja-Milojevic
 	url = git@github.com:SanjaAudi/APPR-2014-15.git
-[submodule "2015-01-21-sreda/Ziga-Kodric"]
-	path = 2015-01-21-sreda/Ziga-Kodric
+[submodule "2014-15/2015-01-21-sreda/Ziga-Kodric"]
+	path = 2014-15/2015-01-21-sreda/Ziga-Kodric
 	url = git@github.com:zigakodric/APPR-2014-15.git
-[submodule "2015-01-21-sreda/Martin-Remec"]
-	path = 2015-01-21-sreda/Martin-Remec
+[submodule "2014-15/2015-01-21-sreda/Martin-Remec"]
+	path = 2014-15/2015-01-21-sreda/Martin-Remec
 	url = git@github.com:martinremec/APPR-2014-15.git
-[submodule "2015-01-23-petek/Tatijana-Slijepcevic"]
-	path = 2015-01-23-petek/Tatijana-Slijepcevic
+[submodule "2014-15/2015-01-23-petek/Tatijana-Slijepcevic"]
+	path = 2014-15/2015-01-23-petek/Tatijana-Slijepcevic
 	url = git@github.com:statijana/APPR-2014-15.git
-[submodule "2015-01-21-sreda/Neja-Pletikos"]
-	path = 2015-01-21-sreda/Neja-Pletikos
+[submodule "2014-15/2015-01-21-sreda/Neja-Pletikos"]
+	path = 2014-15/2015-01-21-sreda/Neja-Pletikos
 	url = git@github.com:nejapletikos/APPR-2014-15.git
-[submodule "2015-01-23-petek/Marko-Jordan"]
-	path = 2015-01-23-petek/Marko-Jordan
+[submodule "2014-15/2015-01-23-petek/Marko-Jordan"]
+	path = 2014-15/2015-01-23-petek/Marko-Jordan
 	url = git@github.com:qwer317/APPR-2014-15.git
-[submodule "2015-02-09_13/Rok-Zadravec"]
-	path = 2015-02-09_13/Rok-Zadravec
+[submodule "2014-15/2015-02-09_13/Rok-Zadravec"]
+	path = 2014-15/2015-02-09_13/Rok-Zadravec
 	url = git@github.com:Geckaa/APPR-2014-15.git
-[submodule "2015-02-16_20/Matevz-Nolimal"]
-	path = 2015-02-16_20/Matevz-Nolimal
+[submodule "2014-15/2015-02-16_20/Matevz-Nolimal"]
+	path = 2014-15/2015-02-16_20/Matevz-Nolimal
 	url = git@github.com:nolimal/APPR-2014-15.git
-[submodule "2015-02-16_20/Spela-Povrzenic"]
-	path = 2015-02-16_20/Spela-Povrzenic
+[submodule "2014-15/2015-02-16_20/Spela-Povrzenic"]
+	path = 2014-15/2015-02-16_20/Spela-Povrzenic
 	url = git@github.com:spelapovrzenic/APPR-2014-15.git
-[submodule "2015-02-16_20/Vid-Starc"]
-	path = 2015-02-16_20/Vid-Starc
+[submodule "2014-15/2015-02-16_20/Vid-Starc"]
+	path = 2014-15/2015-02-16_20/Vid-Starc
 	url = git@github.com:VidStarc/APPR-2014-15.git
-[submodule "2015-02-16_20/Mirjam-Pergar"]
-	path = 2015-02-16_20/Mirjam-Pergar
+[submodule "2014-15/2015-02-16_20/Mirjam-Pergar"]
+	path = 2014-15/2015-02-16_20/Mirjam-Pergar
 	url = git@github.com:BraMira/APPR-2014-15.git
-[submodule "2015-02-23_28/Urska-Bele"]
-	path = 2015-02-23_28/Urska-Bele
+[submodule "2014-15/2015-02-23_28/Urska-Bele"]
+	path = 2014-15/2015-02-23_28/Urska-Bele
 	url = git@github.com:urskabele/APPR-2014-15.git
-[submodule "2015-02-23_28/Marusa-Valant"]
-	path = 2015-02-23_28/Marusa-Valant
+[submodule "2014-15/2015-02-23_28/Marusa-Valant"]
+	path = 2014-15/2015-02-23_28/Marusa-Valant
 	url = git@github.com:marushezz/APPR-2014-15.git
-[submodule "2015-02-23_28/Spela-Dugar"]
-	path = 2015-02-23_28/Spela-Dugar
+[submodule "2014-15/2015-02-23_28/Spela-Dugar"]
+	path = 2014-15/2015-02-23_28/Spela-Dugar
 	url = git@github.com:speladugar/APPR-2014-15.git
-[submodule "2015-02-23_28/Lea-Tehovnik"]
-	path = 2015-02-23_28/Lea-Tehovnik
+[submodule "2014-15/2015-02-23_28/Lea-Tehovnik"]
+	path = 2014-15/2015-02-23_28/Lea-Tehovnik
 	url = git@github.com:LeaTehovnik/APPR-2014-15.git
-[submodule "2015-02-23_28/Samo-Metlicar"]
-	path = 2015-02-23_28/Samo-Metlicar
+[submodule "2014-15/2015-02-23_28/Samo-Metlicar"]
+	path = 2014-15/2015-02-23_28/Samo-Metlicar
 	url = git@github.com:SamoFMF/APPR-2014-15.git
-[submodule "2015-02-23_28/Jure-Zukanovic"]
-	path = 2015-02-23_28/Jure-Zukanovic
+[submodule "2014-15/2015-02-23_28/Jure-Zukanovic"]
+	path = 2014-15/2015-02-23_28/Jure-Zukanovic
 	url = git@github.com:Zulkinho/APPR-2014-15.git
-[submodule "2015-02-23_28/Valentina-Gnamus"]
-	path = 2015-02-23_28/Valentina-Gnamus
+[submodule "2014-15/2015-02-23_28/Valentina-Gnamus"]
+	path = 2014-15/2015-02-23_28/Valentina-Gnamus
 	url = git@github.com:Valchy94/APPR-2014-15.git
-[submodule "2015-02-23_28/Tatijana-Slijepcevic"]
-	path = 2015-02-23_28/Tatijana-Slijepcevic
+[submodule "2014-15/2015-02-23_28/Tatijana-Slijepcevic"]
+	path = 2014-15/2015-02-23_28/Tatijana-Slijepcevic
 	url = git@github.com:statijana/APPR-2014-15.git
-[submodule "2015-02-23_28/Damjan-Manevski"]
-	path = 2015-02-23_28/Damjan-Manevski
+[submodule "2014-15/2015-02-23_28/Damjan-Manevski"]
+	path = 2014-15/2015-02-23_28/Damjan-Manevski
 	url = git@github.com:damjanm/APPR-2014-15.git
-[submodule "2015-02-23_28/Just-Bajzelj"]
-	path = 2015-02-23_28/Just-Bajzelj
+[submodule "2014-15/2015-02-23_28/Just-Bajzelj"]
+	path = 2014-15/2015-02-23_28/Just-Bajzelj
 	url = git@github.com:justjuust/APPR-2014-15.git
-[submodule "2015-02-23_28/Teja-Rupnik"]
-	path = 2015-02-23_28/Teja-Rupnik
+[submodule "2014-15/2015-02-23_28/Teja-Rupnik"]
+	path = 2014-15/2015-02-23_28/Teja-Rupnik
 	url = git@github.com:TejaR/APPR-2014-15.git
-[submodule "2015-02-23_28/Neja-Pletikos"]
-	path = 2015-02-23_28/Neja-Pletikos
+[submodule "2014-15/2015-02-23_28/Neja-Pletikos"]
+	path = 2014-15/2015-02-23_28/Neja-Pletikos
 	url = git@github.com:nejapletikos/APPR-2014-15.git
-[submodule "2015-02-23_28/Spela-Lacen"]
-	path = 2015-02-23_28/Spela-Lacen
+[submodule "2014-15/2015-02-23_28/Spela-Lacen"]
+	path = 2014-15/2015-02-23_28/Spela-Lacen
 	url = git@github.com:LacenS/APPR-2014-15.git
-[submodule "2015-02-23_28/Neza-Ahcin"]
-	path = 2015-02-23_28/Neza-Ahcin
+[submodule "2014-15/2015-02-23_28/Neza-Ahcin"]
+	path = 2014-15/2015-02-23_28/Neza-Ahcin
 	url = git@github.com:Ahcinn13/APPR-2014-15.git
-[submodule "2015-03-02_06/Dzevada-Dzafic"]
-	path = 2015-03-02_06/Dzevada-Dzafic
+[submodule "2014-15/2015-03-02_06/Dzevada-Dzafic"]
+	path = 2014-15/2015-03-02_06/Dzevada-Dzafic
 	url = git@github.com:DzaficD13/APPR-2014-15.git
-[submodule "2015-03-02_06/Anja-Skube"]
-	path = 2015-03-02_06/Anja-Skube
+[submodule "2014-15/2015-03-02_06/Anja-Skube"]
+	path = 2014-15/2015-03-02_06/Anja-Skube
 	url = git@github.com:anjaskube/APPR-2014-15.git
-[submodule "2015-03-02_06/Blaz-Orsos"]
-	path = 2015-03-02_06/Blaz-Orsos
+[submodule "2014-15/2015-03-02_06/Blaz-Orsos"]
+	path = 2014-15/2015-03-02_06/Blaz-Orsos
 	url = git@github.com:BlazOrsos/APPR-2014-15.git
-[submodule "2015-03-02_06/Tina-Hawlina"]
-	path = 2015-03-02_06/Tina-Hawlina
+[submodule "2014-15/2015-03-02_06/Tina-Hawlina"]
+	path = 2014-15/2015-03-02_06/Tina-Hawlina
 	url = git@github.com:tinahawlina/APPR-2014-15.git
-[submodule "2015-03-02_06/Jakob-Lenarcic"]
-	path = 2015-03-02_06/Jakob-Lenarcic
+[submodule "2014-15/2015-03-02_06/Jakob-Lenarcic"]
+	path = 2014-15/2015-03-02_06/Jakob-Lenarcic
 	url = git@github.com:jlenarcic/APPR-2014-15.git
-[submodule "2015-03-02_06/Tomaz-Pustotnik"]
-	path = 2015-03-02_06/Tomaz-Pustotnik
+[submodule "2014-15/2015-03-02_06/Tomaz-Pustotnik"]
+	path = 2014-15/2015-03-02_06/Tomaz-Pustotnik
 	url = git@github.com:pustotnk/APPR-2014-15.git
-[submodule "2015-03-02_06/Filip-Lenarcic"]
-	path = 2015-03-02_06/Filip-Lenarcic
+[submodule "2014-15/2015-03-02_06/Filip-Lenarcic"]
+	path = 2014-15/2015-03-02_06/Filip-Lenarcic
 	url = git@github.com:filiplenarcic/APPR-2014-15.git
-[submodule "2015-03-09_13/Zana-Stekovic"]
-	path = 2015-03-09_13/Zana-Stekovic
+[submodule "2014-15/2015-03-09_13/Zana-Stekovic"]
+	path = 2014-15/2015-03-09_13/Zana-Stekovic
 	url = git@github.com:StekovicZ12/APPR-2014-15.git
-[submodule "2015-03-09_13/Marko-Jordan"]
-	path = 2015-03-09_13/Marko-Jordan
+[submodule "2014-15/2015-03-09_13/Marko-Jordan"]
+	path = 2014-15/2015-03-09_13/Marko-Jordan
 	url = git@github.com:qwer317/APPR-2014-15.git
-[submodule "2015-03-16_20/Pika-Remskar"]
-	path = 2015-03-16_20/Pika-Remskar
+[submodule "2014-15/2015-03-16_20/Pika-Remskar"]
+	path = 2014-15/2015-03-16_20/Pika-Remskar
 	url = git@github.com:PikkaR/APPR-2014-15.git
-[submodule "2015-03-23_27/Katarina-Cerne"]
-	path = 2015-03-23_27/Katarina-Cerne
+[submodule "2014-15/2015-03-23_27/Katarina-Cerne"]
+	path = 2014-15/2015-03-23_27/Katarina-Cerne
 	url = git@github.com:CerneK12/APPR-2014-15.git
-[submodule "2015-09-21_25/Katarina-Sutar"]
-	path = 2015-09-21_25/Katarina-Sutar
+[submodule "2014-15/2015-09-21_25/Katarina-Sutar"]
+	path = 2014-15/2015-09-21_25/Katarina-Sutar
 	url = git@github.com:SKatarina/APPR-2014-15.git
-[submodule "2015-09-21_25/Ziga-Kodric"]
-	path = 2015-09-21_25/Ziga-Kodric
+[submodule "2014-15/2015-09-21_25/Ziga-Kodric"]
+	path = 2014-15/2015-09-21_25/Ziga-Kodric
 	url = git@github.com:zigakodric/APPR-2014-15.git
-[submodule "2015-09-21_25/Sanja-Milojevic"]
-	path = 2015-09-21_25/Sanja-Milojevic
+[submodule "2014-15/2015-09-21_25/Sanja-Milojevic"]
+	path = 2014-15/2015-09-21_25/Sanja-Milojevic
 	url = git@github.com:SanjaAudi/APPR-2014-15.git
-[submodule "2015-09-14_18/Anja-Zavrl"]
-	path = 2015-09-14_18/Anja-Zavrl
+[submodule "2014-15/2015-09-14_18/Anja-Zavrl"]
+	path = 2014-15/2015-09-14_18/Anja-Zavrl
 	url = git@github.com:anjazavrl/APPR-2014-15.git
-[submodule "predstavitve/Anamarija-Mijatovic"]
-	path = predstavitve/Anamarija-Mijatovic
+[submodule "2015-16/predstavitve/Anamarija-Mijatovic"]
+	path = 2015-16/predstavitve/Anamarija-Mijatovic
 	url = git@github.com:aniiiim/APPR-2015-16.git
-[submodule "predstavitve/Anja-Leskovsek"]
-	path = predstavitve/Anja-Leskovsek
+[submodule "2015-16/predstavitve/Anja-Leskovsek"]
+	path = 2015-16/predstavitve/Anja-Leskovsek
 	url = git@github.com:Anchiqua/APPR-2015-16.git
-[submodule "predstavitve/Katarina-Kromar"]
-	path = predstavitve/Katarina-Kromar
+[submodule "2015-16/predstavitve/Katarina-Kromar"]
+	path = 2015-16/predstavitve/Katarina-Kromar
 	url = git@github.com:katykro/APPR-2015-16.git
-[submodule "predstavitve/Martin-Pezdir"]
-	path = predstavitve/Martin-Pezdir
+[submodule "2015-16/predstavitve/Martin-Pezdir"]
+	path = 2015-16/predstavitve/Martin-Pezdir
 	url = git@github.com:PezdirM14/APPR-2015-16.git
-[submodule "predstavitve/Vesna-Zupanc"]
-	path = predstavitve/Vesna-Zupanc
+[submodule "2015-16/predstavitve/Vesna-Zupanc"]
+	path = 2015-16/predstavitve/Vesna-Zupanc
 	url = git@github.com:vesnazupanc/APPR-2015-16.git
-[submodule "predstavitve/Lonja-Tjasa-Tavcar"]
-	path = predstavitve/Lonja-Tjasa-Tavcar
+[submodule "2015-16/predstavitve/Lonja-Tjasa-Tavcar"]
+	path = 2015-16/predstavitve/Lonja-Tjasa-Tavcar
 	url = git@github.com:LonjaTT/APPR-2015-16.git
-[submodule "predstavitve/Manca-Cor"]
-	path = predstavitve/Manca-Cor
+[submodule "2015-16/predstavitve/Manca-Cor"]
+	path = 2015-16/predstavitve/Manca-Cor
 	url = git@bitbucket.org:rahlocutnacigra/appr-2015-16.git
-[submodule "predstavitve/Jan-Perme"]
-	path = predstavitve/Jan-Perme
+[submodule "2015-16/predstavitve/Jan-Perme"]
+	path = 2015-16/predstavitve/Jan-Perme
 	url = git@github.com:Jan-hexit/APPR-2015-16.git
-[submodule "predstavitve/Valentina-Pucer"]
-	path = predstavitve/Valentina-Pucer
+[submodule "2015-16/predstavitve/Valentina-Pucer"]
+	path = 2015-16/predstavitve/Valentina-Pucer
 	url = git@github.com:valentina2pucer/APPR-2015-16.git
-[submodule "predstavitve/Sara-Korat"]
-	path = predstavitve/Sara-Korat
+[submodule "2015-16/predstavitve/Sara-Korat"]
+	path = 2015-16/predstavitve/Sara-Korat
 	url = git@github.com:Charisa/APPR-2015-16.git
-[submodule "predstavitve/Patrik-Gorse"]
-	path = predstavitve/Patrik-Gorse
+[submodule "2015-16/predstavitve/Patrik-Gorse"]
+	path = 2015-16/predstavitve/Patrik-Gorse
 	url = git@github.com:aleksandrov2/APPR-2015-16.git
-[submodule "predstavitve/Marina-Sirk"]
-	path = predstavitve/Marina-Sirk
+[submodule "2015-16/predstavitve/Marina-Sirk"]
+	path = 2015-16/predstavitve/Marina-Sirk
 	url = git@github.com:marinasirk/APPR-2015-16.git
-[submodule "predstavitve/Marvin-Herzog"]
-	path = predstavitve/Marvin-Herzog
+[submodule "2015-16/predstavitve/Marvin-Herzog"]
+	path = 2015-16/predstavitve/Marvin-Herzog
 	url = git@github.com:MarvinHerzog/APPR-2015-16.git
-[submodule "predstavitve/Jakov-Kavcic"]
-	path = predstavitve/Jakov-Kavcic
+[submodule "2015-16/predstavitve/Jakov-Kavcic"]
+	path = 2015-16/predstavitve/Jakov-Kavcic
 	url = git@github.com:jakov-kavcic/APPR-2015-16.git
-[submodule "predstavitve/Zan-Tavcar"]
-	path = predstavitve/Zan-Tavcar
+[submodule "2015-16/predstavitve/Zan-Tavcar"]
+	path = 2015-16/predstavitve/Zan-Tavcar
 	url = git@github.com:zantavcar/APPR-2015-16.git
-[submodule "predstavitve/Taja-Debeljak"]
-	path = predstavitve/Taja-Debeljak
+[submodule "2015-16/predstavitve/Taja-Debeljak"]
+	path = 2015-16/predstavitve/Taja-Debeljak
 	url = git@github.com:tajadebeljak/APPR-2015-16.git
-[submodule "predstavitve/Pia-Modrijan"]
-	path = predstavitve/Pia-Modrijan
+[submodule "2015-16/predstavitve/Pia-Modrijan"]
+	path = 2015-16/predstavitve/Pia-Modrijan
 	url = git@github.com:PiaM123/APPR-2015-16.git
-[submodule "predstavitve/Andraz-Pirnovar"]
-	path = predstavitve/Andraz-Pirnovar
+[submodule "2015-16/predstavitve/Andraz-Pirnovar"]
+	path = 2015-16/predstavitve/Andraz-Pirnovar
 	url = git@github.com:PirnovarA/APPR-2015-16.git
-[submodule "predstavitve/Kaja-Vezensek"]
-	path = predstavitve/Kaja-Vezensek
+[submodule "2015-16/predstavitve/Kaja-Vezensek"]
+	path = 2015-16/predstavitve/Kaja-Vezensek
 	url = git@github.com:VezensekKaja/APPR-2015-16.git
-[submodule "predstavitve/Nadja-Legan"]
-	path = predstavitve/Nadja-Legan
+[submodule "2015-16/predstavitve/Nadja-Legan"]
+	path = 2015-16/predstavitve/Nadja-Legan
 	url = git@github.com:NadjaLegan/APPR-2015-16.git
-[submodule "predstavitve/Uros-Krampelj"]
-	path = predstavitve/Uros-Krampelj
+[submodule "2015-16/predstavitve/Uros-Krampelj"]
+	path = 2015-16/predstavitve/Uros-Krampelj
 	url = git@github.com:UrosKrampelj/APPR-2015-16.git
-[submodule "predstavitve/Jakob-Jelencic"]
-	path = predstavitve/Jakob-Jelencic
+[submodule "2015-16/predstavitve/Jakob-Jelencic"]
+	path = 2015-16/predstavitve/Jakob-Jelencic
 	url = git@github.com:masterlord99/APPR-2015-16.git
-[submodule "predstavitve/Urska-Rozman"]
-	path = predstavitve/Urska-Rozman
+[submodule "2015-16/predstavitve/Urska-Rozman"]
+	path = 2015-16/predstavitve/Urska-Rozman
 	url = git@github.com:rozmanU14/APPR-2015-16.git
-[submodule "predstavitve/Veronika-Nabergoj"]
-	path = predstavitve/Veronika-Nabergoj
+[submodule "2015-16/predstavitve/Veronika-Nabergoj"]
+	path = 2015-16/predstavitve/Veronika-Nabergoj
 	url = git@github.com:NabergojV/APPR-2015-16.git
-[submodule "predstavitve/Zan-Sifrer"]
-	path = predstavitve/Zan-Sifrer
+[submodule "2015-16/predstavitve/Zan-Sifrer"]
+	path = 2015-16/predstavitve/Zan-Sifrer
 	url = git@github.com:stifler9/ANPP-2015-16.git
-[submodule "predstavitve/Ziga-Potrebujes"]
-	path = predstavitve/Ziga-Potrebujes
+[submodule "2015-16/predstavitve/Ziga-Potrebujes"]
+	path = 2015-16/predstavitve/Ziga-Potrebujes
 	url = git@github.com:ZigaP/APPR-2015-16.git
-[submodule "predstavitve/Laura-Stangelj"]
-	path = predstavitve/Laura-Stangelj
+[submodule "2015-16/predstavitve/Laura-Stangelj"]
+	path = 2015-16/predstavitve/Laura-Stangelj
 	url = git@github.com:StangeljL12/APPR-2015-16.git
-[submodule "predstavitve/Gal-Drnovsek"]
-	path = predstavitve/Gal-Drnovsek
+[submodule "2015-16/predstavitve/Gal-Drnovsek"]
+	path = 2015-16/predstavitve/Gal-Drnovsek
 	url = git@github.com:GalDrnovsek/APPR-2015-16.git
-[submodule "predstavitve/Mojca-Zilavec"]
-	path = predstavitve/Mojca-Zilavec
+[submodule "2015-16/predstavitve/Mojca-Zilavec"]
+	path = 2015-16/predstavitve/Mojca-Zilavec
 	url = git@github.com:ZilavecM14/APPR-2015-16.git
-[submodule "predstavitve-faza3/Anamarija-Mijatovic"]
-	path = predstavitve-faza3/Anamarija-Mijatovic
+[submodule "2015-16/predstavitve-faza3/Anamarija-Mijatovic"]
+	path = 2015-16/predstavitve-faza3/Anamarija-Mijatovic
 	url = https://github.com/aniiiim/APPR-2015-16.git
-[submodule "predstavitve-faza3/Andraz-Pirnovar"]
-	path = predstavitve-faza3/Andraz-Pirnovar
+[submodule "2015-16/predstavitve-faza3/Andraz-Pirnovar"]
+	path = 2015-16/predstavitve-faza3/Andraz-Pirnovar
 	url = https://github.com/PirnovarA/APPR-2015-16.git
-[submodule "predstavitve-faza3/Jakob-Jelencic"]
-	path = predstavitve-faza3/Jakob-Jelencic
+[submodule "2015-16/predstavitve-faza3/Jakob-Jelencic"]
+	path = 2015-16/predstavitve-faza3/Jakob-Jelencic
 	url = https://github.com/masterlord99/APPR-2015-16.git
-[submodule "predstavitve-faza3/Katarina-Kromar"]
-	path = predstavitve-faza3/Katarina-Kromar
+[submodule "2015-16/predstavitve-faza3/Katarina-Kromar"]
+	path = 2015-16/predstavitve-faza3/Katarina-Kromar
 	url = https://github.com/katykro/APPR-2015-16.git
-[submodule "predstavitve-faza3/Lonja-Tjasa-Tavcar"]
-	path = predstavitve-faza3/Lonja-Tjasa-Tavcar
+[submodule "2015-16/predstavitve-faza3/Lonja-Tjasa-Tavcar"]
+	path = 2015-16/predstavitve-faza3/Lonja-Tjasa-Tavcar
 	url = https://github.com/LonjaTT/APPR-2015-16.git
-[submodule "predstavitve-faza3/Manca-Cor"]
-	path = predstavitve-faza3/Manca-Cor
+[submodule "2015-16/predstavitve-faza3/Manca-Cor"]
+	path = 2015-16/predstavitve-faza3/Manca-Cor
 	url = git@bitbucket.org:rahlocutnacigra/appr-2015-16.git
-[submodule "predstavitve-faza3/Marina-Sirk"]
-	path = predstavitve-faza3/Marina-Sirk
+[submodule "2015-16/predstavitve-faza3/Marina-Sirk"]
+	path = 2015-16/predstavitve-faza3/Marina-Sirk
 	url = https://github.com/marinasirk/APPR-2015-16.git
-[submodule "predstavitve-faza3/Martin-Pezdir"]
-	path = predstavitve-faza3/Martin-Pezdir
+[submodule "2015-16/predstavitve-faza3/Martin-Pezdir"]
+	path = 2015-16/predstavitve-faza3/Martin-Pezdir
 	url = https://github.com/PezdirM14/APPR-2015-16.git
-[submodule "predstavitve-faza3/Marvin-Herzog"]
-	path = predstavitve-faza3/Marvin-Herzog
+[submodule "2015-16/predstavitve-faza3/Marvin-Herzog"]
+	path = 2015-16/predstavitve-faza3/Marvin-Herzog
 	url = https://github.com/MarvinHerzog/APPR-2015-16.git
-[submodule "predstavitve-faza3/Patrik-Gorse"]
-	path = predstavitve-faza3/Patrik-Gorse
+[submodule "2015-16/predstavitve-faza3/Patrik-Gorse"]
+	path = 2015-16/predstavitve-faza3/Patrik-Gorse
 	url = https://github.com/aleksandrov2/APPR-2015-16.git
-[submodule "predstavitve-faza3/Pia-Modrijan"]
-	path = predstavitve-faza3/Pia-Modrijan
+[submodule "2015-16/predstavitve-faza3/Pia-Modrijan"]
+	path = 2015-16/predstavitve-faza3/Pia-Modrijan
 	url = https://github.com/PiaM123/APPR-2015-16.git
-[submodule "predstavitve-faza3/Sara-Korat"]
-	path = predstavitve-faza3/Sara-Korat
+[submodule "2015-16/predstavitve-faza3/Sara-Korat"]
+	path = 2015-16/predstavitve-faza3/Sara-Korat
 	url = https://github.com/Charisa/APPR-2015-16.git
-[submodule "predstavitve-faza3/Taja-Debeljak"]
-	path = predstavitve-faza3/Taja-Debeljak
+[submodule "2015-16/predstavitve-faza3/Taja-Debeljak"]
+	path = 2015-16/predstavitve-faza3/Taja-Debeljak
 	url = https://github.com/tajadebeljak/APPR-2015-16.git
-[submodule "predstavitve-faza3/Urska-Rozman"]
-	path = predstavitve-faza3/Urska-Rozman
+[submodule "2015-16/predstavitve-faza3/Urska-Rozman"]
+	path = 2015-16/predstavitve-faza3/Urska-Rozman
 	url = https://github.com/rozmanU14/APPR-2015-16.git
-[submodule "predstavitve-faza3/Valentina-Pucer"]
-	path = predstavitve-faza3/Valentina-Pucer
+[submodule "2015-16/predstavitve-faza3/Valentina-Pucer"]
+	path = 2015-16/predstavitve-faza3/Valentina-Pucer
 	url = https://github.com/valentina2pucer/APPR-2015-16.git
-[submodule "predstavitve-faza3/Veronika-Nabergoj"]
-	path = predstavitve-faza3/Veronika-Nabergoj
+[submodule "2015-16/predstavitve-faza3/Veronika-Nabergoj"]
+	path = 2015-16/predstavitve-faza3/Veronika-Nabergoj
 	url = https://github.com/NabergojV/APPR-2015-16.git
-[submodule "predstavitve-faza3/Zan-Sifrer"]
-	path = predstavitve-faza3/Zan-Sifrer
+[submodule "2015-16/predstavitve-faza3/Zan-Sifrer"]
+	path = 2015-16/predstavitve-faza3/Zan-Sifrer
 	url = https://github.com/stifler9/ANPP-2015-16.git
-[submodule "predstavitve-faza3/Zan-Tavcar"]
-	path = predstavitve-faza3/Zan-Tavcar
+[submodule "2015-16/predstavitve-faza3/Zan-Tavcar"]
+	path = 2015-16/predstavitve-faza3/Zan-Tavcar
 	url = https://github.com/zantavcar/APPR-2015-16.git
-[submodule "predstavitve-faza3/Ziga-Potrebujes"]
-	path = predstavitve-faza3/Ziga-Potrebujes
+[submodule "2015-16/predstavitve-faza3/Ziga-Potrebujes"]
+	path = 2015-16/predstavitve-faza3/Ziga-Potrebujes
 	url = https://github.com/ZigaP/APPR-2015-16.git
-[submodule "predstavitve-faza3/Kaja-Vezensek"]
-	path = predstavitve-faza3/Kaja-Vezensek
+[submodule "2015-16/predstavitve-faza3/Kaja-Vezensek"]
+	path = 2015-16/predstavitve-faza3/Kaja-Vezensek
 	url = https://github.com/VezensekKaja/APPR-2015-16.git
-[submodule "predstavitve-faza3/Dejan-Gasparic"]
-	path = predstavitve-faza3/Dejan-Gasparic
+[submodule "2015-16/predstavitve-faza3/Dejan-Gasparic"]
+	path = 2015-16/predstavitve-faza3/Dejan-Gasparic
 	url = https://github.com/gasparicdejan/APPR-2015-16.git
-[submodule "predstavitve-faza3/Uros-Krampelj"]
-	path = predstavitve-faza3/Uros-Krampelj
+[submodule "2015-16/predstavitve-faza3/Uros-Krampelj"]
+	path = 2015-16/predstavitve-faza3/Uros-Krampelj
 	url = https://github.com/UrosKrampelj/APPR-2015-16.git
-[submodule "predstavitve-faza3/Mojca-Zilavec"]
-	path = predstavitve-faza3/Mojca-Zilavec
+[submodule "2015-16/predstavitve-faza3/Mojca-Zilavec"]
+	path = 2015-16/predstavitve-faza3/Mojca-Zilavec
 	url = https://github.com/ZilavecM14/APPR-2015-16.git
-[submodule "predstavitve-faza3/Jan-Perme"]
-	path = predstavitve-faza3/Jan-Perme
+[submodule "2015-16/predstavitve-faza3/Jan-Perme"]
+	path = 2015-16/predstavitve-faza3/Jan-Perme
 	url = https://github.com/Jan-hexit/APPR-2015-16.git
-[submodule "predstavitve-faza3/Anja-Leskovsek"]
-	path = predstavitve-faza3/Anja-Leskovsek
+[submodule "2015-16/predstavitve-faza3/Anja-Leskovsek"]
+	path = 2015-16/predstavitve-faza3/Anja-Leskovsek
 	url = https://github.com/Anchiqua/APPR-2015-16.git
-[submodule "2016-02-01_05/Urska-Rozman"]
-	path = 2016-02-01_05/Urska-Rozman
+[submodule "2015-16/2016-02-01_05/Urska-Rozman"]
+	path = 2015-16/2016-02-01_05/Urska-Rozman
 	url = https://github.com/rozmanU14/APPR-2015-16.git
-[submodule "2016-02-15_19/Jakob-Jelencic"]
-	path = 2016-02-15_19/Jakob-Jelencic
+[submodule "2015-16/2016-02-15_19/Jakob-Jelencic"]
+	path = 2015-16/2016-02-15_19/Jakob-Jelencic
 	url = https://github.com/masterlord99/APPR-2015-16.git
-[submodule "2016-02-22_26/Zan-Tavcar"]
-	path = 2016-02-22_26/Zan-Tavcar
+[submodule "2015-16/2016-02-22_26/Zan-Tavcar"]
+	path = 2015-16/2016-02-22_26/Zan-Tavcar
 	url = https://github.com/zantavcar/APPR-2015-16.git
-[submodule "2016-02-22_26/Marina-Sirk"]
-	path = 2016-02-22_26/Marina-Sirk
+[submodule "2015-16/2016-02-22_26/Marina-Sirk"]
+	path = 2015-16/2016-02-22_26/Marina-Sirk
 	url = https://github.com/marinasirk/APPR-2015-16.git
-[submodule "2016-02-22_26/Marvin-Herzog"]
-	path = 2016-02-22_26/Marvin-Herzog
+[submodule "2015-16/2016-02-22_26/Marvin-Herzog"]
+	path = 2015-16/2016-02-22_26/Marvin-Herzog
 	url = https://github.com/MarvinHerzog/APPR-2015-16.git
-[submodule "2016-02-29_03-04/Anja-Leskovsek"]
-	path = 2016-02-29_03-04/Anja-Leskovsek
+[submodule "2015-16/2016-02-29_03-04/Anja-Leskovsek"]
+	path = 2015-16/2016-02-29_03-04/Anja-Leskovsek
 	url = https://github.com/Anchiqua/APPR-2015-16.git
-[submodule "2016-02-29_03-04/Pia-Modrijan"]
-	path = 2016-02-29_03-04/Pia-Modrijan
+[submodule "2015-16/2016-02-29_03-04/Pia-Modrijan"]
+	path = 2015-16/2016-02-29_03-04/Pia-Modrijan
 	url = https://github.com/PiaM123/APPR-2015-16.git
-[submodule "2016-02-29_03-04/Katarina-Kromar"]
-	path = 2016-02-29_03-04/Katarina-Kromar
+[submodule "2015-16/2016-02-29_03-04/Katarina-Kromar"]
+	path = 2015-16/2016-02-29_03-04/Katarina-Kromar
 	url = https://github.com/katykro/APPR-2015-16.git
-[submodule "2016-02-29_03-04/Anamarija-Mijatovic"]
-	path = 2016-02-29_03-04/Anamarija-Mijatovic
+[submodule "2015-16/2016-02-29_03-04/Anamarija-Mijatovic"]
+	path = 2015-16/2016-02-29_03-04/Anamarija-Mijatovic
 	url = https://github.com/aniiiim/APPR-2015-16.git
-[submodule "2016-02-29_03-04/Gal-Drnovsek"]
-	path = 2016-02-29_03-04/Gal-Drnovsek
+[submodule "2015-16/2016-02-29_03-04/Gal-Drnovsek"]
+	path = 2015-16/2016-02-29_03-04/Gal-Drnovsek
 	url = https://github.com/GalDrnovsek/APPR-2015-16.git
-[submodule "2016-02-29_03-04/Patrik-Gorse"]
-	path = 2016-02-29_03-04/Patrik-Gorse
+[submodule "2015-16/2016-02-29_03-04/Patrik-Gorse"]
+	path = 2015-16/2016-02-29_03-04/Patrik-Gorse
 	url = https://github.com/aleksandrov2/APPR-2015-16.git
-[submodule "2016-02-29_03-04/Sara-Korat"]
-	path = 2016-02-29_03-04/Sara-Korat
+[submodule "2015-16/2016-02-29_03-04/Sara-Korat"]
+	path = 2015-16/2016-02-29_03-04/Sara-Korat
 	url = https://github.com/Charisa/APPR-2015-16.git
-[submodule "2016-02-29_03-04/Andraz-Pirnovar"]
-	path = 2016-02-29_03-04/Andraz-Pirnovar
+[submodule "2015-16/2016-02-29_03-04/Andraz-Pirnovar"]
+	path = 2015-16/2016-02-29_03-04/Andraz-Pirnovar
 	url = https://github.com/PirnovarA/APPR-2015-16.git
-[submodule "2016-02-29_03-04/Veronika-Nabergoj"]
-	path = 2016-02-29_03-04/Veronika-Nabergoj
+[submodule "2015-16/2016-02-29_03-04/Veronika-Nabergoj"]
+	path = 2015-16/2016-02-29_03-04/Veronika-Nabergoj
 	url = https://github.com/NabergojV/APPR-2015-16.git
-[submodule "2016-03-14_18/Valentina-Pucer"]
-	path = 2016-03-14_18/Valentina-Pucer
+[submodule "2015-16/2016-03-14_18/Valentina-Pucer"]
+	path = 2015-16/2016-03-14_18/Valentina-Pucer
 	url = https://github.com/valentina2pucer/APPR-2015-16.git
-[submodule "2016-03-28_04-01/Kaja-Vezensek"]
-	path = 2016-03-28_04-01/Kaja-Vezensek
+[submodule "2015-16/2016-03-28_04-01/Kaja-Vezensek"]
+	path = 2015-16/2016-03-28_04-01/Kaja-Vezensek
 	url = https://github.com/VezensekKaja/APPR-2015-16.git
-[submodule "2016-03-28_04-01/Mojca-Zilavec"]
-	path = 2016-03-28_04-01/Mojca-Zilavec
+[submodule "2015-16/2016-03-28_04-01/Mojca-Zilavec"]
+	path = 2015-16/2016-03-28_04-01/Mojca-Zilavec
 	url = https://github.com/ZilavecM14/APPR-2015-16.git
-[submodule "2016-03-28_04-01/Vesna-Zupanc"]
-	path = 2016-03-28_04-01/Vesna-Zupanc
+[submodule "2015-16/2016-03-28_04-01/Vesna-Zupanc"]
+	path = 2015-16/2016-03-28_04-01/Vesna-Zupanc
 	url = https://github.com/vesnazupanc/APPR-2015-16.git
-[submodule "2016-03-28_04-01/Jan-Perme"]
-	path = 2016-03-28_04-01/Jan-Perme
+[submodule "2015-16/2016-03-28_04-01/Jan-Perme"]
+	path = 2015-16/2016-03-28_04-01/Jan-Perme
 	url = https://github.com/Jan-hexit/APPR-2015-16.git
-[submodule "2016-03-28_04-01/Taja-Debeljak"]
-	path = 2016-03-28_04-01/Taja-Debeljak
+[submodule "2015-16/2016-03-28_04-01/Taja-Debeljak"]
+	path = 2015-16/2016-03-28_04-01/Taja-Debeljak
 	url = https://github.com/tajadebeljak/APPR-2015-16.git
-[submodule "2016-09-05_09/Martin-Pezdir"]
-	path = 2016-09-05_09/Martin-Pezdir
+[submodule "2015-16/2016-09-05_09/Martin-Pezdir"]
+	path = 2015-16/2016-09-05_09/Martin-Pezdir
 	url = https://github.com/PezdirM14/APPR-2015-16.git
-[submodule "2016-09-05_09/Ziga-Potrebujes"]
-	path = 2016-09-05_09/Ziga-Potrebujes
+[submodule "2015-16/2016-09-05_09/Ziga-Potrebujes"]
+	path = 2015-16/2016-09-05_09/Ziga-Potrebujes
 	url = https://github.com/ZigaP/APPR-2015-16.git
-[submodule "2016-09-12_16/Laura-Stangelj"]
-	path = 2016-09-12_16/Laura-Stangelj
+[submodule "2015-16/2016-09-12_16/Laura-Stangelj"]
+	path = 2015-16/2016-09-12_16/Laura-Stangelj
 	url = https://github.com/StangeljL12/APPR-2015-16.git
-[submodule "2016-09-19_23/Uros-Krampelj"]
-	path = 2016-09-19_23/Uros-Krampelj
+[submodule "2015-16/2016-09-19_23/Uros-Krampelj"]
+	path = 2015-16/2016-09-19_23/Uros-Krampelj
 	url = https://github.com/UrosKrampelj/APPR-2015-16.git
-[submodule "2016-09-19_23/Manca-Cor"]
-	path = 2016-09-19_23/Manca-Cor
+[submodule "2015-16/2016-09-19_23/Manca-Cor"]
+	path = 2015-16/2016-09-19_23/Manca-Cor
 	url = git@bitbucket.org:rahlocutnacigra/appr-2015-16.git
-[submodule "2016-09-19_23/Nadja-Legan"]
-	path = 2016-09-19_23/Nadja-Legan
+[submodule "2015-16/2016-09-19_23/Nadja-Legan"]
+	path = 2015-16/2016-09-19_23/Nadja-Legan
 	url = https://github.com/NadjaLegan/APPR-2015-16.git
+[submodule "2017/2017-06-07-sreda/Vida-Maver"]
+	path = 2017/2017-06-07-sreda/Vida-Maver
+	url = https://github.com/vidamaver/APPR-2017.git
+[submodule "2017/2017-06-07-sreda/Jakov-Kavcic"]
+	path = 2017/2017-06-07-sreda/Jakov-Kavcic
+	url = https://github.com/jakov-kavcic/APPR-2017.git
+[submodule "2017/2017-06-05-ponedeljek/Metod-Jazbec"]
+	path = 2017/2017-06-05-ponedeljek/Metod-Jazbec
+	url = https://github.com/metodj/APPR.git
+[submodule "2017/2017-06-05-ponedeljek/Anze-Marinko"]
+	path = 2017/2017-06-05-ponedeljek/Anze-Marinko
+	url = https://github.com/AccipitrisArti/APPR-2017.git
+[submodule "2017/2017-06-07-sreda/Leon-Horvat"]
+	path = 2017/2017-06-07-sreda/Leon-Horvat
+	url = https://github.com/LeonHorvat/APPR-2017.git
+[submodule "2017/2017-06-05-ponedeljek/Nastja-Kosir"]
+	path = 2017/2017-06-05-ponedeljek/Nastja-Kosir
+	url = https://github.com/nastja88/APPR-2017.git
+[submodule "2017/2017-06-05-ponedeljek/Primoz-Durcik"]
+	path = 2017/2017-06-05-ponedeljek/Primoz-Durcik
+	url = https://github.com/pdurcik/APPR-2017.git
+[submodule "2017/2017-06-05-ponedeljek/Anamari-Ostarijas"]
+	path = 2017/2017-06-05-ponedeljek/Anamari-Ostarijas
+	url = https://github.com/anamariostarijas/APPR-2017.git
+[submodule "2017/2017-06-05-ponedeljek/Natasa-Taskov"]
+	path = 2017/2017-06-05-ponedeljek/Natasa-Taskov
+	url = https://github.com/natasataskov/APPR-2017.git
+[submodule "2017/2017-06-07-sreda/Tina-Razic"]
+	path = 2017/2017-06-07-sreda/Tina-Razic
+	url = https://github.com/tinarazic/APPR-2017.git
+[submodule "2017/2017-06-05-ponedeljek/Luka-Vidic"]
+	path = 2017/2017-06-05-ponedeljek/Luka-Vidic
+	url = git@bitbucket.org:VidicL13/appr-2017/2017.git
+[submodule "2017/2017-06-07-sreda/Jan-Pristovnik"]
+	path = 2017/2017-06-07-sreda/Jan-Pristovnik
+	url = https://github.com/janpristovnik/APPR-2017.git
+[submodule "2017/2017-06-07-sreda/Jan-Rems"]
+	path = 2017/2017-06-07-sreda/Jan-Rems
+	url = https://github.com/janrems/APPR-2017.git
+[submodule "2017/2017-06-07-sreda/Jan-Lampic"]
+	path = 2017/2017-06-07-sreda/Jan-Lampic
+	url = https://github.com/LampicJ15/APPR-2017.git
+[submodule "2017/2017-06-07-sreda/Jernej-Banevec"]
+	path = 2017/2017-06-07-sreda/Jernej-Banevec
+	url = https://github.com/jernejbanevec/APPR-2017.git
+[submodule "2017/2017-06-07-sreda/Anja-Zavbi-Kunaver"]
+	path = 2017/2017-06-07-sreda/Anja-Zavbi-Kunaver
+	url = https://github.com/ZavbiA/APPR-2017.git
+[submodule "2017/2017-06-07-sreda/Darja-Petric"]
+	path = 2017/2017-06-07-sreda/Darja-Petric
+	url = https://github.com/darjapet/APPR-2017.git
+[submodule "2017/2017-06-07-sreda/Ana-Golob"]
+	path = 2017/2017-06-07-sreda/Ana-Golob
+	url = https://github.com/anagolob3141/APPR-2017.git
+[submodule "2017/2017-06-07-sreda/Peter-Dolenc"]
+	path = 2017/2017-06-07-sreda/Peter-Dolenc
+	url = https://github.com/lencdo/APPR-2017.git
+[submodule "2017/2017-06-19_23/Jan-Rems"]
+	path = 2017/2017-06-19_23/Jan-Rems
+	url = https://github.com/janrems/APPR-2017.git
+[submodule "2017/2017-06-19_23/Anze-Marinko"]
+	path = 2017/2017-06-19_23/Anze-Marinko
+	url = https://github.com/AccipitrisArti/APPR-2017.git
+[submodule "2017/2017-07-10_14/Darja-Petric"]
+	path = 2017/2017-07-10_14/Darja-Petric
+	url = https://github.com/darjapet/APPR-2017.git
+[submodule "2017/2017-07-10_14/Leon-Horvat"]
+	path = 2017/2017-07-10_14/Leon-Horvat
+	url = https://github.com/LeonHorvat/APPR-2017.git
+[submodule "2017/2017-07-10_14/Vida-Maver"]
+	path = 2017/2017-07-10_14/Vida-Maver
+	url = https://github.com/vidamaver/APPR-2017.git
+[submodule "2017/2017-07-10_14/Anja-Zavbi-Kunaver"]
+	path = 2017/2017-07-10_14/Anja-Zavbi-Kunaver
+	url = https://github.com/ZavbiA/APPR-2017.git
+[submodule "2017/2017-07-10_14/Tina-Razic"]
+	path = 2017/2017-07-10_14/Tina-Razic
+	url = https://github.com/tinarazic/APPR-2017.git
+[submodule "2017/2017-07-10_14/Nastja-Kosir"]
+	path = 2017/2017-07-10_14/Nastja-Kosir
+	url = https://github.com/nastja88/APPR-2017.git
+[submodule "2017/2017-07-10_14/Anamari-Ostarijas"]
+	path = 2017/2017-07-10_14/Anamari-Ostarijas
+	url = https://github.com/anamariostarijas/APPR-2017.git
+[submodule "2017/2017-07-17_21/Jan-Lampic"]
+	path = 2017/2017-07-17_21/Jan-Lampic
+	url = https://github.com/LampicJ15/APPR-2017.git
+[submodule "2017/2017-07-31_08-04/Primoz-Durcik"]
+	path = 2017/2017-07-31_08-04/Primoz-Durcik
+	url = https://github.com/pdurcik/APPR-2017.git
+[submodule "2017/2017-08-07_11/Dejan-Gasparic"]
+	path = 2017/2017-08-07_11/Dejan-Gasparic
+	url = https://github.com/gasparicdejan/APPR-2017.git
+[submodule "2017/2017-08-07_11/Jasa-Stefan"]
+	path = 2017/2017-08-07_11/Jasa-Stefan
+	url = https://github.com/majorcek/APPR-2017.git
+[submodule "2017/2017-08-28_09-01/Jan-Pristovnik"]
+	path = 2017/2017-08-28_09-01/Jan-Pristovnik
+	url = https://github.com/janpristovnik/APPR-2017.git
+[submodule "2017/2017-08-28_09-01/Jernej-Banevec"]
+	path = 2017/2017-08-28_09-01/Jernej-Banevec
+	url = https://github.com/jernejbanevec/APPR-2017.git
+[submodule "2017/2017-08-28_09-01/Katarina-Gacnik"]
+	path = 2017/2017-08-28_09-01/Katarina-Gacnik
+	url = https://github.com/katarinaG/APPR-2017.git
+[submodule "2017/2017-08-28_09-01/Lonja-Tjasa-Tavcar"]
+	path = 2017/2017-08-28_09-01/Lonja-Tjasa-Tavcar
+	url = https://github.com/LonjaTT/APPR-2015-16.git
+[submodule "2017/2017-09-04_08/Jakov-Kavcic"]
+	path = 2017/2017-09-04_08/Jakov-Kavcic
+	url = https://github.com/jakov-kavcic/APPR-2017.git
