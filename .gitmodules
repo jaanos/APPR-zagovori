@@ -559,3 +559,33 @@
 [submodule "2017/2017-09-04_08/Jakov-Kavcic"]
 	path = 2017/2017-09-04_08/Jakov-Kavcic
 	url = https://github.com/jakov-kavcic/APPR-2017.git
+[submodule "2017-18/2018-01-18-predstavitve/Andraz-Mur"]
+	path = 2017-18/2018-01-18-predstavitve/Andraz-Mur
+	url = https://github.com/xlMuRlx/APPR-2017-18.git
+[submodule "2017-18/2018-01-18-predstavitve/Eva-Ozebek"]
+	path = 2017-18/2018-01-18-predstavitve/Eva-Ozebek
+	url = https://github.com/evaozebek/APPR-2017-18.git
+[submodule "2017-18/2018-01-18-predstavitve/Ines-Silc"]
+	path = 2017-18/2018-01-18-predstavitve/Ines-Silc
+	url = https://github.com/ines-silc/APPR-2017-18.git
+[submodule "2017-18/2018-01-18-predstavitve/Klemen-Hovnik"]
+	path = 2017-18/2018-01-18-predstavitve/Klemen-Hovnik
+	url = https://github.com/HovnikK15/APPR-2017-18.git
+[submodule "2017-18/2018-01-18-predstavitve/Manca-Strgar"]
+	path = 2017-18/2018-01-18-predstavitve/Manca-Strgar
+	url = https://github.com/MancaStrgar/APPR-2017-18.git
+[submodule "2017-18/2018-01-18-predstavitve/Martin-Pracek"]
+	path = 2017-18/2018-01-18-predstavitve/Martin-Pracek
+	url = https://github.com/mpracek/APPR-2017-18.git
+[submodule "2017-18/2018-01-18-predstavitve/Miha-Bresar"]
+	path = 2017-18/2018-01-18-predstavitve/Miha-Bresar
+	url = https://github.com/MihaBresar/APPR-2017-18.git
+[submodule "2017-18/2018-01-18-predstavitve/Spela-Ognjanovic"]
+	path = 2017-18/2018-01-18-predstavitve/Spela-Ognjanovic
+	url = https://github.com/spelaognjanovic/APPR-2017-18.git
+[submodule "2017-18/2018-01-18-predstavitve/Timotej-Vesel"]
+	path = 2017-18/2018-01-18-predstavitve/Timotej-Vesel
+	url = https://github.com/timotejvesel/APPR-2017-18.git
+[submodule "2017-18/2018-01-18-predstavitve/Max-Filip-Ursic"]
+	path = 2017-18/2018-01-18-predstavitve/Max-Filip-Ursic
+	url = https://github.com/maxfilip98/APPR-2017-18.git
