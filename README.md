@@ -16,7 +16,7 @@ Na zadnjo različico vašega projekta greste tako, da pri izbiri _Branch_ (nad s
 
 Če bi želeli posodobiti povezavo, na tem repozitoriju odprite zadevo in v njem navedite številko commita, ki bi jo radi vključili. Jaz si ga bom naložil, in če vse deluje, tudi posodobil povezavo. Vi lahko medtem nemoteno delate, brez skrbi, da bi kaj pokvarili. Šifro commita navedite v obliki
 ```
-jaanos/APPR-2017-18@f61253e5598029e31b20aa9a2fdcbf5392f24f42
+jaanos/APPR-2017-18@7924fe7c1a272982a47387b96451ade62113c3ef
 ```
 Najprej torej navedite svoje uporabniško ime, nato za `/` ime svojega repozitorija, nazadnje pa za `@` še vsaj prvih sedem števk šifre commita. GitHub vam bo avtomatsko pretvoril tak niz v povezavo na vaš commit (to lahko preverite, če kliknete na _View_, da vidite, kako vaša zadeva izgleda).
 
