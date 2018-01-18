@@ -616,3 +616,12 @@
 [submodule "2017-18/2018-01-18-predstavitve/Ziga-Trojer"]
 	path = 2017-18/2018-01-18-predstavitve/Ziga-Trojer
 	url = https://github.com/ztrojer/APPR-2017-18.git
+[submodule "2017-18/2018-01-18-predstavitve/Sara-Kovacic"]
+	path = 2017-18/2018-01-18-predstavitve/Sara-Kovacic
+	url = https://github.com/sarakovacic/APPR-2017-18.git
+[submodule "2017-18/2018-01-18-predstavitve/Neza-Habjan"]
+	path = 2017-18/2018-01-18-predstavitve/Neza-Habjan
+	url = https://github.com/nezahabjan/APPR-2017-18.git
+[submodule "2017-18/2018-01-18-predstavitve/Eva-Sraj"]
+	path = 2017-18/2018-01-18-predstavitve/Eva-Sraj
+	url = https://github.com/evasraj/APPR-2017-18.git
