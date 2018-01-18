@@ -628,3 +628,9 @@
 [submodule "2017-18/2018-01-18-predstavitve/Natasa-Taskov"]
 	path = 2017-18/2018-01-18-predstavitve/Natasa-Taskov
 	url = https://github.com/natasataskov/APPR-2017-18.git
+[submodule "2017-18/2018-01-18-predstavitve/Veronika-Sovdat"]
+	path = 2017-18/2018-01-18-predstavitve/Veronika-Sovdat
+	url = git@bitbucket.org:veronikasovdat/appr-2017-18.git
+[submodule "2017-18/2018-01-18-predstavitve/Ana-Golob"]
+	path = 2017-18/2018-01-18-predstavitve/Ana-Golob
+	url = https://github.com/anagolob3141/APPR-2017-18.git
