@@ -625,3 +625,6 @@
 [submodule "2017-18/2018-01-18-predstavitve/Eva-Sraj"]
 	path = 2017-18/2018-01-18-predstavitve/Eva-Sraj
 	url = https://github.com/evasraj/APPR-2017-18.git
+[submodule "2017-18/2018-01-18-predstavitve/Natasa-Taskov"]
+	path = 2017-18/2018-01-18-predstavitve/Natasa-Taskov
+	url = https://github.com/natasataskov/APPR-2017-18.git
