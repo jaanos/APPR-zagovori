@@ -634,3 +634,6 @@
 [submodule "2017-18/2018-01-18-predstavitve/Ana-Golob"]
 	path = 2017-18/2018-01-18-predstavitve/Ana-Golob
 	url = https://github.com/anagolob3141/APPR-2017-18.git
+[submodule "2017-18/2018-01-22_26/Miha-Bresar"]
+	path = 2017-18/2018-01-22_26/Miha-Bresar
+	url = https://github.com/MihaBresar/APPR-2017-18.git
