@@ -1,6 +1,6 @@
 # Zagovori APPR
 
-Seznami dokončanih projektov: [2014-15](2014-15/) \| [2015-16](2015-16/) \| [2017](2017/) \| [2017/18](2017-18/)
+Seznami dokončanih projektov: [2014/15](2014-15/) \| [2015/16](2015-16/) \| [2017](2017/) \| [2017/18](2017-18/)
 
 Tukaj zbiramo delujoče različice vaših projektov, ki jih boste predstavili v zadnjem tednu semestra, kasneje pa tudi zagovorili na izpitu.
 
