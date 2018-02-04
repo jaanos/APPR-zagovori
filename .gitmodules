@@ -643,3 +643,6 @@
 [submodule "2017-18/2018-01-29_02-02/Andraz-Mur"]
 	path = 2017-18/2018-01-29_02-02/Andraz-Mur
 	url = https://github.com/xlMuRlx/APPR-2017-18.git
+[submodule "2017-18/2018-01-29_02-02/Timotej-Vesel"]
+	path = 2017-18/2018-01-29_02-02/Timotej-Vesel
+	url = https://github.com/timotejvesel/APPR-2017-18.git
