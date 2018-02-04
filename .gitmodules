@@ -640,3 +640,6 @@
 [submodule "2017-18/2018-01-29_02-02/Ziga-Trojer"]
 	path = 2017-18/2018-01-29_02-02/Ziga-Trojer
 	url = https://github.com/ztrojer/APPR-2017-18.git
+[submodule "2017-18/2018-01-29_02-02/Andraz-Mur"]
+	path = 2017-18/2018-01-29_02-02/Andraz-Mur
+	url = https://github.com/xlMuRlx/APPR-2017-18.git
