@@ -15,3 +15,11 @@
 ## Analiza podajalcev na draftu lige NFL
 * Avtor: Timotej Vesel
 * Repozitorij: https://github.com/timotejvesel/APPR-2017-18
+
+## Analiza možnih povezav med geografsko lego in razvojem držav ZN
+* Avtor: Bor Rotar
+* Repozitorij: https://github.com/RotarB333/APPR-2017-18
+
+## Makroekonomska analiza evropskega gospodarstva
+* Avtor: Max Filip Uršič
+* Repozitorij: https://github.com/maxfilip98/APPR-2017-18

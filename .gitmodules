@@ -646,3 +646,9 @@
 [submodule "2017-18/2018-01-29_02-02/Timotej-Vesel"]
 	path = 2017-18/2018-01-29_02-02/Timotej-Vesel
 	url = https://github.com/timotejvesel/APPR-2017-18.git
+[submodule "2017-18/2018-02-05_09/Bor-Rotar"]
+	path = 2017-18/2018-02-05_09/Bor-Rotar
+	url = https://github.com/RotarB333/APPR-2017-18.git
+[submodule "2017-18/2018-02-05_09/Max-Filip-Ursic"]
+	path = 2017-18/2018-02-05_09/Max-Filip-Ursic
+	url = https://github.com/maxfilip98/APPR-2017-18.git
