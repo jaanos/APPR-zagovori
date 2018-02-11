@@ -23,3 +23,7 @@
 ## Makroekonomska analiza evropskega gospodarstva
 * Avtor: Max Filip Uršič
 * Repozitorij: https://github.com/maxfilip98/APPR-2017-18
+
+## Kazalniki trajnostnega razvoja in kvaliteta življenja v Sloveniji
+* Avtor: Ines Šilc
+* Repozitorij: https://github.com/ines-silc/APPR-2017-18
