@@ -27,3 +27,7 @@
 ## Kazalniki trajnostnega razvoja in kvaliteta življenja v Sloveniji
 * Avtor: Ines Šilc
 * Repozitorij: https://github.com/ines-silc/APPR-2017-18
+
+## Analiza potovanj Slovencev
+* Avtor: Jan Rudof
+* Repozitorij: https://github.com/janrudof/APPR-2017-18
