@@ -31,3 +31,15 @@
 ## Analiza potovanj Slovencev
 * Avtor: Jan Rudof
 * Repozitorij: https://github.com/janrudof/APPR-2017-18
+
+## Analiza plač v Sloveniji
+* Avtor: Ana Marija Kravanja
+* Repozitorij: https://github.com/anamkravanja/APPR-2017-18
+
+## Analiza tenis turnirjev (Grand Slam)
+* Avtor: Špela Ognjanović
+* Repozitorij: https://github.com/spelaognjanovic/APPR-2017-18
+
+## Analiza vpliva razpoložljivega dohodka na športno udejstvovanje in življenjsko dobo ljudi
+* Avtor: Neža Habjan
+* Repozitorij: https://github.com/nezahabjan/APPR-2017-18

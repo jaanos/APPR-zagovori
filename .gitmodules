@@ -658,3 +658,12 @@
 [submodule "2017-18/2018-02-12_16/Jan-Rudof"]
 	path = 2017-18/2018-02-12_16/Jan-Rudof
 	url = https://github.com/janrudof/APPR-2017-18.git
+[submodule "2017-18/2018-02-12_16/Ana-Marija-Kravanja"]
+	path = 2017-18/2018-02-12_16/Ana-Marija-Kravanja
+	url = https://github.com/anamkravanja/APPR-2017-18.git
+[submodule "2017-18/2018-02-12_16/Spela-Ognjanovic"]
+	path = 2017-18/2018-02-12_16/Spela-Ognjanovic
+	url = https://github.com/spelaognjanovic/APPR-2017-18.git
+[submodule "2017-18/2018-02-12_16/Neza-Habjan"]
+	path = 2017-18/2018-02-12_16/Neza-Habjan
+	url = https://github.com/nezahabjan/APPR-2017-18.git
