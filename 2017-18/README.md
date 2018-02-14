@@ -43,3 +43,11 @@
 ## Analiza vpliva razpoložljivega dohodka na športno udejstvovanje in življenjsko dobo ljudi
 * Avtor: Neža Habjan
 * Repozitorij: https://github.com/nezahabjan/APPR-2017-18
+
+## Selitve na ozemlju Slovenije
+* Avtor: Klemen Hovnik
+* Repozitorij: https://github.com/HovnikK15/APPR-2017-18
+
+## Avtomobilizem v Evropi
+* Avtor: Jaka Munda
+* Repozitorij: https://github.com/jakamun/APPR-2017-18

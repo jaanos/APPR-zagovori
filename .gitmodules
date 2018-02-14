@@ -667,3 +667,9 @@
 [submodule "2017-18/2018-02-12_16/Neza-Habjan"]
 	path = 2017-18/2018-02-12_16/Neza-Habjan
 	url = https://github.com/nezahabjan/APPR-2017-18.git
+[submodule "2017-18/2018-02-12_16/Klemen-Hovnik"]
+	path = 2017-18/2018-02-12_16/Klemen-Hovnik
+	url = https://github.com/HovnikK15/APPR-2017-18.git
+[submodule "2017-18/2018-02-12_16/Jaka-Munda"]
+	path = 2017-18/2018-02-12_16/Jaka-Munda
+	url = https://github.com/jakamun/APPR-2017-18.git
