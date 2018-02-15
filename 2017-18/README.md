@@ -51,3 +51,7 @@
 ## Avtomobilizem v Evropi
 * Avtor: Jaka Munda
 * Repozitorij: https://github.com/jakamun/APPR-2017-18
+
+## Vinogradništvo v Sloveniji
+* Avtor: Martin Praček
+* Repozitorij: https://github.com/mpracek/APPR-2017-18
