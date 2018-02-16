@@ -676,3 +676,6 @@
 [submodule "2017-18/2018-02-12_16/Martin-Pracek"]
 	path = 2017-18/2018-02-12_16/Martin-Pracek
 	url = https://github.com/mpracek/APPR-2017-18.git
+[submodule "2017-18/2018-02-12_16/Jona-Gricar"]
+	path = 2017-18/2018-02-12_16/Jona-Gricar
+	url = https://github.com/jonagricar/APPR-2017-18.git

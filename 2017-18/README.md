@@ -55,3 +55,7 @@
 ## Vinogradništvo v Sloveniji
 * Avtor: Martin Praček
 * Repozitorij: https://github.com/mpracek/APPR-2017-18
+
+## Analiza svetovnega pokala v alpskem smučanju
+* Avtor: Jona Gričar
+* Repozitorij: https://github.com/jonagricar/APPR-2017-18
