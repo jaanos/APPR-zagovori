@@ -59,3 +59,15 @@
 ## Analiza svetovnega pokala v alpskem smučanju
 * Avtor: Jona Gričar
 * Repozitorij: https://github.com/jonagricar/APPR-2017-18
+
+## Analiza zaposljivosti po končanem študiju v EU
+* Avtor: Katja Marina
+* Repozitorij: https://github.com/katjamarina/APPR-2017-18
+
+## Analiza evropskih košarkaških prvenstev
+* Avtor: Manca Strgar
+* Repozitorij: https://github.com/MancaStrgar/APPR-2017-18
+
+## Analiza sklenitev zakonskih zvez v Sloveniji
+* Avtor: Tina Bertok
+* Repozitorij: https://github.com/tinabertok/APPR-2017-18

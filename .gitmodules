@@ -679,3 +679,12 @@
 [submodule "2017-18/2018-02-12_16/Jona-Gricar"]
 	path = 2017-18/2018-02-12_16/Jona-Gricar
 	url = https://github.com/jonagricar/APPR-2017-18.git
+[submodule "2017-18/2018-02-12_16/Katja-Marina"]
+	path = 2017-18/2018-02-12_16/Katja-Marina
+	url = https://github.com/katjamarina/APPR-2017-18.git
+[submodule "2017-18/2018-02-12_16/Manca-Strgar"]
+	path = 2017-18/2018-02-12_16/Manca-Strgar
+	url = https://github.com/MancaStrgar/APPR-2017-18.git
+[submodule "2017-18/2018-02-12_16/Tina-Bertok"]
+	path = 2017-18/2018-02-12_16/Tina-Bertok
+	url = https://github.com/tinabertok/APPR-2017-18.git
