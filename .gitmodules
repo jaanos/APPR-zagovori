@@ -688,3 +688,15 @@
 [submodule "2017-18/2018-02-12_16/Tina-Bertok"]
 	path = 2017-18/2018-02-12_16/Tina-Bertok
 	url = https://github.com/tinabertok/APPR-2017-18.git
+[submodule "2017-18/2018-02-12_16/Eva-Sraj"]
+	path = 2017-18/2018-02-12_16/Eva-Sraj
+	url = https://github.com/evasraj/APPR-2017-18.git
+[submodule "2017-18/2018-02-12_16/Eva-Ozebek"]
+	path = 2017-18/2018-02-12_16/Eva-Ozebek
+	url = https://github.com/evaozebek/APPR-2017-18.git
+[submodule "2017-18/2018-02-12_16/Katarina-Brilej"]
+	path = 2017-18/2018-02-12_16/Katarina-Brilej
+	url = https://github.com/katarinabrilej/APPR-2017-18.git
+[submodule "2017-18/2018-02-12_16/Ajda-Stare"]
+	path = 2017-18/2018-02-12_16/Ajda-Stare
+	url = https://github.com/ajdastare/APPR-2017-18.git

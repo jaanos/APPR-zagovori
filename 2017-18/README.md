@@ -71,3 +71,19 @@
 ## Analiza sklenitev zakonskih zvez v Sloveniji
 * Avtor: Tina Bertok
 * Repozitorij: https://github.com/tinabertok/APPR-2017-18
+
+## Analiza štipendiranja slovenskih dijakov in študentov
+* Avtor: Eva Šraj
+* Repozitorij: https://github.com/evasraj/APPR-2017-18
+
+## Poroke in razveze v Sloveniji
+* Avtor: Eva Ozebek
+* Repozitorij: https://github.com/evaozebek/APPR-2017-18
+
+## Analiza kriminalitete
+* Avtor: Katarina Brilej
+* Repozitorij: https://github.com/katarinabrilej/APPR-2017-18
+
+## Stanovanjski pogoji v Sloveniji
+* Avtor: Ajda Stare
+* Repozitorij: https://github.com/ajdastare/APPR-2017-18
