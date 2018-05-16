@@ -700,3 +700,6 @@
 [submodule "2017-18/2018-02-12_16/Ajda-Stare"]
 	path = 2017-18/2018-02-12_16/Ajda-Stare
 	url = https://github.com/ajdastare/APPR-2017-18.git
+[submodule "2017-18/2018-05-14_18/Sara-Kovacic"]
+	path = 2017-18/2018-05-14_18/Sara-Kovacic
+	url = https://github.com/sarakovacic/APPR-2017-18.git
