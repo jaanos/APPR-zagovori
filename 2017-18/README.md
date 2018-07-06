@@ -88,6 +88,6 @@
 * Avtor: Ajda Stare
 * Repozitorij: https://github.com/ajdastare/APPR-2017-18
 
-## https://github.com/sarakovacic/APPR-2017-18.git
+## Gozdarstvo v Sloveniji in njenih sosednjih državah
 * Avtor: Sara Kovačič
 * Repozitorij: https://github.com/sarakovacic/APPR-2017-18
