@@ -703,3 +703,6 @@
 [submodule "2017-18/2018-05-14_18/Sara-Kovacic"]
 	path = 2017-18/2018-05-14_18/Sara-Kovacic
 	url = https://github.com/sarakovacic/APPR-2017-18.git
+[submodule "2017-18/2018-07-09_13/Peter-Dolenc"]
+	path = 2017-18/2018-07-09_13/Peter-Dolenc
+	url = https://github.com/lencdo/APPR-2017-18.git

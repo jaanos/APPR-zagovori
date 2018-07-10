@@ -91,3 +91,7 @@
 ## Gozdarstvo v Sloveniji in njenih sosednjih državah
 * Avtor: Sara Kovačič
 * Repozitorij: https://github.com/sarakovacic/APPR-2017-18
+
+## Uporaba interneta v EU
+* Avtor: Peter Dolenc
+* Repozitorij: https://github.com/lencdo/APPR-2017-18
