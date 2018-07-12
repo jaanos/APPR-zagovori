@@ -95,3 +95,7 @@
 ## Uporaba interneta v EU
 * Avtor: Peter Dolenc
 * Repozitorij: https://github.com/lencdo/APPR-2017-18
+
+## Valute in devizni tečaji
+* Avtor: Ana Golob
+* Repozitorij: https://github.com/anagolob3141/APPR-2017-18
