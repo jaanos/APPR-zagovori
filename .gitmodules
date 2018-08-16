@@ -709,3 +709,6 @@
 [submodule "2017-18/2018-07-09_13/Ana-Golob"]
 	path = 2017-18/2018-07-09_13/Ana-Golob
 	url = https://github.com/anagolob3141/APPR-2017-18.git
+[submodule "2017-18/2018-08-06_10/Veronika-Sovdat"]
+	path = 2017-18/2018-08-06_10/Veronika-Sovdat
+	url = git@bitbucket.org:veronikasovdat/appr-2017-18.git

@@ -99,3 +99,7 @@
 ## Valute in devizni tečaji
 * Avtor: Ana Golob
 * Repozitorij: https://github.com/anagolob3141/APPR-2017-18
+
+## Analiza kriptovalut
+* Avtor: Veronika Sovdat
+* Repozitorij: https://bitbucket.org/veronikasovdat/appr-2017-18
