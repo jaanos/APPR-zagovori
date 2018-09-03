@@ -103,3 +103,7 @@
 ## Analiza kriptovalut
 * Avtor: Veronika Sovdat
 * Repozitorij: https://bitbucket.org/veronikasovdat/appr-2017-18
+
+## Vpliv ureditve zdravstvenega sistema na pričakovano življenjsko dobo
+* Avtor: Nataša Taškov
+* Repozitorij: https://github.com/natasataskov/APPR-2017-18

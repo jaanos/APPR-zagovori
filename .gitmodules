@@ -712,3 +712,6 @@
 [submodule "2017-18/2018-08-06_10/Veronika-Sovdat"]
 	path = 2017-18/2018-08-06_10/Veronika-Sovdat
 	url = git@bitbucket.org:veronikasovdat/appr-2017-18.git
+[submodule "2017-18/2018-09-03_07/Natasa-Taskov"]
+	path = 2017-18/2018-09-03_07/Natasa-Taskov
+	url = https://github.com/natasataskov/APPR-2017-18.git
