@@ -107,3 +107,7 @@
 ## Vpliv ureditve zdravstvenega sistema na pričakovano življenjsko dobo
 * Avtor: Nataša Taškov
 * Repozitorij: https://github.com/natasataskov/APPR-2017-18
+
+## Bitcoin
+* Avtor: Andrej Sokolič
+* Repozitorij: https://github.com/sokolicA/APPR2017-2018

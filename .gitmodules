@@ -715,3 +715,6 @@
 [submodule "2017-18/2018-09-03_07/Natasa-Taskov"]
 	path = 2017-18/2018-09-03_07/Natasa-Taskov
 	url = https://github.com/natasataskov/APPR-2017-18.git
+[submodule "2017-18/2018-09-03_07/Andrej-Sokolic"]
+	path = 2017-18/2018-09-03_07/Andrej-Sokolic
+	url = https://github.com/sokolicA/APPR2017-2018.git
