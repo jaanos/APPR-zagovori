@@ -111,3 +111,7 @@
 ## Bitcoin
 * Avtor: Andrej Sokolič
 * Repozitorij: https://github.com/sokolicA/APPR2017-2018
+
+## Analiza posredovanj gasilskih enot na območju Republike Slovenije
+* Avtor: Nikolaj Candellari
+* Repozitorij: https://github.com/nikolajcandellari/APPR-2017-18
