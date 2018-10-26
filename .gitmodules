@@ -721,3 +721,6 @@
 [submodule "2017-18/2018-09-03_07/Nikolaj-Candellari"]
 	path = 2017-18/2018-09-03_07/Nikolaj-Candellari
 	url = https://github.com/nikolajcandellari/APPR-2017-18.git
+[submodule "2017-18/2018-10-22_26/Matevz-Raspet"]
+	path = 2017-18/2018-10-22_26/Matevz-Raspet
+	url = https://github.com/matevzraspet/APPR-2017-18.git

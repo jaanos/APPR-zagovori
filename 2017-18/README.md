@@ -115,3 +115,7 @@
 ## Analiza posredovanj gasilskih enot na območju Republike Slovenije
 * Avtor: Nikolaj Candellari
 * Repozitorij: https://github.com/nikolajcandellari/APPR-2017-18
+
+## Analiza nogometnega trga in prihodki klubov
+* Avtor: Matevž Raspet
+* Repozitorij: https://github.com/matevzraspet/APPR-2017-18
