@@ -724,3 +724,6 @@
 [submodule "2017-18/2018-10-22_26/Matevz-Raspet"]
 	path = 2017-18/2018-10-22_26/Matevz-Raspet
 	url = https://github.com/matevzraspet/APPR-2017-18.git
+[submodule "2018-19/2019-01-17-predstavitve/Tin-Markon"]
+	path = 2018-19/2019-01-17-predstavitve/Tin-Markon
+	url = https://github.com/DiogenesB/APPR-2018-19.git
