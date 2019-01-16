@@ -736,3 +736,9 @@
 [submodule "2018-19/2019-01-17-predstavitve/Sasa-Prelog"]
 	path = 2018-19/2019-01-17-predstavitve/Sasa-Prelog
 	url = https://github.com/PrelogSasa/APPR-2018-19.git
+[submodule "2018-19/2019-01-17-predstavitve/Zan-Jernejcic"]
+	path = 2018-19/2019-01-17-predstavitve/Zan-Jernejcic
+	url = https://github.com/JernejcicZan/APPR-2018-19.git
+[submodule "2018-19/2019-01-17-predstavitve/Urh-Pecek"]
+	path = 2018-19/2019-01-17-predstavitve/Urh-Pecek
+	url = https://github.com/1312Bravo/APPR-2018-19.git
