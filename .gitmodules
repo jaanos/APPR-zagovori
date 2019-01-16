@@ -742,3 +742,6 @@
 [submodule "2018-19/2019-01-17-predstavitve/Urh-Pecek"]
 	path = 2018-19/2019-01-17-predstavitve/Urh-Pecek
 	url = https://github.com/1312Bravo/APPR-2018-19.git
+[submodule "2018-19/2019-01-17-predstavitve/Tjasa-Renko"]
+	path = 2018-19/2019-01-17-predstavitve/Tjasa-Renko
+	url = https://github.com/RenkoT97/APPR-2018-19.git
