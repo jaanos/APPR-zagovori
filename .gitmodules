@@ -766,3 +766,6 @@
 [submodule "2018-19/2019-01-17-predstavitve/Domen-Flakus-Bosilj"]
 	path = 2018-19/2019-01-17-predstavitve/Domen-Flakus-Bosilj
 	url = https://github.com/DomenFlakusBosilj/APPR-2018-19.git
+[submodule "2018-19/2019-01-17-predstavitve/Brigita-Milanic"]
+	path = 2018-19/2019-01-17-predstavitve/Brigita-Milanic
+	url = https://github.com/MBrigita/APPR-2018-19.git
