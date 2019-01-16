@@ -763,3 +763,6 @@
 [submodule "2018-19/2019-01-17-predstavitve/Nejc-Duscak"]
 	path = 2018-19/2019-01-17-predstavitve/Nejc-Duscak
 	url = https://github.com/Duzo12/APPR-2018-19.git
+[submodule "2018-19/2019-01-17-predstavitve/Domen-Flakus-Bosilj"]
+	path = 2018-19/2019-01-17-predstavitve/Domen-Flakus-Bosilj
+	url = https://github.com/DomenFlakusBosilj/APPR-2018-19.git
