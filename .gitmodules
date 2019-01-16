@@ -754,3 +754,9 @@
 [submodule "2018-19/2019-01-17-predstavitve/Darjan-Pavsic"]
 	path = 2018-19/2019-01-17-predstavitve/Darjan-Pavsic
 	url = https://github.com/dePauk/APPR-2018-19.git
+[submodule "2018-19/2019-01-17-predstavitve/Jan-Sifrer"]
+	path = 2018-19/2019-01-17-predstavitve/Jan-Sifrer
+	url = https://github.com/JanSifrer/APPR-2018-19.git
+[submodule "2018-19/2019-01-17-predstavitve/Lana-Zajc"]
+	path = 2018-19/2019-01-17-predstavitve/Lana-Zajc
+	url = https://github.com/lanazajc/APPR-2018-19.git
