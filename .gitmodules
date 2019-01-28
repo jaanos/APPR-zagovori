@@ -775,3 +775,6 @@
 [submodule "2018-19/2019-01-17-predstavitve/Jakob-Zarnik"]
 	path = 2018-19/2019-01-17-predstavitve/Jakob-Zarnik
 	url = https://github.com/jakazarnik/APPR-2018-19.git
+[submodule "2018-19/2019-01-28_02-01/Eva-Dezelak"]
+	path = 2018-19/2019-01-28_02-01/Eva-Dezelak
+	url = https://github.com/evadezelak/APPR-2018-19.git
