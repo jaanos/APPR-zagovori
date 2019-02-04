@@ -7,3 +7,7 @@
 ## Analiza preseljevanja Slovencev
 * Avtor: Jan Šifrer
 * Repozitorij: https://github.com/JanSifrer/APPR-2018-19
+
+## Analiza izpustov toplogrednih plinov v ozračje po Evropi
+* Avtor: Tjaša Renko
+* Repozitorij: https://github.com/RenkoT97/APPR-2018-19
