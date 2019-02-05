@@ -11,3 +11,7 @@
 ## Analiza izpustov toplogrednih plinov v ozračje po Evropi
 * Avtor: Tjaša Renko
 * Repozitorij: https://github.com/RenkoT97/APPR-2018-19
+
+## Analiza odlaganja odpadkov v Sloveniji
+* Avtor: Saša Prelog
+* Repozitorij: https://github.com/PrelogSasa/APPR-2018-19
