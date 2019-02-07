@@ -787,3 +787,6 @@
 [submodule "2018-19/2019-02-04_08/Sasa-Prelog"]
 	path = 2018-19/2019-02-04_08/Sasa-Prelog
 	url = https://github.com/PrelogSasa/APPR-2018-19.git
+[submodule "2018-19/2019-02-04_08/Anja-Plesec"]
+	path = 2018-19/2019-02-04_08/Anja-Plesec
+	url = https://github.com/anjaplesec/APPR-2018-19.git

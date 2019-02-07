@@ -15,3 +15,7 @@
 ## Analiza odlaganja odpadkov v Sloveniji
 * Avtor: Saša Prelog
 * Repozitorij: https://github.com/PrelogSasa/APPR-2018-19
+
+## Analiza brezposelnosti v Sloveniji
+* Avtor: Anja Plesec
+* Repozitorij: https://github.com/anjaplesec/APPR-2018-19
