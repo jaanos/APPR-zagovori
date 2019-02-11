@@ -19,3 +19,7 @@
 ## Analiza brezposelnosti v Sloveniji
 * Avtor: Anja Plesec
 * Repozitorij: https://github.com/anjaplesec/APPR-2018-19
+
+## Osnovna analiza podjetij v Sloveniji
+* Avtor: Mela Malej
+* Repozitorij: https://github.com/melamalej/APPR-2018-19
