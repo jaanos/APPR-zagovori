@@ -23,3 +23,7 @@
 ## Osnovna analiza podjetij v Sloveniji
 * Avtor: Mela Malej
 * Repozitorij: https://github.com/melamalej/APPR-2018-19
+
+## Analiza zasedenosti Velike čitalnice v NUK-u
+* Avtor: Žan Kastelic
+* Repozitorij: https://bitbucket.org/zankastelic/appr-2018-19 (zasebni repozitorij)
