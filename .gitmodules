@@ -796,3 +796,6 @@
 [submodule "2018-19/2019-02-11_15/Zan-Kastelic"]
 	path = 2018-19/2019-02-11_15/Zan-Kastelic
 	url = git@bitbucket.org:zankastelic/appr-2018-19.git
+[submodule "2018-19/2019-02-11_15/Domen-Flakus-Bosilj"]
+	path = 2018-19/2019-02-11_15/Domen-Flakus-Bosilj
+	url = https://github.com/DomenFlakusBosilj/APPR-2018-19.git

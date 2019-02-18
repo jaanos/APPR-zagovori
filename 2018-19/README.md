@@ -27,3 +27,7 @@
 ## Analiza zasedenosti Velike čitalnice v NUK-u
 * Avtor: Žan Kastelic
 * Repozitorij: https://bitbucket.org/zankastelic/appr-2018-19 (zasebni repozitorij)
+
+## Analiza transporta v Evropi
+* Avtor: Domen Flakus Bosilj
+* Repozitorij: https://github.com/DomenFlakusBosilj/APPR-2018-19
