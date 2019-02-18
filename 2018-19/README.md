@@ -31,3 +31,7 @@
 ## Analiza transporta v Evropi
 * Avtor: Domen Flakus Bosilj
 * Repozitorij: https://github.com/DomenFlakusBosilj/APPR-2018-19
+
+## Analiza rasti prebivalstva v Sloveniji
+* Avtor: Jakob Zarnik
+* Repozitorij: https://github.com/jakazarnik/APPR-2018-19
