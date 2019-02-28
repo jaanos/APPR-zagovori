@@ -35,3 +35,7 @@
 ## Analiza rasti prebivalstva v Sloveniji
 * Avtor: Jakob Zarnik
 * Repozitorij: https://github.com/jakazarnik/APPR-2018-19
+
+## Primerjava igralcev v ligi NBA glede na nacionalnost
+* Avtor: Urh Peček
+* Repozitorij: https://github.com/1312Bravo/APPR-2018-19
