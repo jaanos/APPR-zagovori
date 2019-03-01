@@ -39,3 +39,7 @@
 ## Primerjava igralcev v ligi NBA glede na nacionalnost
 * Avtor: Urh Peček
 * Repozitorij: https://github.com/1312Bravo/APPR-2018-19
+
+## Analiza rezultatov PISA
+* Avtor: Tomas Rode
+* Repozitorij: https://github.com/TomasRode/APPR-2018-19
