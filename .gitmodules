@@ -811,3 +811,6 @@
 [submodule "2018-19/2019-02-25_03-01/Nejc-Lukezic"]
 	path = 2018-19/2019-02-25_03-01/Nejc-Lukezic
 	url = https://github.com/nejclu/APPR-2018-19.git
+[submodule "2018-19/2019-02-25_03-01/Nejc-Duscak"]
+	path = 2018-19/2019-02-25_03-01/Nejc-Duscak
+	url = https://github.com/Duzo12/APPR-2018-19.git
