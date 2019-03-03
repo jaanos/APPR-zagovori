@@ -43,3 +43,7 @@
 ## Analiza rezultatov PISA
 * Avtor: Tomas Rode
 * Repozitorij: https://github.com/TomasRode/APPR-2018-19
+
+## Analiza stopnje sreče ljudi v državah po svetu
+* Avtor: Nejc Lukežič
+* Repozitorij: https://github.com/nejclu/APPR-2018-19
