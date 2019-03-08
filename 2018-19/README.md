@@ -51,3 +51,7 @@
 ## Analiza neto plač po svetu
 * Avtor: Nejc Duščak
 * Repozitorij: https://github.com/Duzo12/APPR-2018-19
+
+## Igralci tedna in uspešnost njihovih ekip v ligi NBA
+* Avtor: Darjan Pavšič
+* Repozitorij: https://github.com/dePauk/APPR-2018-19
