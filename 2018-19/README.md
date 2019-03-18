@@ -55,3 +55,7 @@
 ## Igralci tedna in uspešnost njihovih ekip v ligi NBA
 * Avtor: Darjan Pavšič
 * Repozitorij: https://github.com/dePauk/APPR-2018-19
+
+## Analiza transporta v Sloveniji
+* Avtor: Jani Metež
+* Repozitorij: https://github.com/janimetez/APPR-2018-19
