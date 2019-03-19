@@ -820,3 +820,6 @@
 [submodule "2018-19/2019-03-11_15/Jani-Metez"]
 	path = 2018-19/2019-03-11_15/Jani-Metez
 	url = https://github.com/janimetez/APPR-2018-19.git
+[submodule "2018-19/2019-03-18_22/Lana-Zajc"]
+	path = 2018-19/2019-03-18_22/Lana-Zajc
+	url = https://github.com/lanazajc/APPR-2018-19.git

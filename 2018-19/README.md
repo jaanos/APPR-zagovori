@@ -59,3 +59,7 @@
 ## Analiza transporta v Sloveniji
 * Avtor: Jani Metež
 * Repozitorij: https://github.com/janimetez/APPR-2018-19
+
+## Analiza plač v Sloveniji in po Evropi
+* Avtor: Lana Zajc
+* Repozitorij: https://github.com/lanazajc/APPR-2018-19
