@@ -63,3 +63,7 @@
 ## Analiza plač v Sloveniji in po Evropi
 * Avtor: Lana Zajc
 * Repozitorij: https://github.com/lanazajc/APPR-2018-19
+
+## Podjetnost v Sloveniji
+* Avtor: Sara Papež
+* Repozitorij: https://github.com/sarapapez/APPR-2018-19
