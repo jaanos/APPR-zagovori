@@ -67,3 +67,7 @@
 ## Podjetnost v Sloveniji
 * Avtor: Sara Papež
 * Repozitorij: https://github.com/sarapapez/APPR-2018-19
+
+## Analiza rezultatov svetovnih prvenstev v atletiki
+* Avtor: Lara Jagodnik
+* Repozitorij: https://github.com/larajagodnik/APPR-2018-19
