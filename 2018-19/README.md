@@ -71,3 +71,7 @@
 ## Analiza rezultatov svetovnih prvenstev v atletiki
 * Avtor: Lara Jagodnik
 * Repozitorij: https://github.com/larajagodnik/APPR-2018-19
+
+## Trg dela v Sloveniji
+* Avtor: Žan Kramar
+* Repozitorij: https://github.com/VojnomirPutin/APPR-2018-19
