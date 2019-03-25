@@ -75,3 +75,7 @@
 ## Trg dela v Sloveniji
 * Avtor: Žan Kramar
 * Repozitorij: https://github.com/VojnomirPutin/APPR-2018-19
+
+## Poroke in razveze v Sloveniji
+* Avtor: Anja Trobec
+* Repozitorij: https://github.com/AnjaTrobec/APPR-2018-19

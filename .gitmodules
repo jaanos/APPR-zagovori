@@ -832,3 +832,6 @@
 [submodule "2018-19/2019-03-18_22/Zan-Kramar"]
 	path = 2018-19/2019-03-18_22/Zan-Kramar
 	url = https://github.com/VojnomirPutin/APPR-2018-19.git
+[submodule "2018-19/2019-03-25_29/Anja-Trobec"]
+	path = 2018-19/2019-03-25_29/Anja-Trobec
+	url = https://github.com/AnjaTrobec/APPR-2018-19.git
