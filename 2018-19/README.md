@@ -79,3 +79,7 @@
 ## Poroke in razveze v Sloveniji
 * Avtor: Anja Trobec
 * Repozitorij: https://github.com/AnjaTrobec/APPR-2018-19
+
+## Analiza cen nepremičnin v Sloveniji
+* Avtor: Mateja Smrekar
+* Repozitorij: https://github.com/smrekarm12/APPR-2017
