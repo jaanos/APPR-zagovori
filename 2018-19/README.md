@@ -83,3 +83,7 @@
 ## Analiza cen nepremičnin v Sloveniji
 * Avtor: Mateja Smrekar
 * Repozitorij: https://github.com/smrekarm12/APPR-2018-19
+
+## Analiza izobraževanja v Sloveniji po regijah
+* Avtor: Timotej Giacomelli
+* Repozitorij: https://github.com/Dzankomelli/APPR-2018-19
