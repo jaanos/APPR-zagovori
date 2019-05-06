@@ -82,4 +82,4 @@
 
 ## Analiza cen nepremičnin v Sloveniji
 * Avtor: Mateja Smrekar
-* Repozitorij: https://github.com/smrekarm12/APPR-2017
+* Repozitorij: https://github.com/smrekarm12/APPR-2018-19
