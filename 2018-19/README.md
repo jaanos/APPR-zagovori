@@ -87,3 +87,7 @@
 ## Analiza izobraževanja v Sloveniji po regijah
 * Avtor: Timotej Giacomelli
 * Repozitorij: https://github.com/Dzankomelli/APPR-2018-19
+
+## Revščina v Sloveniji
+* Avtor: Jan Kolenc
+* Repozitorij: https://github.com/JanKolenc/APPR-2018-19
