@@ -844,3 +844,6 @@
 [submodule "2018-19/2019-05-06_10/Jan-Kolenc"]
 	path = 2018-19/2019-05-06_10/Jan-Kolenc
 	url = https://github.com/JanKolenc/APPR-2018-19.git
+[submodule "2018-19/2019-05-20_24/Jan-Skoberne"]
+	path = 2018-19/2019-05-20_24/Jan-Skoberne
+	url = https://github.com/jan248/APPR-2018-19.git

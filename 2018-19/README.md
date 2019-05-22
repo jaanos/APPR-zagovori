@@ -91,3 +91,7 @@
 ## Revščina v Sloveniji
 * Avtor: Jan Kolenc
 * Repozitorij: https://github.com/JanKolenc/APPR-2018-19
+
+## Analiza gradbeništva v Sloveniji
+* Avtor: Jan Škoberne
+* Repozitorij: https://github.com/jan248/APPR-2018-19
