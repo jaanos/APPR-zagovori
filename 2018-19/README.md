@@ -95,3 +95,7 @@
 ## Analiza gradbeništva v Sloveniji
 * Avtor: Jan Škoberne
 * Repozitorij: https://github.com/jan248/APPR-2018-19
+
+## Analiza podjetij na podlagi njihovih fundamentalnih podatkov
+* Avtor: Luka Vidic
+* Repozitorij: https://bitbucket.org/VidicL13/appr-2017 (zasebni repozitorij)
