@@ -99,3 +99,7 @@
 ## Analiza podjetij na podlagi njihovih fundamentalnih podatkov
 * Avtor: Luka Vidic
 * Repozitorij: https://bitbucket.org/VidicL13/appr-2017 (zasebni repozitorij)
+
+## Analiza vpliva cene nafte na izbrana gospodarstva
+* Avtor: Matija Gubanec Hančič
+* Repozitorij: https://github.com/MatijaGH/APPR-2017-18
