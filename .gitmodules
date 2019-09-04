@@ -853,3 +853,9 @@
 [submodule "2018-19/2019-08-19_23/Matija-Gubanec-Hancic"]
 	path = 2018-19/2019-08-19_23/Matija-Gubanec-Hancic
 	url = https://github.com/MatijaGH/APPR-2017-18.git
+[submodule "2018-19/2019-09-02_06/Tim-Resnik"]
+	path = 2018-19/2019-09-02_06/Tim-Resnik
+	url = https://github.com/20timresnik/APPR-2018-19
+[submodule "2018-19/2019-09-02_06/Brigita-Milanic"]
+	path = 2018-19/2019-09-02_06/Brigita-Milanic
+	url = https://github.com/MBrigita/APPR-2018-19

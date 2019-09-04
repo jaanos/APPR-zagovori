@@ -103,3 +103,11 @@
 ## Analiza vpliva cene nafte na izbrana gospodarstva
 * Avtor: Matija Gubanec Hančič
 * Repozitorij: https://github.com/MatijaGH/APPR-2017-18
+
+## Deleži BDP-ja v Sloveniji in evropskih državah
+* Avtor: Tim Resnik
+* Repozitorij: https://github.com/20timresnik/APPR-2018-19
+
+## Analiza nezdravega življenjskega sloga
+* Avtor: Brigita Milanič
+* Repozitorij: https://github.com/MBrigita/APPR-2018-19
