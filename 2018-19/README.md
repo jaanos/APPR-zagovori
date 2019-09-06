@@ -111,3 +111,7 @@
 ## Analiza nezdravega življenjskega sloga
 * Avtor: Brigita Milanič
 * Repozitorij: https://github.com/MBrigita/APPR-2018-19
+
+## Teroristični napadi po svetu
+* Avtor: Karmen Zupančič
+* Repozitorij: https://github.com/karmenzupancic/APPR-2018-19
