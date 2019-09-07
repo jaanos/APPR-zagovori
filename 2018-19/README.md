@@ -115,3 +115,7 @@
 ## Teroristični napadi po svetu
 * Avtor: Karmen Zupančič
 * Repozitorij: https://github.com/karmenzupancic/APPR-2018-19
+
+## Analiza migracij v Evropi
+* Avtor: Žan Jernejčič
+* Repozitorij: https://github.com/JernejcicZan/APPR-2018-19
