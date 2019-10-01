@@ -119,3 +119,7 @@
 ## Analiza migracij v Evropi
 * Avtor: Žan Jernejčič
 * Repozitorij: https://github.com/JernejcicZan/APPR-2018-19
+
+## Zaposlenost mladih v EU
+* Avtor: Urban Čretnik
+* Repozitorij: https://github.com/joda49/APPR-2018-19
