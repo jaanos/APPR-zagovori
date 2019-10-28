@@ -868,3 +868,6 @@
 [submodule "2018-19/2019-09-31_10-04/Urban-Cretnik"]
 	path = 2018-19/2019-09-31_10-04/Urban-Cretnik
 	url = https://github.com/joda49/APPR-2018-19.git
+[submodule "2018-19/2019-10-28_11-01/Matej-Skerlep"]
+	path = 2018-19/2019-10-28_11-01/Matej-Skerlep
+	url = https://github.com/matejske/APPR-2019-20.git

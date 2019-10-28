@@ -123,3 +123,7 @@
 ## Zaposlenost mladih v EU
 * Avtor: Urban Čretnik
 * Repozitorij: https://github.com/joda49/APPR-2018-19
+
+## Analiza ekološke potrošnje evropskih držav
+* Avtor: Matej Škerlep
+* Repozitorij: https://github.com/matejske/APPR-2019-20.git
