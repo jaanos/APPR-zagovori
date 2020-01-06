@@ -126,4 +126,8 @@
 
 ## Analiza ekološke potrošnje evropskih držav
 * Avtor: Matej Škerlep
-* Repozitorij: https://github.com/matejske/APPR-2019-20.git
+* Repozitorij: https://github.com/matejske/APPR-2019-20
+
+## Ekološko kmetovanje v Sloveniji
+* Avtor: Lana Herman
+* Repozitorij: https://github.com/lanaherman/APPR-2018-19

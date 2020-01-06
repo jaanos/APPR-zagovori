@@ -871,3 +871,6 @@
 [submodule "2018-19/2019-10-28_11-01/Matej-Skerlep"]
 	path = 2018-19/2019-10-28_11-01/Matej-Skerlep
 	url = https://github.com/matejske/APPR-2019-20.git
+[submodule "2018-19/2020-01-06_10/Lana-Herman"]
+	path = 2018-19/2020-01-06_10/Lana-Herman
+	url = https://github.com/lanaherman/APPR-2018-19
