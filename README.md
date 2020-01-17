@@ -8,7 +8,7 @@ V vsaki mapi so povezave na delujoče različice vaših projektov. Sami lahko de
 
 ## Kako vem, na katero različico mojega projekta kaže povezava?
 
-Vsak git commit ima svojo edinstveno šifro - zgostitev SHA-1. V polni obliki gre za 160-bitno število, ki je navadno predstavljeno kot 40-mestno šestnajstiško število. Pogosto je to število skrajšano na prvih 10 ali 7 mest, ki navadno zadostujejo za identifikacijo commita.
+Vsak git commit ima svojo edinstveno šifro - zgostitev SHA-1. V polni obliki gre za 160-bitno število, ki je navadno predstavljeno kot 40-mestno šestnajstiško število. Pogosto je to število skrajšano na prvih 7 do 10 mest, ki navadno zadostujejo za identifikacijo commita.
 
 Pri vsaki povezavi je tako izpisana 7-mestna šifra commita. Če jo kliknete, boste prišli na stanje repozitorija pri tem commitu. Zgoraj desno od datotek je pri _latest commit_ prav tako napisana tudi 7-mestna šifra tega commita. V isti vrstici imate tudi izpisano, koliko časa nazaj je bil ta commit opravljen. S klikom na _latest commit_ pridete na seznam sprememb v zadnjem commitu, zgoraj desno pa je izpisana tudi celotna 40-mestna šifra commita.
 
@@ -16,7 +16,7 @@ Na zadnjo različico vašega projekta greste tako, da pri izbiri _Branch_ (nad s
 
 Če bi želeli posodobiti povezavo, na tem repozitoriju odprite zadevo in v njem navedite številko commita, ki bi jo radi vključili. Jaz si ga bom naložil, in če vse deluje, tudi posodobil povezavo. Vi lahko medtem nemoteno delate, brez skrbi, da bi kaj pokvarili. Šifro commita navedite v obliki
 ```
-jaanos/APPR-2018-19@78c44c26516b3b4e5456188af3e1f832bb85fbc3
+jaanos/APPR-2019-20@a9134eef43d588efed210729d595cbda547bf963
 ```
 Najprej torej navedite svoje uporabniško ime, nato za `/` ime svojega repozitorija, nazadnje pa za `@` še vsaj prvih sedem števk šifre commita. GitHub vam bo avtomatsko pretvoril tak niz v povezavo na vaš commit (to lahko preverite, če kliknete na _View_, da vidite, kako vaša zadeva izgleda).
 
