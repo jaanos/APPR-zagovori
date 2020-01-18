@@ -898,3 +898,6 @@
 [submodule "2019-20/2020-01-20-predstavitve/Tim-Kalan"]
 	path = 2019-20/2020-01-20-predstavitve/Tim-Kalan
 	url = https://github.com/timkalan/APPR-2019-20.git
+[submodule "2019-20/2020-01-20-predstavitve/Gasper-Potocnik"]
+	path = 2019-20/2020-01-20-predstavitve/Gasper-Potocnik
+	url = https://github.com/gapo8/APPR-2019-20.git
