@@ -901,3 +901,6 @@
 [submodule "2019-20/2020-01-20-predstavitve/Gasper-Potocnik"]
 	path = 2019-20/2020-01-20-predstavitve/Gasper-Potocnik
 	url = https://github.com/gapo8/APPR-2019-20.git
+[submodule "2019-20/2020-01-20-predstavitve/Lina-Ivanova"]
+	path = 2019-20/2020-01-20-predstavitve/Lina-Ivanova
+	url = https://github.com/ivanovalina/APPR-2019-20.git
