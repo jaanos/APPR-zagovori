@@ -7,3 +7,7 @@
 ## Analiza trga dela v Sloveniji
 * Avtor: Eva Winkler
 * Repozitorij: https://github.com/evawinkler/APPR-2019-20
+
+## Analiza transporta ljudi in dobrin v Sloveniji
+* Avtor: Lara Vidmar
+* Repozitorij:https://github.com/laravidmar/APPR-2019-20 
