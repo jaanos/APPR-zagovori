@@ -913,3 +913,6 @@
 [submodule "2019-20/2020-02-17_21/Lara-Vidmar"]
 	path = 2019-20/2020-02-17_21/Lara-Vidmar
 	url = https://github.com/laravidmar/APPR-2019-20.git
+[submodule "2019-20/2020-02-24_28/Maks-Perbil"]
+	path = 2019-20/2020-02-24_28/Maks-Perbil
+	url = https://github.com/mperbil/APPR-2019-20.git

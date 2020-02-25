@@ -10,4 +10,8 @@
 
 ## Analiza transporta ljudi in dobrin v Sloveniji
 * Avtor: Lara Vidmar
-* Repozitorij:https://github.com/laravidmar/APPR-2019-20 
+* Repozitorij: https://github.com/laravidmar/APPR-2019-20
+
+## Analiza nogometnih vratarjev
+* Avtor: Maks Perbil
+* Repozitorij: https://github.com/mperbil/APPR-2019-20
