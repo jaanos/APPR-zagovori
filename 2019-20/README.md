@@ -15,3 +15,7 @@
 ## Analiza nogometnih vratarjev
 * Avtor: Maks Perbil
 * Repozitorij: https://github.com/mperbil/APPR-2019-20
+
+## Migracija po svetu
+* Avtor: Tim Kalan
+* Repozitorij: https://github.com/timkalan/APPR-2019-20
