@@ -919,3 +919,6 @@
 [submodule "2019-20/2020-02-24_28/Tim-Kalan"]
 	path = 2019-20/2020-02-24_28/Tim-Kalan
 	url = https://github.com/timkalan/APPR-2019-20.git
+[submodule "2019-20/2020-03-02_06/Gasper-Pust"]
+	path = 2019-20/2020-03-02_06/Gasper-Pust
+	url = https://github.com/gapipust/APPR-2019-20.git

@@ -19,3 +19,7 @@
 ## Migracija po svetu
 * Avtor: Tim Kalan
 * Repozitorij: https://github.com/timkalan/APPR-2019-20
+
+## Analiza slovenskega in hrvaškega turizma
+* Avtor: Gašper Pust
+* Repozitorij: https://github.com/gapipust/APPR-2019-20
