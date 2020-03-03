@@ -925,3 +925,6 @@
 [submodule "2019-20/2020-03-02_06/Lina-Ivanova"]
 	path = 2019-20/2020-03-02_06/Lina-Ivanova
 	url = https://github.com/ivanovalina/APPR-2019-20.git
+[submodule "2019-20/2020-03-02_06/Zala-Stopar-Springer"]
+	path = 2019-20/2020-03-02_06/Zala-Stopar-Springer
+	url = https://github.com/zalastopar/APPR-2019-20.git

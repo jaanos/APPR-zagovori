@@ -27,3 +27,7 @@
 ## Analiza alkoholne industrije v EU
 * Avtor: Lina Ivanova
 * Repozitorij: https://github.com/ivanovalina/APPR-2019-20
+
+## Analiza najboljših 250 filmov po IMDb
+* Avtor: Zala Stopar Špringer
+* Repozitorij: https://github.com/zalastopar/APPR-2019-20
