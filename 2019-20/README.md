@@ -23,3 +23,7 @@
 ## Analiza slovenskega in hrvaškega turizma
 * Avtor: Gašper Pust
 * Repozitorij: https://github.com/gapipust/APPR-2019-20
+
+## Analiza alkoholne industrije v EU
+* Avtor: Lina Ivanova
+* Repozitorij: https://github.com/ivanovalina/APPR-2019-20
