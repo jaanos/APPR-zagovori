@@ -31,3 +31,7 @@
 ## Analiza najboljših 250 filmov po IMDb
 * Avtor: Zala Stopar Špringer
 * Repozitorij: https://github.com/zalastopar/APPR-2019-20
+
+## Brezposelnost v Sloveniji
+* Avtor: Sabrina Calcina
+* Repozitorij: https://github.com/sabrinacalcina/APPR-2019-20
