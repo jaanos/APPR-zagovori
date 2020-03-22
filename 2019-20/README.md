@@ -35,3 +35,7 @@
 ## Brezposelnost v Sloveniji
 * Avtor: Sabrina Calcina
 * Repozitorij: https://github.com/sabrinacalcina/APPR-2019-20
+
+## Analiza realnega BDP, zadovoljstva in brezposelnosti držav Evrope in sveta
+* Avtor: Aljoša Rebolj
+* Repozitorij: https://github.com/BulaRebula/APPR-2019-20
