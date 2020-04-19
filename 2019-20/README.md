@@ -39,3 +39,7 @@
 ## Analiza realnega BDP, zadovoljstva in brezposelnosti držav Evrope in sveta
 * Avtor: Aljoša Rebolj
 * Repozitorij: https://github.com/BulaRebula/APPR-2019-20
+
+## Starostne strukture po svetu
+* Avtor: Mitja Mandić
+* Repozitorij: https://github.com/mitja-mandic/APPR-2019-20 

@@ -934,3 +934,6 @@
 [submodule "2019-20/2020-03-16_20/Aljosa-Rebolj"]
 	path = 2019-20/2020-03-16_20/Aljosa-Rebolj
 	url = https://github.com/BulaRebula/APPR-2019-20.git
+[submodule "2019-20/2020-04-13_17/Mitja-Mandic"]
+	path = 2019-20/2020-04-13_17/Mitja-Mandic
+	url = https://github.com/mitja-mandic/APPR-2019-20.git
