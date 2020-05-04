@@ -42,4 +42,8 @@
 
 ## Starostne strukture po svetu
 * Avtor: Mitja Mandić
-* Repozitorij: https://github.com/mitja-mandic/APPR-2019-20 
+* Repozitorij: https://github.com/mitja-mandic/APPR-2019-20
+
+## Analiza uporabe komunikacijskih in informacijskih tehnologij v Evropi
+* Avtor: Anže Mramor
+* Repozitorij: https://github.com/M4rble/APPR-2019-20
