@@ -47,3 +47,7 @@
 ## Analiza uporabe komunikacijskih in informacijskih tehnologij v Evropi
 * Avtor: Anže Mramor
 * Repozitorij: https://github.com/M4rble/APPR-2019-20
+
+## Analiza angleške prve lige
+* Avtor: Jan Založnik
+* Repozitorij: https://github.com/zaloznikjan7/APPR-2019-20

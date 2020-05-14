@@ -940,3 +940,6 @@
 [submodule "2019-20/2020-05-04_08/Anze-Mramor"]
 	path = 2019-20/2020-05-04_08/Anze-Mramor
 	url = https://github.com/M4rble/APPR-2019-20.git
+[submodule "2019-20/2020-05-11_15/Jan-Zaloznik"]
+	path = 2019-20/2020-05-11_15/Jan-Zaloznik
+	url = https://github.com/zaloznikjan7/APPR-2019-20.git
