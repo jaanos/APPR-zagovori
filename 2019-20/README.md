@@ -51,3 +51,7 @@
 ## Analiza angleške prve lige
 * Avtor: Jan Založnik
 * Repozitorij: https://github.com/zaloznikjan7/APPR-2019-20
+
+## Eurojackpot
+* Avtor: Tjaša Mehle
+* Repozitorij: https://github.com/tjasamehle/APPR-2018-19
