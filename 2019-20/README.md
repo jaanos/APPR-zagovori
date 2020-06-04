@@ -55,3 +55,7 @@
 ## Eurojackpot
 * Avtor: Tjaša Mehle
 * Repozitorij: https://github.com/tjasamehle/APPR-2018-19
+
+## Analiza stanovanjskih razmer in opremljenosti stanovanj po občinah v Sloveniji
+* Avtor: Enja Erker
+* Repozitorij: https://github.com/EnjaErker/APPR-2019-20
