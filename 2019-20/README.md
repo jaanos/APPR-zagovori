@@ -40,6 +40,10 @@
 * Avtor: Aljoša Rebolj
 * Repozitorij: https://github.com/BulaRebula/APPR-2019-20
 
+## Analiza tedenskih delovnih ur evropskih držav
+* Avtor: Filip Nose
+* Repozitorij: https://github.com/NoseF17/APPR-2019-20
+
 ## Starostne strukture po svetu
 * Avtor: Mitja Mandić
 * Repozitorij: https://github.com/mitja-mandic/APPR-2019-20

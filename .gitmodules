@@ -949,3 +949,6 @@
 [submodule "2019-20/2020-06-01_05/Enja-Erker"]
 	path = 2019-20/2020-06-01_05/Enja-Erker
 	url = https://github.com/EnjaErker/APPR-2019-20.git
+[submodule "2019-20/2020-03-23_27/Filip-Nose"]
+	path = 2019-20/2020-03-23_27/Filip-Nose
+	url = https://github.com/NoseF17/APPR-2019-20.git
