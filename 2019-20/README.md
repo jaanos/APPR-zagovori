@@ -63,3 +63,7 @@
 ## Analiza stanovanjskih razmer in opremljenosti stanovanj po občinah v Sloveniji
 * Avtor: Enja Erker
 * Repozitorij: https://github.com/EnjaErker/APPR-2019-20
+
+## Kreditno tveganje v Nemčiji
+* Avtor: Stefan Đekanović
+* Repozitorij: https://github.com/sdekanovic/APPR-2019-20
