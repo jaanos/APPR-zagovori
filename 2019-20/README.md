@@ -67,3 +67,7 @@
 ## Kreditno tveganje v Nemčiji
 * Avtor: Stefan Đekanović
 * Repozitorij: https://github.com/sdekanovic/APPR-2019-20
+
+## Analiza energetike v Sloveniji
+* Avtor: Maj Gaberšček
+* Repozitorij: https://github.com/majbc1999/APPR-2019-20

@@ -955,3 +955,6 @@
 [submodule "2019-20/2020-08-03_07/Stefan-Djekanovic"]
 	path = 2019-20/2020-08-03_07/Stefan-Djekanovic
 	url = https://github.com/sdekanovic/APPR-2019-20.git
+[submodule "2019-20/2020-08-03_07/Maj-Gaberscek"]
+	path = 2019-20/2020-08-03_07/Maj-Gaberscek
+	url = https://github.com/majbc1999/APPR-2019-20.git
