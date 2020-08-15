@@ -71,3 +71,7 @@
 ## Analiza energetike v Sloveniji
 * Avtor: Maj Gaberšček
 * Repozitorij: https://github.com/majbc1999/APPR-2019-20
+
+## Analiza košarkarjev lige NBA
+* Avtor: Jure Babnik
+* Repozitorij: https://github.com/Babnik21/APPR-2019-20
