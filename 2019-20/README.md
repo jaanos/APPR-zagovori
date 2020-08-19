@@ -75,3 +75,7 @@
 ## Analiza košarkarjev lige NBA
 * Avtor: Jure Babnik
 * Repozitorij: https://github.com/Babnik21/APPR-2019-20
+
+## Rodnost po državah sveta
+* Avtor: Marcel Špehonja
+* Repozitorij: https://github.com/1marcelspehonja/APPR-2018-19
