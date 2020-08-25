@@ -79,3 +79,7 @@
 ## Rodnost po državah sveta
 * Avtor: Marcel Špehonja
 * Repozitorij: https://github.com/1marcelspehonja/APPR-2018-19
+
+## Analiza okolja v Sloveniji
+* Avtor: Žan Mikola
+* Repozitorij: https://github.com/zanmikola/APPR-2019-20
