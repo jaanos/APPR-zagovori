@@ -87,3 +87,7 @@
 ## Analiza zdravstva v Evropi
 * Avtor: Eva Rozman
 * Repozitorij: https://github.com/evarozman/APPR-2018-19
+
+## Analiza prestopov kluba FC Barcelona
+* Avtor: Martin Kokošinek
+* Repozitorij: https://github.com/Marsovc1/APPR-2019-20
