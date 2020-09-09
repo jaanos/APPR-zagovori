@@ -83,3 +83,7 @@
 ## Analiza okolja v Sloveniji
 * Avtor: Žan Mikola
 * Repozitorij: https://github.com/zanmikola/APPR-2019-20
+
+## Analiza zdravstva v Evropi
+* Avtor: Eva Rozman
+* Repozitorij: https://github.com/evarozman/APPR-2018-19
