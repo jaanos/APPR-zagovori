@@ -91,3 +91,7 @@
 ## Analiza prestopov kluba FC Barcelona
 * Avtor: Martin Kokošinek
 * Repozitorij: https://github.com/Marsovc1/APPR-2019-20
+
+## Analiza poslovanja na platformi Olist
+* Avtor: Tin Markon
+* Repozitorij: https://github.com/DiogenesB/APPR-2019-20
