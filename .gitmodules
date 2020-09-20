@@ -976,3 +976,6 @@
 [submodule "2019-20/2020-09-07_11/Tin-Markon"]
 	path = 2019-20/2020-09-07_11/Tin-Markon
 	url = https://github.com/DiogenesB/APPR-2019-20.git
+[submodule "2019-20/2020-09-14_18/Rok-Stanic"]
+	path = 2019-20/2020-09-14_18/Rok-Stanic
+	url = https://github.com/StanicR17/APPR-2019-20.git

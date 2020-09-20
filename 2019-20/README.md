@@ -95,3 +95,7 @@
 ## Analiza poslovanja na platformi Olist
 * Avtor: Tin Markon
 * Repozitorij: https://github.com/DiogenesB/APPR-2019-20
+
+## COVID-19 v Sloveniji in po svetu
+* Avtor: Rok Stanič
+* Repozitorij: https://github.com/StanicR17/APPR-2019-20
