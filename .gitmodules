@@ -979,3 +979,9 @@
 [submodule "2019-20/2020-09-14_18/Rok-Stanic"]
 	path = 2019-20/2020-09-14_18/Rok-Stanic
 	url = https://github.com/StanicR17/APPR-2019-20.git
+[submodule "2019-20/2020-11-02_06/Matevz-Kopac"]
+	path = 2019-20/2020-11-02_06/Matevz-Kopac
+	url = https://github.com/MatevzKopac/APPR-2019-20.git
+[submodule "2019-20/2020-11-02_06/Filip-Skrlj"]
+	path = 2019-20/2020-11-02_06/Filip-Skrlj
+	url = https://github.com/kuskus-star/APPR-2019-20.git

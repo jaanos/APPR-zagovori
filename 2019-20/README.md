@@ -99,3 +99,11 @@
 ## COVID-19 v Sloveniji in po svetu
 * Avtor: Rok Stanič
 * Repozitorij: https://github.com/StanicR17/APPR-2019-20
+
+## Analiza zdravstvenih podjetij v Sloveniji
+* Avtor: Matevž Kopač
+* Repozitorij: https://github.com/MatevzKopac/APPR-2019-20
+
+## Analiza neudeležbe na kulturnih prireditvah v Sloveniji
+* Avtor: Filip Škrlj
+* Repozitorij: https://github.com/kuskus-star/APPR-2019-20
