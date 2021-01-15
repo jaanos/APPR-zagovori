@@ -1,6 +1,6 @@
 # Zagovori APPR
 
-Seznami dokončanih projektov: [2014/15](2014-15/) \| [2015/16](2015-16/) \| [2017](2017/) \| [2017/18](2017-18/) \| [2018/19](2018-19/) \| [2019/20](2019-20/)
+Seznami dokončanih projektov: [2014/15](2014-15/) \| [2015/16](2015-16/) \| [2017](2017/) \| [2017/18](2017-18/) \| [2018/19](2018-19/) \| [2019/20](2019-20/) \| [2020/21](2020-21/)
 
 Tukaj zbiramo delujoče različice vaših projektov, ki jih boste predstavili v zadnjem tednu semestra, kasneje pa tudi zagovorili na izpitu.
 
@@ -16,7 +16,7 @@ Na zadnjo različico vašega projekta greste tako, da pri izbiri _Branch_ (nad s
 
 Če bi želeli posodobiti povezavo, na tem repozitoriju odprite zadevo in v njem navedite številko commita, ki bi jo radi vključili. Jaz si ga bom naložil, in če vse deluje, tudi posodobil povezavo. Vi lahko medtem nemoteno delate, brez skrbi, da bi kaj pokvarili. Šifro commita navedite v obliki
 ```
-jaanos/APPR-2019-20@a9134eef43d588efed210729d595cbda547bf963
+jaanos/APPR-2020-21@e46d3781b6c0e7f27ce6b005b37a7d633e19719b
 ```
 Najprej torej navedite svoje uporabniško ime, nato za `/` ime svojega repozitorija, nazadnje pa za `@` še vsaj prvih sedem števk šifre commita. GitHub vam bo avtomatsko pretvoril tak niz v povezavo na vaš commit (to lahko preverite, če kliknete na _View_, da vidite, kako vaša zadeva izgleda).
 
