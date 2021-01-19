@@ -7,3 +7,7 @@
 ## Analiza zunanje trgovine Nemčije
 * Avtor: Matea Naumovska
 * Repozitorij: https://github.com/mateabt/APPR-2020-21
+
+## Analiza delovno aktivnega prebivalstva Slovenije
+* Avtor: Neža Lesnjak
+* Repozitorij: https://github.com/NezaLesnjak/APPR-2020-21
