@@ -11,3 +11,7 @@
 ## Analiza delovno aktivnega prebivalstva Slovenije
 * Avtor: Neža Lesnjak
 * Repozitorij: https://github.com/NezaLesnjak/APPR-2020-21
+
+## Analiza gradbeništva v Sloveniji
+* Avtor: Jaka Mrak
+* Repozitorij: https://github.com/jakamrak/APPR-2020-21
