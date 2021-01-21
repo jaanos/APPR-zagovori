@@ -15,3 +15,7 @@
 ## Analiza gradbeništva v Sloveniji
 * Avtor: Jaka Mrak
 * Repozitorij: https://github.com/jakamrak/APPR-2020-21
+
+## Analiza indeksa človekovega razvoja (HDI)
+* Avtor: Iza Čebulj
+* Repozitorij: https://github.com/CebuljIza/APPR-2020-21
