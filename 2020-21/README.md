@@ -19,3 +19,7 @@
 ## Analiza indeksa človekovega razvoja (HDI)
 * Avtor: Iza Čebulj
 * Repozitorij: https://github.com/CebuljIza/APPR-2020-21
+
+## Analiza najboljših svetovnih delfinistov
+* Avtor: Jaka Svetek
+* Repozitorij: https://github.com/JakaSvetek/APPR-2020-21

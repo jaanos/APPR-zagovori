@@ -1000,3 +1000,6 @@
 [submodule "2020-21/2021-01-18_22/Iza-Cebulj"]
 	path = 2020-21/2021-01-18_22/Iza-Cebulj
 	url = https://github.com/CebuljIza/APPR-2020-21.git
+[submodule "2020-21/2021-01-18_22/Jaka-Svetek"]
+	path = 2020-21/2021-01-18_22/Jaka-Svetek
+	url = https://github.com/JakaSvetek/APPR-2020-21.git
