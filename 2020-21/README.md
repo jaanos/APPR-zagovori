@@ -23,3 +23,7 @@
 ## Analiza najboljših svetovnih delfinistov
 * Avtor: Jaka Svetek
 * Repozitorij: https://github.com/JakaSvetek/APPR-2020-21
+
+## Analiza delniških trgov in tržnih kapitalizacij borz
+* Avtor: Tilen Klinc
+* Repozitorij: https://github.com/tilenklinc/APPR_projektna

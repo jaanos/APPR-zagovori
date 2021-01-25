@@ -1003,3 +1003,6 @@
 [submodule "2020-21/2021-01-18_22/Jaka-Svetek"]
 	path = 2020-21/2021-01-18_22/Jaka-Svetek
 	url = https://github.com/JakaSvetek/APPR-2020-21.git
+[submodule "2020-21/2021-01-25_29/Tilen-Klinc"]
+	path = 2020-21/2021-01-25_29/Tilen-Klinc
+	url = https://github.com/tilenklinc/APPR_projektna.git
