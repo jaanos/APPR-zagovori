@@ -27,3 +27,7 @@
 ## Analiza delniških trgov in tržnih kapitalizacij borz
 * Avtor: Tilen Klinc
 * Repozitorij: https://github.com/tilenklinc/APPR_projektna
+
+## Analiza razpoložljivega dohodka gospodinjstev v Sloveniji
+* Avtor: Urban Rupnik
+* Repozitorij: https://github.com/UrbanRupnik/APPR-2020-21
