@@ -31,3 +31,7 @@
 ## Analiza razpoložljivega dohodka gospodinjstev v Sloveniji
 * Avtor: Urban Rupnik
 * Repozitorij: https://github.com/UrbanRupnik/APPR-2020-21
+
+## Analiza sekundarnega in terciarnega izobraževanja
+* Avtor: Ana Marija Okorn
+* Repozitorij: https://github.com/OkornA18/APPR-2020-21
