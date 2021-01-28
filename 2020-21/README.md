@@ -35,3 +35,7 @@
 ## Analiza sekundarnega in terciarnega izobraževanja
 * Avtor: Ana Marija Okorn
 * Repozitorij: https://github.com/OkornA18/APPR-2020-21
+
+## Analiza bruto mesečnih plač v Sloveniji
+* Avtor: Neža Kržan
+* Repozitorij: https://github.com/nezakrzan/APPR-2020-21
