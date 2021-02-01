@@ -39,3 +39,11 @@
 ## Analiza bruto mesečnih plač v Sloveniji
 * Avtor: Neža Kržan
 * Repozitorij: https://github.com/nezakrzan/APPR-2020-21
+
+## Plače v Sloveniji in Evropi
+* Avtor: Brina Ribič
+* Repozitorij: https://github.com/brinaribic/APPR-2020-21
+
+## Analiza socialno-gospodarskih razlik med zveznimi državami ZDA
+* Avtor: Tia Krofel
+* Repozitorij: https://github.com/tiakrofel/APPR-2020-21
