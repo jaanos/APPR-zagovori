@@ -47,3 +47,11 @@
 ## Analiza socialno-gospodarskih razlik med zveznimi državami ZDA
 * Avtor: Tia Krofel
 * Repozitorij: https://github.com/tiakrofel/APPR-2020-21
+
+## Analiza plač v ZDA
+* Avtor: Matej Rojec
+* Repozitorij: https://github.com/MatejRojec/APPR-2020-21
+
+## Količine pridelanih kmetijskih pridelkov in število živine v Sloveniji
+* Avtor: Tjaša Trafela
+* Repozitorij: https://github.com/TrafelaT18/APPR-2020-21

@@ -1021,3 +1021,9 @@
 [submodule "2020-21/2021-02-01_05/Tia-Krofel"]
 	path = 2020-21/2021-02-01_05/Tia-Krofel
 	url = https://github.com/tiakrofel/APPR-2020-21.git
+[submodule "2020-21/2021-02-01_05/Matej-Rojec"]
+	path = 2020-21/2021-02-01_05/Matej-Rojec
+	url = https://github.com/MatejRojec/APPR-2020-21.git
+[submodule "2020-21/2021-02-01_05/Tjasa-Trafela"]
+	path = 2020-21/2021-02-01_05/Tjasa-Trafela
+	url = https://github.com/TrafelaT18/APPR-2020-21.git
