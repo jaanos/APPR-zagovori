@@ -1027,3 +1027,6 @@
 [submodule "2020-21/2021-02-01_05/Tjasa-Trafela"]
 	path = 2020-21/2021-02-01_05/Tjasa-Trafela
 	url = https://github.com/TrafelaT18/APPR-2020-21.git
+[submodule "2020-21/2021-02-08_12/Sida-Talovic"]
+	path = 2020-21/2021-02-08_12/Sida-Talovic
+	url = https://github.com/sidatal1/APPR-2020-21.git

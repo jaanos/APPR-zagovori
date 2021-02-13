@@ -55,3 +55,7 @@
 ## Količine pridelanih kmetijskih pridelkov in število živine v Sloveniji
 * Avtor: Tjaša Trafela
 * Repozitorij: https://github.com/TrafelaT18/APPR-2020-21
+
+## Stopnja brezposelnosti v Sloveniji in drugih evropskih državah
+* Avtor: Šida Talović
+* Repozitorij: https://github.com/sidatal1/APPR-2020-21
