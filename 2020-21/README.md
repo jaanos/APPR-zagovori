@@ -59,3 +59,7 @@
 ## Stopnja brezposelnosti v Sloveniji in drugih evropskih državah
 * Avtor: Šida Talović
 * Repozitorij: https://github.com/sidatal1/APPR-2020-21
+
+## Analiza rodnosti v Sloveniji in primerjava z evropskimi državami
+* Avtor: Tinkara Čadež
+* Repozitorij: https://github.com/tinkaracadez/APPR-2020-21

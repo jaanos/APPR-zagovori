@@ -1030,3 +1030,6 @@
 [submodule "2020-21/2021-02-08_12/Sida-Talovic"]
 	path = 2020-21/2021-02-08_12/Sida-Talovic
 	url = https://github.com/sidatal1/APPR-2020-21.git
+[submodule "2020-21/2021-02-15_19/Tinkara-Cadez"]
+	path = 2020-21/2021-02-15_19/Tinkara-Cadez
+	url = https://github.com/tinkaracadez/APPR-2020-21.git
