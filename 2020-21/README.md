@@ -63,3 +63,7 @@
 ## Analiza rodnosti v Sloveniji in primerjava z evropskimi državami
 * Avtor: Tinkara Čadež
 * Repozitorij: https://github.com/tinkaracadez/APPR-2020-21
+
+## Analiza najbogatejših ljudi na svetu v letu 2020
+* Avtor: Vito Rozman
+* Repozitorij: https://github.com/vitorozman/APPR-2020-21
