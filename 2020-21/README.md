@@ -67,3 +67,7 @@
 ## Analiza najbogatejših ljudi na svetu v letu 2020
 * Avtor: Vito Rozman
 * Repozitorij: https://github.com/vitorozman/APPR-2020-21
+
+## Analiza uvoza in izvoza v Sloveniji
+* Avtor: Jaša Pozne
+* Repozitorij: https://github.com/jasapozne/APPR-2020-21

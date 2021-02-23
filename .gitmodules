@@ -1036,3 +1036,6 @@
 [submodule "2020-21/2021-02-15_19/Vito-Rozman"]
 	path = 2020-21/2021-02-15_19/Vito-Rozman
 	url = https://github.com/vitorozman/APPR-2020-21.git
+[submodule "2020-21/2021-02-15_19/Jasa-Pozne"]
+	path = 2020-21/2021-02-15_19/Jasa-Pozne
+	url = https://github.com/jasapozne/APPR-2020-21.git
