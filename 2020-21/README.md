@@ -71,3 +71,7 @@
 ## Analiza uvoza in izvoza v Sloveniji
 * Avtor: Jaša Pozne
 * Repozitorij: https://github.com/jasapozne/APPR-2020-21
+
+## Analiza turizma v Sloveniji
+* Avtor: Žiga Gartner
+* Repozitorij: https://github.com/zigagartner/APPR-2020-21

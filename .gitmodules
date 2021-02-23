@@ -1039,3 +1039,6 @@
 [submodule "2020-21/2021-02-15_19/Jasa-Pozne"]
 	path = 2020-21/2021-02-15_19/Jasa-Pozne
 	url = https://github.com/jasapozne/APPR-2020-21.git
+[submodule "2020-21/2021-02-22_26/Ziga-Gartner"]
+	path = 2020-21/2021-02-22_26/Ziga-Gartner
+	url = https://github.com/zigagartner/APPR-2020-21.git
