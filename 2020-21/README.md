@@ -75,3 +75,7 @@
 ## Analiza turizma v Sloveniji
 * Avtor: Žiga Gartner
 * Repozitorij: https://github.com/zigagartner/APPR-2020-21
+
+## Analiza mesečnih plač v Sloveniji po panogah in regijah
+* Avtor: Pia Klemenc
+* Repozitorij: https://github.com/piaklemenc/APPR-2020-21
