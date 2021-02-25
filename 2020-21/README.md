@@ -79,3 +79,7 @@
 ## Analiza mesečnih plač v Sloveniji po panogah in regijah
 * Avtor: Pia Klemenc
 * Repozitorij: https://github.com/piaklemenc/APPR-2020-21
+
+## Analiza cestnega prometa v Sloveniji
+* Avtor: Nikodin Sedlarević
+* Repozitorij: https://github.com/NikiFMF10/APPR-2020-21

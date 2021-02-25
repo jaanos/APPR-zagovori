@@ -1045,3 +1045,6 @@
 [submodule "2020-21/2021-02-22_26/Pia-Klemenc"]
 	path = 2020-21/2021-02-22_26/Pia-Klemenc
 	url = https://github.com/piaklemenc/APPR-2020-21.git
+[submodule "2020-21/2021-02-22_26/Nikodin-Sedlarevic"]
+	path = 2020-21/2021-02-22_26/Nikodin-Sedlarevic
+	url = https://github.com/NikiFMF10/APPR-2020-21.git
