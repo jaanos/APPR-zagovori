@@ -83,3 +83,7 @@
 ## Analiza cestnega prometa v Sloveniji
 * Avtor: Nikodin Sedlarević
 * Repozitorij: https://github.com/NikiFMF10/APPR-2020-21
+
+## Analiza spletnih nakupov posameznikov v EU
+* Avtor: Maja Abraham
+* Repozitorij: https://github.com/majaabraham/APPR-2020-21
