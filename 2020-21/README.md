@@ -87,3 +87,7 @@
 ## Analiza spletnih nakupov posameznikov v EU
 * Avtor: Maja Abraham
 * Repozitorij: https://github.com/majaabraham/APPR-2020-21
+
+## Analiza glasbenih festivalov
+* Avtor: Oskar Vavtar
+* Repozitorij: https://github.com/oskarvavtar/APPR-2020-21
