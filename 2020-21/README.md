@@ -91,3 +91,11 @@
 ## Analiza glasbenih festivalov
 * Avtor: Oskar Vavtar
 * Repozitorij: https://github.com/oskarvavtar/APPR-2020-21
+
+## Analiza podjetja Apple v primerjavi s S&P500
+* Avtor: Ian Spiler
+* Repozitorij: https://github.com/ian-spiller/APPR-2020-21
+
+## Analiza stanovanjskih razmer v Sloveniji
+* Avtor: Anja Kokalj
+* Repozitorij: https://github.com/KokaljAnja/APPR-2020-21.git

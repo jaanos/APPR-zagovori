@@ -1054,3 +1054,9 @@
 [submodule "2020-21/2021-02-22_26/Oskar-Vavtar"]
 	path = 2020-21/2021-02-22_26/Oskar-Vavtar
 	url = https://github.com/oskarvavtar/APPR-2020-21.git
+[submodule "2020-21/2021-02-22_26/Ian-Spiller"]
+	path = 2020-21/2021-02-22_26/Ian-Spiller
+	url = https://github.com/ian-spiller/APPR-2020-21.git
+[submodule "2020-21/2021-02-22_26/Anja-Kokalj"]
+	path = 2020-21/2021-02-22_26/Anja-Kokalj
+	url = https://github.com/KokaljAnja/APPR-2020-21.git
