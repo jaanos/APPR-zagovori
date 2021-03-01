@@ -99,3 +99,7 @@
 ## Analiza stanovanjskih razmer v Sloveniji
 * Avtor: Anja Kokalj
 * Repozitorij: https://github.com/KokaljAnja/APPR-2020-21.git
+
+## Vpliv COVIDA-19 na gospodarstvo v Sloveniji in po svetu
+* Avtor: Jure Sternad
+* Repozitorij: https://github.com/juresternad/APPR-2020-21

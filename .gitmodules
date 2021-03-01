@@ -1060,3 +1060,6 @@
 [submodule "2020-21/2021-02-22_26/Anja-Kokalj"]
 	path = 2020-21/2021-02-22_26/Anja-Kokalj
 	url = https://github.com/KokaljAnja/APPR-2020-21.git
+[submodule "2020-21/2021-03-01_05/Jure-Sternad"]
+	path = 2020-21/2021-03-01_05/Jure-Sternad
+	url = https://github.com/juresternad/APPR-2020-21.git
