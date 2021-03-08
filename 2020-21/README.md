@@ -103,3 +103,7 @@
 ## Vpliv COVIDA-19 na gospodarstvo v Sloveniji in po svetu
 * Avtor: Jure Sternad
 * Repozitorij: https://github.com/juresternad/APPR-2020-21
+
+## Analiza rezultatov tekmovanj v ritmični gimnastiki
+* Avtor: Lucija Udir
+* Repozitorij: https://github.com/UdirL18/APPR-2019-20
