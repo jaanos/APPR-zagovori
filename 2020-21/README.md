@@ -111,3 +111,7 @@
 ## Analiza sestave prebivalstva v Sloveniji
 * Avtor: Urban Merhar
 * Repozitorij: https://github.com/urbanmerhar/APPR-2019-20
+
+## Analiza transporta v Sloveniji
+* Avtor: Eva Babnik
+* Repozitorij: https://github.com/evababnik/APPR-2019-20

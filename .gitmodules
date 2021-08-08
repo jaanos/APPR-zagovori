@@ -1069,3 +1069,6 @@
 [submodule "2020-21/2021-05-03_07/Urban-Merhar"]
 	path = 2020-21/2021-05-03_07/Urban-Merhar
 	url = https://github.com/urbanmerhar/APPR-2019-20.git
+[submodule "2020-21/2021-08-02_06/Eva-Babnik"]
+	path = 2020-21/2021-08-02_06/Eva-Babnik
+	url = https://github.com/evababnik/APPR-2019-20.git
