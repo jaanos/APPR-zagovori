@@ -115,3 +115,7 @@
 ## Analiza transporta v Sloveniji
 * Avtor: Eva Babnik
 * Repozitorij: https://github.com/evababnik/APPR-2019-20
+
+## Trg rabljenih avtomobilov v Sloveniji
+* Avtor: Žan Jarc
+* Repozitorij: https://github.com/ZanJarc/APPR-Projekt
