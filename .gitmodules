@@ -1075,3 +1075,6 @@
 [submodule "2020-21/2021-08-09_13/Zan-Jarc"]
 	path = 2020-21/2021-08-09_13/Zan-Jarc
 	url = https://github.com/ZanJarc/APPR-Projekt.git
+[submodule "2020-21/2021-08-09_13/Nina-Velkavrh"]
+	path = 2020-21/2021-08-09_13/Nina-Velkavrh
+	url = https://github.com/Nina2809/APPR-2020-21.git

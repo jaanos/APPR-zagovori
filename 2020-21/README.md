@@ -119,3 +119,7 @@
 ## Trg rabljenih avtomobilov v Sloveniji
 * Avtor: Žan Jarc
 * Repozitorij: https://github.com/ZanJarc/APPR-Projekt
+
+## Poroke in razveze v Sloveniji in izbranih evropskih državah
+* Avtor: Nina Velkavrh
+* Repozitorij: https://github.com/Nina2809/APPR-2020-21
