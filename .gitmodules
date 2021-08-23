@@ -1078,3 +1078,9 @@
 [submodule "2020-21/2021-08-09_13/Nina-Velkavrh"]
 	path = 2020-21/2021-08-09_13/Nina-Velkavrh
 	url = https://github.com/Nina2809/APPR-2020-21.git
+[submodule "2020-21/2021-08-23_27/Jan-Crne"]
+	path = 2020-21/2021-08-23_27/Jan-Crne
+	url = https://github.com/jankoprogramko/APPR-2020-21.git
+[submodule "2020-21/2021-08-23_27/Nika-Furlan"]
+	path = 2020-21/2021-08-23_27/Nika-Furlan
+	url = https://github.com/NikaFurlan/APPR-2020-21.git

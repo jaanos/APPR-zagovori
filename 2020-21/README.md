@@ -123,3 +123,11 @@
 ## Poroke in razveze v Sloveniji in izbranih evropskih državah
 * Avtor: Nina Velkavrh
 * Repozitorij: https://github.com/Nina2809/APPR-2020-21
+
+## Analiza igralcev angleške Premier Lige v sezoni 2018/19
+* Avtor: Jan Črne
+* Repozitorij: https://github.com/jankoprogramko/APPR-2020-21
+
+## Analiza delovno aktivnega prebivalstva
+* Avtor: Nika Furlan
+* Repozitorij: https://github.com/NikaFurlan/APPR-2020-21
