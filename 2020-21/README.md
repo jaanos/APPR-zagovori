@@ -131,3 +131,11 @@
 ## Analiza delovno aktivnega prebivalstva
 * Avtor: Nika Furlan
 * Repozitorij: https://github.com/NikaFurlan/APPR-2020-21
+
+## Analiza nogometnih ekip v TOP 5 evropskih ligah
+* Avtor: Mykola Shafranov
+* Repozitorij: https://github.com/Shafko/APPR-2020-21
+
+## Analiza plač v Evropi
+* Avtor: Lenart Zavrtanik
+* Repozitorij: https://github.com/Lenart11/APPR-2019-20
