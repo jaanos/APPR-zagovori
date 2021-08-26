@@ -1090,3 +1090,6 @@
 [submodule "2020-21/2021-08-23_27/Lenart-Zavrtanik"]
 	path = 2020-21/2021-08-23_27/Lenart-Zavrtanik
 	url = https://github.com/Lenart11/APPR-2019-20.git
+[submodule "2020-21/2021-08-23_27/Gasper-Potocnik"]
+	path = 2020-21/2021-08-23_27/Gasper-Potocnik
+	url = https://github.com/gapo8/APPR-2020-21.git

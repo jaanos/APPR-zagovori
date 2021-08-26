@@ -139,3 +139,7 @@
 ## Analiza plač v Evropi
 * Avtor: Lenart Zavrtanik
 * Repozitorij: https://github.com/Lenart11/APPR-2019-20
+
+## Analiza košarkarskih igralcev NBA od sezone 2000/2001 do sezone 2019/2020
+* Avtor: Gašper Potočnik
+* Repozitorij: https://github.com/gapo8/APPR-2020-21
