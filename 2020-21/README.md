@@ -143,3 +143,7 @@
 ## Analiza košarkarskih igralcev NBA od sezone 2000/2001 do sezone 2019/2020
 * Avtor: Gašper Potočnik
 * Repozitorij: https://github.com/gapo8/APPR-2020-21
+
+## Analiza bolniškega staleža v Sloveniji
+* Avtor: Klara Doler
+* Repozitorij: https://github.com/KlaraDoler/APPR-2020-21
