@@ -147,3 +147,11 @@
 ## Analiza bolniškega staleža v Sloveniji
 * Avtor: Klara Doler
 * Repozitorij: https://github.com/KlaraDoler/APPR-2020-21
+
+## Meddržavne selitve v Sloveniji
+* Avtor: Klara Širca
+* Repozitorij: https://github.com/klarasirca/APPR-2020-21
+
+## Analiza notranjih selitev in stanovanjskih pogojev v Sloveniji
+* Avtor: Marija Janeva
+* Repozitorij: https://github.com/marijajaneva/APPR-2020-21

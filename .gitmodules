@@ -1096,3 +1096,9 @@
 [submodule "2020-21/2021-08-23_27/Klara-Doler"]
 	path = 2020-21/2021-08-23_27/Klara-Doler
 	url = https://github.com/KlaraDoler/APPR-2020-21.git
+[submodule "2020-21/2021-08-23_27/Klara-Sirca"]
+	path = 2020-21/2021-08-23_27/Klara-Sirca
+	url = https://github.com/klarasirca/APPR-2020-21.git
+[submodule "2020-21/2021-08-30_09-03/Marija-Janeva"]
+	path = 2020-21/2021-08-30_09-03/Marija-Janeva
+	url = https://github.com/marijajaneva/APPR-2020-21.git
