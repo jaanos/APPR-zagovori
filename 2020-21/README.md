@@ -155,3 +155,7 @@
 ## Analiza notranjih selitev in stanovanjskih pogojev v Sloveniji
 * Avtor: Marija Janeva
 * Repozitorij: https://github.com/marijajaneva/APPR-2020-21
+
+## Analiza samomorov v Evropi
+* Avtor: Klara Penko
+* Repozitorij: https://github.com/Klarapenko/APPR-2019-20
