@@ -159,3 +159,11 @@
 ## Analiza samomorov v Evropi
 * Avtor: Klara Penko
 * Repozitorij: https://github.com/Klarapenko/APPR-2019-20
+
+## Analiza vod in odpada v Sloveniji
+* Avtor: David Rozman
+* Repozitorij: https://github.com/DavidRozman/APPR-2020-21
+
+## Analiza polnih sezon Jürgena Kloppa v Liverpoolu
+* Avtor: Peter Tiselj
+* Repozitorij: https://github.com/petertiselj/APPR-2019-20
