@@ -167,3 +167,7 @@
 ## Analiza polnih sezon Jürgena Kloppa v Liverpoolu
 * Avtor: Peter Tiselj
 * Repozitorij: https://github.com/petertiselj/APPR-2019-20
+
+## Analiza neprevzetih paketov v spletni trgovini
+* Avtor: Oskar Kregar
+* Repozitorij: https://github.com/oskarkregar/APPR-2021 (zasebni repozitorij)
