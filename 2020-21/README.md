@@ -152,6 +152,10 @@
 * Avtor: Klara Širca
 * Repozitorij: https://github.com/klarasirca/APPR-2020-21
 
+## Analiza kriminalitete v Sloveniji
+* Avtor: Tinkara Žitko
+* Repozitorij: https://github.com/TInkara25/APPR-2019-20
+
 ## Analiza notranjih selitev in stanovanjskih pogojev v Sloveniji
 * Avtor: Marija Janeva
 * Repozitorij: https://github.com/marijajaneva/APPR-2020-21
@@ -171,3 +175,7 @@
 ## Analiza neprevzetih paketov v spletni trgovini
 * Avtor: Oskar Kregar
 * Repozitorij: https://github.com/oskarkregar/APPR-2021 (zasebni repozitorij)
+
+## Glasovanje Slovenije in Jugoslavije na Evroviziji
+* Avtor: Brina Pirc
+* Repozitorij: https://github.com/brinapirc/APPR-2020-21
